@@ -1,8 +1,17 @@
 {
-  "last_run": null,
-  "listings_fetched": 0,
-  "new_listings": 0,
-  "alerts_sent": 0,
+  "last_run": "2026-04-06T22:30:00",
+  "listings_fetched": 47,
+  "new_listings": 12,
+  "alerts_sent": 4,
   "outreach_sent": 0,
-  "sources_status": {}
+  "sources_status": {
+    "craigslist_mit": "error: page returned schema-only data, individual listings not extractable from search page",
+    "craigslist_downtown": "ok",
+    "bostonpads_cambridge": "ok",
+    "bostonpads_somerville": "ok (no listings passed date filter — all Sep 1+)",
+    "gmail_facebook": "ok (0 results — no Facebook group notification emails found)",
+    "gmail_google_groups": "ok (0 listings — only a join confirmation email found, not yet subscribed)",
+    "websearch": "ok (resource pointers found, no direct listings)",
+    "to_check": "ok (no URLs to check)"
+  }
 }

@@ -1,1 +1,134 @@
-{}
+{
+  "bostonpads-cambridge-5882402": {
+    "title": "$2,680 Studio Harvard Square",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/",
+    "price": 2680,
+    "source": "bostonpads",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8073193": {
+    "title": "$2,800 1BR Harvard Square",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8073193/",
+    "price": 2800,
+    "source": "bostonpads",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 8.4,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8080688": {
+    "title": "$2,300 Studio Porter Square",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080688/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 8.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8079048": {
+    "title": "$3,195 1BR Harvard Square (May 1)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8079048/",
+    "price": 3195,
+    "source": "bostonpads",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 7.6,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8079063": {
+    "title": "$3,135 1BR Harvard Square (July 1)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8079063/",
+    "price": 3135,
+    "source": "bostonpads",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 7.3,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926047309": {
+    "title": "$2,500 1BR Chinatown",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-modern-1br-near-financial/7926047309.html",
+    "price": 2500,
+    "source": "craigslist",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 7.1,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926040655": {
+    "title": "$2,300 Studio South End (Clarendon)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-south-end-clarendon-st-sunny-2nd/7926040655.html",
+    "price": 2300,
+    "source": "craigslist",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 7.1,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925976064": {
+    "title": "$2,750 Studio Back Bay (Comm Ave)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-sunny-top-floor-studio-on-comm/7925976064.html",
+    "price": 2750,
+    "source": "craigslist",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 7.1,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8080714": {
+    "title": "$2,600 1BR Mt. Auburn/Fresh Pond",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080714/",
+    "price": 2600,
+    "source": "bostonpads",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 6.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926009005": {
+    "title": "$2,050 Studio Fenway/Berklee",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-studio-steps-to-berklee-boco-ht/7926009005.html",
+    "price": 2050,
+    "source": "craigslist",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 6.7,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926048068": {
+    "title": "$2,800 1BR Charlestown",
+    "url": "https://boston.craigslist.org/gbs/apa/d/charlestown-junespacious-1broff-main/7926048068.html",
+    "price": 2800,
+    "source": "craigslist",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 6.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925954028": {
+    "title": "$2,600 1BR East Boston",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-bedroom-apartment-for-rent-prime/7925954028.html",
+    "price": 2600,
+    "source": "craigslist",
+    "first_seen": "2026-04-06T22:30:00",
+    "score": 4.7,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  }
+}
