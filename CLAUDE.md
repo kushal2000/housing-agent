@@ -122,16 +122,18 @@ python3 send_email.py "<contact_email>" "Inquiry about your <studio/1BR> at <add
 ```
 
 **Finding contact emails**: Don't give up if the listing page doesn't show an email directly:
-- For Craigslist: fetch the individual listing page and look for relay emails or contact info
+- For Craigslist: the anonymized relay email is behind JavaScript — `curl` and WebFetch CANNOT extract it. The `/reply/bos/apa/<id>` and `/contactinfo/` endpoints return 404 without a real browser session. If no email is found, flag the listing for Kushal to manually grab the email from the reply button in his browser.
 - For BostonPads: agents rarely publish emails on listings. WebSearch for `"<agent name>" "<company>" email` to find their email on ZoomInfo, RocketReach, company sites, etc.
 - For broker companies: check their `/contact/` or `/our-agents/` pages for general inquiry emails (e.g. `brokers@cabotandcompany.com`)
 - Phone-only is a last resort, not the default
 
-Email body template (use continuous paragraphs — no mid-sentence line breaks):
+Email body template (use continuous paragraphs — no mid-sentence line breaks — ALWAYS include listing link):
 ```
 Hi,
 
 I came across your listing for <address> and I'm very interested. I'm starting as a postdoc at MIT this June and am looking for a place with my partner, who works in downtown Boston.
+
+Listing: <full URL to listing>
 
 We'd love to schedule a viewing at your earliest convenience. We're happy to provide references and proof of employment.
 
