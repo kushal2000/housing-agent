@@ -44,7 +44,7 @@ Chinatown, Boston | 1BR/1ba | May 1, 2026
 Elevator, in-building laundry, steps to T (Orange/Red/Green). Walking distance to Financial District. No broker fee.  
 Score 7.1/10 | MIT 2/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 4/5  
 Digest: 6th April PM  
-Outreach: not available (phone only — Deb Tyner, 781-436-2484)  
+Outreach: sent to debtyner03@gmail.com  
 
 ### [$2,300 — Studio South End](https://boston.craigslist.org/gbs/apa/d/boston-south-end-clarendon-st-sunny-2nd/7926040655.html)
 Clarendon St, South End, Boston | Studio/1ba | July 1, 2026  
@@ -58,7 +58,7 @@ Commonwealth Ave, Back Bay, Boston | Studio/1ba | June 1, 2026
 300 sq ft, top floor with skylights, IN-UNIT washer/dryer, stainless steel, dishwasher, hardwood floors, heat/HW included, no broker fee.  
 Score 7.1/10 | MIT 2/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 5/5  
 Digest: 6th April PM  
-Outreach: not available (phone only — Wes Byrne, CABOT AND COMPANY, 857-366-1861)  
+Outreach: sent to brokers@cabotandcompany.com  
 
 ### [$2,600 — 1BR Mt. Auburn/Fresh Pond](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080714/)
 Mt. Auburn/Brattle/Fresh Pond, Cambridge | 1BR/1ba | June 2, 2026  
@@ -79,7 +79,7 @@ Main St, Charlestown, Boston | 1BR/1ba | June 1, 2026
 Newly updated kitchen, hardwood floors, AC, HW included, laundry, no broker fee, cats OK. 3rd floor brownstone.  
 Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 3/5 | Quality 5/5 | Date 5/5  
 Digest: 6th April PM  
-Outreach: not available (phone only — Deb Tyner, 781-436-2484)  
+Outreach: sent to debtyner03@gmail.com  
 
 ### [$2,600 — 1BR East Boston](https://boston.craigslist.org/gbs/apa/d/boston-bedroom-apartment-for-rent-prime/7925954028.html)
 East Boston, Boston | 1BR | Date not specified  

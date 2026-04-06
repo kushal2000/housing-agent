@@ -3,7 +3,7 @@
   "listings_fetched": 47,
   "new_listings": 12,
   "alerts_sent": 4,
-  "outreach_sent": 0,
+  "outreach_sent": 3,
   "sources_status": {
     "craigslist_mit": "error: page returned schema-only data, individual listings not extractable from search page",
     "craigslist_downtown": "ok",
