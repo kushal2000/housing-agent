@@ -114,7 +114,9 @@ For each new listing found, apply the scoring rubric from `state/search_profile.
 
 ### Step 4: Auto-Outreach
 
-For any new listing with score >= 6.0 that has a contact email and is NOT flagged as a potential scam:
+**Only auto-send outreach for listings scoring >= 8.0.** For listings scoring 6.0-7.9, add them to `please_check.md` for Kushal to review and approve before any email is sent.
+
+For any new listing with score >= 8.0 that has a contact email and is NOT flagged as a potential scam:
 
 Send an inquiry email via `send_email.py`:
 ```bash
@@ -258,6 +260,17 @@ Track all listings where outreach has been sent, with full details for follow-up
 | Notes | <commute details, standout features, urgency notes> |
 ```
 Update status when replies come in. Move to a "## Closed" section if rejected or lease signed elsewhere.
+
+### please_check.md entries
+Listings scoring 6.0-7.9 that need Kushal's approval before outreach is sent. Include enough detail for a quick yes/no decision.
+```
+### [<$price> — <studio/1BR> <neighborhood>](<listing_url>)
+Score <X.X>/10 | <neighborhood>, <city> | <available_date>  
+<One-line summary of key selling points>  
+Contact: <name> — <email or phone>  
+**Approve?** Reply "yes" or drop the Craigslist relay email here to send outreach.
+```
+When Kushal approves a listing, send the outreach, move the entry to `outreach.md`, and remove it from `please_check.md`.
 
 ## Known Agent Contacts
 
