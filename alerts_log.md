@@ -41,3 +41,9 @@ Record of all email alerts and outreach messages sent by the agent.
 - Score: 7.1/10
 - Recipient(s): brokers@cabotandcompany.com
 - Contact email: brokers@cabotandcompany.com (Wes Byrne, Cabot & Company)
+
+### 2026-04-06 23:00 — OUTREACH
+- Listing: [$2,300 Studio South End (Clarendon St)](https://boston.craigslist.org/gbs/apa/d/boston-south-end-clarendon-st-sunny-2nd/7926040655.html)
+- Score: 7.1/10
+- Recipient(s): f2c264b1a40434a59791b08a7c9b25a1@hous.craigslist.org
+- Contact email: f2c264b1a40434a59791b08a7c9b25a1@hous.craigslist.org (Craigslist relay)

@@ -73,7 +73,7 @@
     "first_seen": "2026-04-06T22:30:00",
     "score": 7.1,
     "alerted": true,
-    "outreach_sent": false,
+    "outreach_sent": true,
     "still_active": true
   },
   "craigslist-7925976064": {

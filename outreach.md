@@ -60,3 +60,23 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 | Scores | MIT 2/5 \| Downtown 4/5 \| Price 4/5 \| Quality 5/5 \| Date 5/5 |
 | Move-in costs | First month + $2,750 security |
 | Notes | Standout unit — in-unit W/D is rare at this price. "Most desirable location on the 2nd block of Commonwealth Ave." Heat/HW included offsets the price. MIT commute ~25 min via Green Line to Red Line. |
+
+---
+
+### [$2,300 — Studio South End (Clarendon St)](https://boston.craigslist.org/gbs/apa/d/boston-south-end-clarendon-st-sunny-2nd/7926040655.html)
+**Score:** 7.1/10 | **Sent:** 2026-04-06 23:00 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,300/mo |
+| Type | Studio / 1ba |
+| Location | Clarendon St, South End, Boston 02116 |
+| Available | July 1, 2026 |
+| Features | 375 sq ft, west-facing, high ceilings, bay windows, open kitchen with breakfast bar, dishwasher, gas stovetop, in-building laundry, cats OK (max 2), no smoking |
+| Contact | Via Craigslist relay |
+| Phone | N/A |
+| Email | f2c264b1a40434a59791b08a7c9b25a1@hous.craigslist.org |
+| Listing | https://boston.craigslist.org/gbs/apa/d/boston-south-end-clarendon-st-sunny-2nd/7926040655.html |
+| Scores | MIT 2/5 \| Downtown 4/5 \| Price 5/5 \| Quality 5/5 \| Date 3/5 |
+| Move-in costs | First month + $2,300 security |
+| Notes | Great price for South End. Steps from Back Bay Station & Copley T. Lease 12-14 months. July 1 move-in is slightly late but workable. |

@@ -51,7 +51,7 @@ Clarendon St, South End, Boston | Studio/1ba | July 1, 2026
 375 sq ft, west-facing with high ceilings and bay windows, in-building laundry, cats OK. Near Back Bay Station.  
 Score 7.1/10 | MIT 2/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 3/5  
 Digest: 6th April PM  
-Outreach: not available (no contact info found)  
+Outreach: sent to f2c264b1a40434a59791b08a7c9b25a1@hous.craigslist.org — [details](outreach.md)  
 
 ### [$2,750 — Studio Back Bay](https://boston.craigslist.org/gbs/apa/d/boston-sunny-top-floor-studio-on-comm/7925976064.html)
 Commonwealth Ave, Back Bay, Boston | Studio/1ba | June 1, 2026  
