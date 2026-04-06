@@ -9,21 +9,21 @@ Harvard Square, Cambridge | Studio/1ba | June 1, 2026
 Heat/HW included, no broker fee, laundry in building, dishwasher. Walking distance to Red Line.  
 Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5  
 ALERTED  
-Outreach: not available (phone only — Jehana Ray / Douglas Paul, 617-356-7740)  
+Outreach: sent to info@douglaspaulre.com — [details](outreach.md)  
 
 ### [$2,800 — 1BR Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8073193/)
 Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
 Heat/HW included, no broker fee, cat-friendly, hardwood floors, laundry in building.  
 Score 8.4/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5  
 ALERTED  
-Outreach: not available (phone only — Alexandra Gabriel, NextGen Realty, 617-699-1026)  
+Outreach: sent to info@nextgenrealty.com — [details](outreach.md)  
 
 ### [$2,300 — Studio Porter Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080688/)
 Porter Square, Cambridge | Studio/1ba | June 2, 2026  
 Heat/HW included, no broker fee, parking included, laundry in building. $236 below market.  
 Score 8.2/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5  
 ALERTED  
-Outreach: not available (phone only — Donicely Zapata, Boardwalk Properties, 617-595-0911)  
+Outreach: sent to info@boardwalkprops.com — [details](outreach.md)  
 
 ### [$3,195 — 1BR Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079048/)
 Harvard Square, Cambridge | 1BR/1ba | May 1, 2026  

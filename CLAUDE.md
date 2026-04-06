@@ -261,11 +261,12 @@ Update status when replies come in. Move to a "## Closed" section if rejected or
 
 ## Known Agent Contacts
 
-These have been verified and can be reused for future listings from the same agents:
+These have been verified and can be reused for future listings from the same agents/companies:
+- **Douglas Paul Real Estate**: info@douglaspaulre.com / (617) 782-0211 — agent email pattern: varies (firstinitial+lastname or firstname+lastinitial @douglaspaulre.com). Use info@ for reliability.
+- **NextGen Realty**: info@nextgenrealty.com / (617) 208-2100 — 1243 Commonwealth Ave, Allston
+- **Boardwalk Properties**: info@boardwalkprops.com / (617) 445-2200 (Mission Hill), (617) 566-5333 (Allston) — individual agent emails use `@boardwalkprops.com` (masked on ZoomInfo)
 - **Deb Tyner** (Citilink Apts Rentals): debtyner03@gmail.com / 781-436-2484
-- **Cabot & Company** (general broker inbox): brokers@cabotandcompany.com
-- **Boardwalk Properties** offices: (617) 445-2200 (Mission Hill), (617) 566-5333 (Allston) — individual agent emails use `@boardwalkprops.com` but are partially masked on ZoomInfo
-- **NextGen Realty**: (617) 208-2100, 1243 Commonwealth Ave, Allston — no public agent emails found
+- **Cabot & Company**: brokers@cabotandcompany.com / 213 Newbury St, Boston
 
 ## Important Notes
 

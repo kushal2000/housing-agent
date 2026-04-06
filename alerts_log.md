@@ -47,3 +47,21 @@ Record of all email alerts and outreach messages sent by the agent.
 - Score: 7.1/10
 - Recipient(s): f2c264b1a40434a59791b08a7c9b25a1@hous.craigslist.org
 - Contact email: f2c264b1a40434a59791b08a7c9b25a1@hous.craigslist.org (Craigslist relay)
+
+### 2026-04-06 23:15 — OUTREACH
+- Listing: [$2,680 Studio Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/)
+- Score: 8.9/10
+- Recipient(s): info@douglaspaulre.com
+- Contact email: info@douglaspaulre.com (Jehana Ray, Douglas Paul Real Estate)
+
+### 2026-04-06 23:15 — OUTREACH
+- Listing: [$2,800 1BR Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8073193/)
+- Score: 8.4/10
+- Recipient(s): info@nextgenrealty.com
+- Contact email: info@nextgenrealty.com (Alexandra Gabriel, NextGen Realty)
+
+### 2026-04-06 23:15 — OUTREACH
+- Listing: [$2,300 Studio Porter Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080688/)
+- Score: 8.2/10
+- Recipient(s): info@boardwalkprops.com
+- Contact email: info@boardwalkprops.com (Donicely Zapata, Boardwalk Properties)

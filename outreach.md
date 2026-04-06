@@ -4,6 +4,66 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,680 — Studio Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/)
+**Score:** 8.9/10 | **Sent:** 2026-04-06 23:15 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,680/mo |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge, MA 02138 |
+| Available | June 1, 2026 |
+| Features | Heat/HW included, no broker fee, laundry in building, dishwasher, microwave, driveway parking ($245/space optional), no pets |
+| Contact | Jehana Ray / Douglas Paul, Douglas Paul Real Estate |
+| Phone | (617) 356-7740 |
+| Email | info@douglaspaulre.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 5/5 |
+| Move-in costs | First $2,680 + Last $2,680 + Key $50 = $5,410 (no security deposit!) |
+| Notes | Top pick. Direct Red Line to both MIT and Financial District. Heat/HW included and $0 security deposit is rare. Walking distance to Harvard Yard and Red Line. |
+
+---
+
+### [$2,800 — 1BR Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8073193/)
+**Score:** 8.4/10 | **Sent:** 2026-04-06 23:15 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,800/mo |
+| Type | 1BR / 1ba |
+| Location | Harvard Square, Cambridge, MA 02138 |
+| Available | June 1, 2026 |
+| Features | Heat/HW included, no broker fee, cat-friendly, hardwood floors, laundry in building, refrigerator, water/sewer/garbage included |
+| Contact | Alexandra Gabriel, NextGen Realty |
+| Phone | (617) 699-1026 |
+| Email | info@nextgenrealty.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8073193/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 3/5 \| Quality 5/5 \| Date 5/5 |
+| Move-in costs | First $2,800 + Last $2,800 + Security $2,800 + Key $100 = $8,500 |
+| Notes | Full 1BR with heat/HW included — 6% below market. Cat-friendly. Direct Red Line access for both commutes. Listed as "Good Deal" on BostonPads. |
+
+---
+
+### [$2,300 — Studio Porter Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080688/)
+**Score:** 8.2/10 | **Sent:** 2026-04-06 23:15 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,300/mo |
+| Type | Studio / 1ba |
+| Location | Porter Square, Cambridge, MA 02140 |
+| Available | June 2, 2026 |
+| Features | Heat/HW included, no broker fee, parking included, laundry in building, water/sewer included |
+| Contact | Donicely Zapata, Boardwalk Properties |
+| Phone | (617) 595-0911 |
+| Email | info@boardwalkprops.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8080688/ |
+| Scores | MIT 3/5 \| Downtown 4/5 \| Price 5/5 \| Quality 5/5 \| Date 5/5 |
+| Move-in costs | First + Last + Security + $50 app fee |
+| Notes | Best value find. $236 below market with heat/HW AND parking included. Porter Square Red Line — 15 min to MIT, direct to downtown. |
+
+---
+
 ### [$2,500 — 1BR Chinatown](https://boston.craigslist.org/gbs/apa/d/boston-modern-1br-near-financial/7926047309.html)
 **Score:** 7.1/10 | **Sent:** 2026-04-06 22:45 | **Status:** Awaiting reply
 
