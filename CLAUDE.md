@@ -121,16 +121,19 @@ Send an inquiry email via `send_email.py`:
 python3 send_email.py "<contact_email>" "Inquiry about your <studio/1BR> at <address>" "<body>"
 ```
 
-Email body template:
+**Finding contact emails**: Don't give up if the listing page doesn't show an email directly:
+- For Craigslist: fetch the individual listing page and look for relay emails or contact info
+- For BostonPads: agents rarely publish emails on listings. WebSearch for `"<agent name>" "<company>" email` to find their email on ZoomInfo, RocketReach, company sites, etc.
+- For broker companies: check their `/contact/` or `/our-agents/` pages for general inquiry emails (e.g. `brokers@cabotandcompany.com`)
+- Phone-only is a last resort, not the default
+
+Email body template (use continuous paragraphs — no mid-sentence line breaks):
 ```
 Hi,
 
-I came across your listing for <address> and I'm very interested.
-I'm starting as a postdoc at MIT this June and am looking
-for a place with my partner, who works in downtown Boston.
+I came across your listing for <address> and I'm very interested. I'm starting as a postdoc at MIT this June and am looking for a place with my partner, who works in downtown Boston.
 
-We'd love to schedule a viewing at your earliest convenience.
-We're happy to provide references and proof of employment.
+We'd love to schedule a viewing at your earliest convenience. We're happy to provide references and proof of employment.
 
 Best,
 Kushal Kedia
@@ -139,7 +142,8 @@ kk837@cornell.edu
 
 After sending:
 - Update `seen_listings.json` entry: `outreach_sent: true`
-- Log in `alerts_log.md`: date, time, listing title, address, contact email, score
+- Log in `alerts_log.md`: date, time, listing title (as markdown link to listing URL), address, contact email, score
+- Add full listing details to `outreach.md` (see format below)
 
 ### Step 5: Alert Email
 
@@ -221,13 +225,45 @@ Score <X.X>/10 | MIT <X>/5 | Downtown <X>/5 | Price <X>/5 | Quality <X>/5 | Date
 Group entries under a date heading (e.g. `## 6th April, 2026`).
 
 ### alerts_log.md entries
+Always include the listing URL as a markdown link in the Listing field.
 ```
 ### <date> <time> — <type: ALERT/DIGEST/OUTREACH>
-- Listing: <title>
+- Listing: [<title>](<listing_url>)
 - Score: <X.X>/10
 - Recipient(s): <email(s)>
 - Contact email: <landlord email if outreach>
 ```
+
+### outreach.md entries
+Track all listings where outreach has been sent, with full details for follow-up.
+```
+### [<$price> — <studio/1BR> <neighborhood>](<listing_url>)
+**Score:** <X.X>/10 | **Sent:** <date time> | **Status:** Awaiting reply / Replied / Viewing scheduled / Rejected
+
+| Field | Details |
+|-------|---------|
+| Price | $X,XXX/mo |
+| Type | <studio/1BR> / <baths>ba |
+| Location | <address>, <city> |
+| Available | <date> |
+| Features | <comma-separated list> |
+| Contact | <name>, <company> |
+| Phone | <number> |
+| Email | <email> |
+| Listing | <full URL> |
+| Scores | MIT X/5 | Downtown X/5 | Price X/5 | Quality X/5 | Date X/5 |
+| Move-in costs | <breakdown if known> |
+| Notes | <commute details, standout features, urgency notes> |
+```
+Update status when replies come in. Move to a "## Closed" section if rejected or lease signed elsewhere.
+
+## Known Agent Contacts
+
+These have been verified and can be reused for future listings from the same agents:
+- **Deb Tyner** (Citilink Apts Rentals): debtyner03@gmail.com / 781-436-2484
+- **Cabot & Company** (general broker inbox): brokers@cabotandcompany.com
+- **Boardwalk Properties** offices: (617) 445-2200 (Mission Hill), (617) 566-5333 (Allston) — individual agent emails use `@boardwalkprops.com` but are partially masked on ZoomInfo
+- **NextGen Realty**: (617) 208-2100, 1243 Commonwealth Ave, Allston — no public agent emails found
 
 ## Important Notes
 

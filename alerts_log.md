@@ -3,19 +3,19 @@
 Record of all email alerts and outreach messages sent by the agent.
 
 ### 2026-04-06 22:30 — ALERT
-- Listing: $2,680 Studio Harvard Square
+- Listing: [$2,680 Studio Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/)
 - Score: 8.9/10
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 - Contact: Jehana Ray / Douglas Paul, (617) 356-7740 (phone only)
 
 ### 2026-04-06 22:30 — ALERT
-- Listing: $2,800 1BR Harvard Square
+- Listing: [$2,800 1BR Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8073193/)
 - Score: 8.4/10
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 - Contact: Alexandra Gabriel, NextGen Realty, (617) 699-1026 (phone only)
 
 ### 2026-04-06 22:30 — ALERT
-- Listing: $2,300 Studio Porter Square
+- Listing: [$2,300 Studio Porter Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080688/)
 - Score: 8.2/10
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 - Contact: Donicely Zapata, Boardwalk Properties, (617) 595-0911 (phone only)
@@ -25,19 +25,19 @@ Record of all email alerts and outreach messages sent by the agent.
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 
 ### 2026-04-06 22:45 — OUTREACH
-- Listing: $2,500 1BR Chinatown
+- Listing: [$2,500 1BR Chinatown](https://boston.craigslist.org/gbs/apa/d/boston-modern-1br-near-financial/7926047309.html)
 - Score: 7.1/10
 - Recipient(s): debtyner03@gmail.com
 - Contact email: debtyner03@gmail.com (Deb Tyner, Citilink)
 
 ### 2026-04-06 22:45 — OUTREACH
-- Listing: $2,800 1BR Charlestown
+- Listing: [$2,800 1BR Charlestown](https://boston.craigslist.org/gbs/apa/d/charlestown-junespacious-1broff-main/7926048068.html)
 - Score: 6.2/10
 - Recipient(s): debtyner03@gmail.com
 - Contact email: debtyner03@gmail.com (Deb Tyner, Citilink)
 
 ### 2026-04-06 22:45 — OUTREACH
-- Listing: $2,750 Studio Back Bay (Comm Ave)
+- Listing: [$2,750 Studio Back Bay (Comm Ave)](https://boston.craigslist.org/gbs/apa/d/boston-sunny-top-floor-studio-on-comm/7925976064.html)
 - Score: 7.1/10
 - Recipient(s): brokers@cabotandcompany.com
 - Contact email: brokers@cabotandcompany.com (Wes Byrne, Cabot & Company)
