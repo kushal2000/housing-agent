@@ -1,17 +1,18 @@
 {
-  "last_run": "2026-04-06T22:30:00",
-  "listings_fetched": 47,
-  "new_listings": 12,
-  "alerts_sent": 4,
+  "last_run": "2026-04-06T20:45:00",
+  "listings_fetched": 18,
+  "new_listings": 10,
+  "alerts_sent": 1,
   "outreach_sent": 3,
   "sources_status": {
-    "craigslist_mit": "error: page returned schema-only data, individual listings not extractable from search page",
-    "craigslist_downtown": "ok",
-    "bostonpads_cambridge": "ok",
-    "bostonpads_somerville": "ok (no listings passed date filter — all Sep 1+)",
-    "gmail_facebook": "ok (0 results — no Facebook group notification emails found)",
-    "gmail_google_groups": "ok (0 listings — only a join confirmation email found, not yet subscribed)",
-    "websearch": "ok (resource pointers found, no direct listings)",
+    "craigslist_mit": "error: search page returns schema-only data without prices/URLs",
+    "craigslist_downtown": "ok (returned 9 listings, several already in seen registry)",
+    "bostonpads_cambridge": "ok (most listings out of price/bedroom range, 2 new)",
+    "bostonpads_somerville": "ok (1 new in range — Spring Hill $2,300)",
+    "gmail_facebook": "ok (0 results)",
+    "gmail_google_groups": "ok (still only join confirmation, no listings)",
+    "websearch": "ok (surfaced additional Harvard Square candidates)",
     "to_check": "ok (no URLs to check)"
-  }
+  },
+  "notes": "10 new listings: 1 perfect-score Central Square 1BR ($2,700, 10.0/10), 2 URGENT (Harvard Sq studio, Spring Hill 1BR), 5 GOOD-tier added to please_check.md, 1 logged-only (Chelsea), 1 rejected ($1,900 RoostUp co-living shared housing)."
 }

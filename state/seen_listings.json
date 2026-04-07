@@ -130,5 +130,104 @@
     "alerted": false,
     "outreach_sent": false,
     "still_active": true
+  },
+  "craigslist-7926057338": {
+    "title": "$2,700 1BR Central Square Cambridge",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html",
+    "price": 2700,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 10.0,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8075071": {
+    "title": "$2,600 Studio Harvard Square (Jul 1) Boardwalk",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8075071/",
+    "price": 2600,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-somerville-4946877": {
+    "title": "$2,300 1BR Spring Hill Somerville",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-4946877/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7922073925": {
+    "title": "$2,195 Studio Back Bay (Brownstone)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-june-2026-awesome-back-bay/7922073925.html",
+    "price": 2195,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 7.6,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926055480": {
+    "title": "$2,450 1BR Ball Square Somerville (Roberts)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/somerville-somerville-ball-square/7926055480.html",
+    "price": 2450,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 7.3,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926049989": {
+    "title": "$2,450 1BR Ball Square Somerville (10 Roberts)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/somerville-great-deal-no-fee-mins-walk/7926049989.html",
+    "price": 2450,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 7.3,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7924760256": {
+    "title": "$2,650 1BR Fenway/Longwood",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-beautiful-renovated-upper-floor/7924760256.html",
+    "price": 2650,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 7.1,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926052977": {
+    "title": "$2,450 1BR Allston (Walbridge)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brookline-no-fee-may-or-june-beautiful/7926052977.html",
+    "price": 2450,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 6.2,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926067391": {
+    "title": "$1,995 1BR Chelsea",
+    "url": "https://boston.craigslist.org/gbs/apa/d/chelsea-recent-renovation-heat-hot/7926067391.html",
+    "price": 1995,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:40:00",
+    "score": 5.6,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
   }
 }

@@ -65,3 +65,32 @@ Record of all email alerts and outreach messages sent by the agent.
 - Score: 8.2/10
 - Recipient(s): info@boardwalkprops.com
 - Contact email: info@boardwalkprops.com (Donicely Zapata, Boardwalk Properties)
+
+### 2026-04-06 23:30 — OUTREACH
+- Listing: 1BR near Porter/Harvard Square, Cambridge (Facebook)
+- Score: TBD (awaiting price/availability from landlord)
+- Recipient(s): nate@ourcityrealestate.com
+- Contact email: nate@ourcityrealestate.com (Nate, Our City Real Estate)
+
+### 2026-04-06 20:42 — OUTREACH
+- Listing: [$2,700 1BR Central Square Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html)
+- Score: 10.0/10
+- Recipient(s): bkeane@redtreeboston.com
+- Contact email: bkeane@redtreeboston.com (Brandon Keane, Red Tree Real Estate)
+
+### 2026-04-06 20:42 — OUTREACH
+- Listing: [$2,600 Studio Harvard Square (Jul 1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8075071/)
+- Score: 8.9/10
+- Recipient(s): info@boardwalkprops.com
+- Contact email: info@boardwalkprops.com (Brandon Wong, Boardwalk Properties)
+
+### 2026-04-06 20:42 — OUTREACH
+- Listing: [$2,300 1BR Spring Hill Somerville](https://bostonpads.com/somerville-ma-apartments/somerville-4946877/)
+- Score: 8.7/10
+- Recipient(s): info@nextgenrealty.com
+- Contact email: info@nextgenrealty.com (Carmen Moreno, NextGen Realty)
+
+### 2026-04-06 20:45 — ALERT
+- Listings: 3 URGENT-tier (scores 8.7-10.0): Central Square 1BR, Harvard Sq Studio, Spring Hill 1BR
+- Score: 10.0, 8.9, 8.7 /10
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu

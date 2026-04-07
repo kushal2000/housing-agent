@@ -54,11 +54,22 @@ Start at 3, then adjust:
 - 2: August 1
 - 1: September 1+
 
-## Composite Score
-Score = (MIT_commute * 3 + Downtown_commute * 2 + Price * 2 + Quality * 1 + DateFit * 1) / 4.5
-Normalized to 10-point scale (multiply by 10/45 * 9, then add 1... simplified: just use the weighted sum / 4.5 and round to 1 decimal).
+## Dual Direct Transit Bonus
+If a location gives **both** Kushal and Kanika a direct train commute (no transfers), add **+0.5** to the composite score. This rewards the Red Line corridor (Kendall → Harvard → Porter → Davis) since Red Line runs direct to both MIT (Kendall) and downtown Financial District (Park St / Downtown Crossing / South Station).
 
-Max possible = 45/4.5 = 10.0
+A commute counts as "direct" if it uses a single transit line with no transfers. Walking to/from stops doesn't count as a transfer.
+
+**Qualifies for bonus (+0.5):**
+- Red Line corridor: Kendall, Central, Harvard, Porter, Davis, and neighborhoods within walking distance of these stops (Cambridgeport, Inman, Mid-Cambridge, East Somerville, Winter Hill)
+
+**Does NOT qualify:**
+- Locations requiring a transfer for either commute (e.g., Allston: Green→Red for MIT; Back Bay: Orange Line to downtown but need transfer for MIT; Charlestown: bus required)
+
+## Composite Score
+Score = (MIT_commute * 3 + Downtown_commute * 2 + Price * 2 + Quality * 1 + DateFit * 1) / 4.5 + dual_direct_bonus
+Where dual_direct_bonus = 0.5 if both commutes are direct (no transfers), 0 otherwise.
+
+Max possible = 45/4.5 + 0.5 = 10.5 (cap at 10.0)
 Min possible = 9/4.5 = 2.0
 
 ## Alert Thresholds
@@ -76,11 +87,12 @@ Min possible = 9/4.5 = 2.0
 - **Tier 4 (score 2)**: Allston, Brighton, Back Bay, South End, Charlestown, Medford
 - **Tier 5 (score 1)**: Dorchester, Roxbury, Jamaica Plain, Brookline (far end), Malden
 
-### Downtown Boston Commute (Red Line access is key)
-- **On Red Line (score 4-5)**: Kendall, Central, Harvard, Porter, Davis → Park St / Downtown Crossing direct
-- **Near Red Line (score 3-4)**: Inman, East Somerville, Cambridgeport (walk to Red Line)
-- **Transfer needed (score 2-3)**: Allston (Green→Red), Back Bay (Orange→Red), Charlestown (bus)
-- **Far (score 1-2)**: Medford, Malden, outer Somerville
+### Downtown Boston Commute (Red Line access is key — Kanika works in Financial District)
+- **Direct Red Line (score 5)**: Kendall, Central, Harvard, Porter, Davis → Park St / Downtown Crossing / South Station direct, <25 min
+- **Walk to Red Line (score 4)**: Inman, East Somerville, Cambridgeport, Mid-Cambridge (10-15 min walk to a Red Line stop, then direct)
+- **Single transfer (score 3)**: Back Bay (Orange Line direct), South End (Orange Line), Allston (Green→Red or 66 bus)
+- **Transfer + distance (score 2)**: Charlestown (bus→Orange→Red), Brighton, Medford/Hillside
+- **Far / multiple transfers (score 1)**: outer Somerville, Malden, Dorchester (south)
 
 ## Scam Detection Flags
 Flag (do NOT auto-outreach) if any of these are present:

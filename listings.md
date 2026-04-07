@@ -4,6 +4,64 @@ Scored apartment listings, newest first. Updated by the housing agent every 4 ho
 
 ## 6th April, 2026
 
+### [$2,700 — 1BR Central Square](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html)
+Hancock St near Mass Ave, Central Square, Cambridge | 1BR/1ba | May 1 or June 1, 2026  
+720 sqft renovated condo, central AC, high ceilings, dishwasher, laundry in basement. Walk to MIT. Half-month broker fee ($1,350).  
+Score 10.0/10 | MIT 5/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to bkeane@redtreeboston.com — [details](outreach.md)  
+
+### [$2,600 — Studio Harvard Square (Jul 1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8075071/)
+Harvard Square, Cambridge | Studio/1ba | July 1, 2026  
+355 sqft, hot water/water/garbage included, hardwood floors, laundry in building, pets allowed, no broker fee. 21 photos.  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com — [details](outreach.md)  
+
+### [$2,300 — 1BR Spring Hill Somerville](https://bostonpads.com/somerville-ma-apartments/somerville-4946877/)
+Spring Hill, Somerville | 1BR/1ba | June 1, 2026  
+Heat/HW included, hardwood floors, laundry in building, no broker fee. Listed as "Best Deal" — $266 below market.  
+Score 8.7/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@nextgenrealty.com — [details](outreach.md)  
+
+### [$2,195 — Studio Back Bay (Brownstone)](https://boston.craigslist.org/gbs/apa/d/boston-june-2026-awesome-back-bay/7922073925.html)
+Back Bay, Boston 02116 | Studio/1ba | June 1, 2026  
+Brownstone with turret, heat/HW included, laundry in building, no broker fee, cats only, near Public Garden.  
+Score 7.6/10 | MIT 2/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,450 — 1BR Ball Square Somerville (10 Roberts)](https://boston.craigslist.org/gbs/apa/d/somerville-somerville-ball-square/7926055480.html)
+Roberts St, Magoun/Ball Square, Somerville 02145 | 1BR/1ba | Now/May 1, 2026  
+Hardwood, AC, parking included, coin laundry, cats OK, no broker fee. 3 min walk to Green Line.  
+Score 7.3/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 3/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,450 — 1BR Ball Square Somerville (Roberts)](https://boston.craigslist.org/gbs/apa/d/somerville-great-deal-no-fee-mins-walk/7926049989.html)
+10 Roberts, Magoun/Ball Square, Somerville 02145 | 1BR/1ba | May 1, 2026  
+Hardwood, AC, parking included, coin laundry, cats OK, no broker fee. Walk to Green Line.  
+Score 7.3/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 3/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,650 — 1BR Fenway/Longwood](https://boston.craigslist.org/gbs/apa/d/boston-beautiful-renovated-upper-floor/7924760256.html)
+19 Queensberry St, Fenway, Boston 02115 | 1BR/1ba | June 1, 2026  
+Heat/HW/water/garbage included, laundry in building, dishwasher, granite, cats only, upper floor renovation.  
+Score 7.1/10 | MIT 2/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 5/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,450 — 1BR Allston (Walbridge)](https://boston.craigslist.org/gbs/apa/d/brookline-no-fee-may-or-june-beautiful/7926052977.html)
+25 Walbridge St, Allston, Boston 02135 | 1BR/1ba | May 1, 2026  
+Heat/HW included, laundry in building, hardwood, dishwasher, cats OK, no broker fee. Near Packard's Corner.  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 4/5 | Quality 5/5 | Date 3/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$1,995 — 1BR Chelsea](https://boston.craigslist.org/gbs/apa/d/chelsea-recent-renovation-heat-hot/7926067391.html)
+Chelsea, MA | 1BR | Now  
+Recent renovation, heat/HW included, pets negotiable. Far from MIT (Tier 5).  
+Score 5.6/10 | MIT 1/5 | Downtown 2/5 | Price 5/5 | Quality 5/5 | Date 3/5  
+Logged only  
+Outreach: not available  
+
 ### [$2,680 — Studio Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/)
 Harvard Square, Cambridge | Studio/1ba | June 1, 2026  
 Heat/HW included, no broker fee, laundry in building, dishwasher. Walking distance to Red Line.  

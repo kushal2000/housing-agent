@@ -4,6 +4,69 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,700 — 1BR Central Square Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html)
+**Score:** 10.0/10 | **Sent:** 2026-04-06 20:42 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,700/mo |
+| Type | 1BR / 1ba |
+| Location | Hancock St near Mass Ave, Central Square, Cambridge, MA 02139 |
+| Available | May 1 or June 1, 2026 |
+| Features | 720 sqft, central AC, high ceilings, renovated kitchen with dishwasher, laundry in basement (coin-op), street parking only, cats OK (no dogs), water/sewer included, tenant pays heat/electric |
+| Contact | Brandon Keane, Red Tree Real Estate |
+| Phone | (617) 487-8015 / cell (617) 309-6691 |
+| Email | bkeane@redtreeboston.com |
+| Office | 193 Harvard St, Brookline MA 02446 |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html |
+| Scores | MIT 5/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Move-in costs | First $2,700 + Broker fee $1,350 (half month) = $4,050 (no last/security mentioned) |
+| Notes | TOP PICK — perfect score 10.0/10. Walking distance to MIT, direct Red Line to Financial District. Professionally managed building, virtual tour available. Posted 2026-04-06. |
+
+---
+
+### [$2,600 — Studio Harvard Square (Jul 1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8075071/)
+**Score:** 8.9/10 | **Sent:** 2026-04-06 20:42 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,600/mo |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge, MA 02138 |
+| Available | July 1, 2026 |
+| Features | 355 sqft, hot water/water/sewer/garbage/technology fee included, laundry in building, hardwood floors, disposal/microwave/electric stove/refrigerator, courtyard, pets allowed (breed restrictions), no broker fee |
+| Contact | Brandon Wong, Boardwalk Properties |
+| Phone | (617) 221-3888 |
+| Email | info@boardwalkprops.com |
+| Office | 143 Harvard Avenue, Boston, MA 02134 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8075071/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 3/5 \| +0.5 dual direct |
+| Move-in costs | First $2,600 + Last $2,600 + Security $2,600 = $7,800 |
+| Notes | Pet-friendly Harvard Square studio with no broker fee. 21 photos, verified legitimate listing. July 1 move-in is later than ideal but Harvard Square location compensates. |
+
+---
+
+### [$2,300 — 1BR Spring Hill Somerville](https://bostonpads.com/somerville-ma-apartments/somerville-4946877/)
+**Score:** 8.7/10 | **Sent:** 2026-04-06 20:42 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,300/mo |
+| Type | 1BR / 1ba |
+| Location | Spring Hill, Somerville, MA 02143 |
+| Available | June 1, 2026 |
+| Features | Heat/HW included, hardwood floors, gas stove, refrigerator, laundry in building, no broker fee, no pets, no parking |
+| Contact | Carmen Moreno, NextGen Realty |
+| Phone | (617) 678-8278 |
+| Email | info@nextgenrealty.com |
+| Office | 1243 Commonwealth Avenue, Boston, MA 02134 |
+| Listing | https://bostonpads.com/somerville-ma-apartments/somerville-4946877/ |
+| Scores | MIT 3/5 \| Downtown 4/5 \| Price 5/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Move-in costs | First $2,300 + Last $2,300 + Security $2,300 + Key $50 = $6,950 |
+| Notes | Listed as "Best Deal" — $266 below market average for Somerville 1BR. Walkable to both Porter and Davis Red Line stops. No pets is a constraint to flag. |
+
+---
+
 ### [$2,680 — Studio Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/)
 **Score:** 8.9/10 | **Sent:** 2026-04-06 23:15 | **Status:** Awaiting reply
 
@@ -140,3 +203,23 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 | Scores | MIT 2/5 \| Downtown 4/5 \| Price 5/5 \| Quality 5/5 \| Date 3/5 |
 | Move-in costs | First month + $2,300 security |
 | Notes | Great price for South End. Steps from Back Bay Station & Copley T. Lease 12-14 months. July 1 move-in is slightly late but workable. |
+
+---
+
+### [1BR near Porter/Harvard Square, Cambridge (Facebook listing)]
+**Score:** TBD | **Sent:** 2026-04-06 23:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | TBD (asked in email) |
+| Type | 1BR |
+| Location | Near Porter/Harvard Square, Cambridge, MA |
+| Available | TBD (asked in email) |
+| Features | Heat/HW included, hardwood floors, high ceilings, lots of sunlight, laundry on site, steps to Mass Ave, walking distance to Red Line |
+| Contact | Nate, Our City Real Estate |
+| Phone | 978-201-3620 |
+| Email | nate@ourcityrealestate.com |
+| Listing | Facebook post (no direct URL) |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price TBD \| Quality 4/5 \| Date TBD |
+| Move-in costs | TBD |
+| Notes | Girlfriend found on Facebook. Porter/Harvard Square = direct Red Line to both MIT and Financial District. Heat/HW included is a strong value signal. Will score fully once price and availability confirmed. |

@@ -6,10 +6,11 @@ import sys
 from email.mime.text import MIMEText
 
 SENDER = "kk837@cornell.edu"
+DEFAULT_CC = "kb529@cornell.edu"
 APP_PASSWORD_FILE = "/home/kk837/.claude/.gmail_app_password"
 
 
-def send(to: str, subject: str, body: str):
+def send(to: str, subject: str, body: str, cc: str = DEFAULT_CC):
     with open(APP_PASSWORD_FILE) as f:
         password = f.read().strip()
 
@@ -17,13 +18,17 @@ def send(to: str, subject: str, body: str):
     msg["Subject"] = subject
     msg["From"] = SENDER
     msg["To"] = to
+    if cc:
+        msg["Cc"] = cc
+
+    all_recipients = [to] + ([cc] if cc else [])
 
     with smtplib.SMTP("smtp.gmail.com", 587) as server:
         server.starttls()
         server.login(SENDER, password)
-        server.send_message(msg)
+        server.send_message(msg, to_addrs=all_recipients)
 
-    print(f"Sent to {to}: {subject}")
+    print(f"Sent to {to} (cc: {cc}): {subject}")
 
 
 if __name__ == "__main__":
