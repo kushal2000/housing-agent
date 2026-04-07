@@ -10,11 +10,12 @@ When a new session starts:
 1. Read `state/search_profile.md` to understand scoring criteria and hard filters
 2. Read `state/last_run.json` to know when you last ran
 3. Read `state/seen_listings.json` to load the deduplication registry
-4. Run the pipeline immediately if it hasn't run in the past 4 hours
-5. Set up the recurring loop:
+4. Run the pipeline immediately if it hasn't run in the past 24 hours
+5. Set up the recurring loop (daily at ~6am ET, before the day's listings start moving):
    ```
-   /loop 4h "Run the housing search pipeline: fetch new listings from Craigslist, BostonPads, Gmail (Facebook group notifications, Google Groups digests), and WebSearch. Score against search profile, deduplicate, update listings.md, auto-outreach to landlords for scored listings, git commit and push, and send alert emails for new finds."
+   /loop 24h "Run the housing search pipeline: fetch new listings from Craigslist, BostonPads, Gmail (Facebook group notifications, Google Groups digests), and WebSearch. Score against search profile, deduplicate, update listings.md, auto-outreach to landlords for scored listings, git commit and push, and send alert emails for new finds."
    ```
+   Use `CronCreate` directly with cron `57 5 * * *` if `/loop` doesn't accept a 24h interval. Cancel any existing housing-pipeline cron jobs first via `CronList` + `CronDelete` so you don't end up with two schedules running.
 
 ## Pipeline
 
@@ -253,6 +254,10 @@ Update `state/last_run.json`:
   }
 }
 ```
+
+### Step 8: Clear Context
+
+After the run is fully complete (state updated, commit pushed, alerts sent), clear the conversation context with `/clear` so the next cron-triggered run starts fresh. WebFetch and listing-detail tool results consume a lot of tokens; carrying them across runs is wasteful and can blow the context window after a few daily scans. The recurring cron job will fire again at its next scheduled time and re-bootstrap from `state/` files. **Do NOT clear if there are unresolved errors or pending user questions in the conversation** — only clear when the run ended cleanly.
 
 ## File Formats
 
