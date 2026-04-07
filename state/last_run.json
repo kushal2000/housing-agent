@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-06T20:45:00",
-  "listings_fetched": 18,
-  "new_listings": 10,
+  "last_run": "2026-04-07T00:56:00",
+  "listings_fetched": 14,
+  "new_listings": 6,
   "alerts_sent": 1,
-  "outreach_sent": 3,
+  "outreach_sent": 2,
   "sources_status": {
     "craigslist_mit": "error: search page returns schema-only data without prices/URLs",
-    "craigslist_downtown": "ok (returned 9 listings, several already in seen registry)",
-    "bostonpads_cambridge": "ok (most listings out of price/bedroom range, 2 new)",
-    "bostonpads_somerville": "ok (1 new in range — Spring Hill $2,300)",
+    "craigslist_downtown": "ok (10 listings, mostly already in seen registry)",
+    "bostonpads_cambridge": "ok (2 new in date range, 1 reject Sept 1)",
+    "bostonpads_somerville": "ok (1 new July 1, others rejected for date)",
     "gmail_facebook": "ok (0 results)",
     "gmail_google_groups": "ok (still only join confirmation, no listings)",
-    "websearch": "ok (surfaced additional Harvard Square candidates)",
+    "websearch": "ok (resource pointers, no direct new listings)",
     "to_check": "ok (no URLs to check)"
   },
-  "notes": "10 new listings: 1 perfect-score Central Square 1BR ($2,700, 10.0/10), 2 URGENT (Harvard Sq studio, Spring Hill 1BR), 5 GOOD-tier added to please_check.md, 1 logged-only (Chelsea), 1 rejected ($1,900 RoostUp co-living shared housing)."
+  "notes": "6 new listings: 2 URGENT auto-outreach (Harvard Sq $2,800 studio Boardwalk, Chinatown $2,050 studio Prestige with renovation caveat), 2 GOOD added to please_check.md (Spring Hill 1BR $2,450 Boardwalk, East Boston $2,600), 1 duplicate of existing (Cabot Comm Ave Back Bay), 1 rejected for date (Harvard Sq Sept 1)."
 }

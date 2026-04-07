@@ -3,6 +3,18 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+### [$2,450 — 1BR Spring Hill Somerville (Jul 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8073206/)
+Score 7.8/10 | Spring Hill Historic District, Somerville | July 1, 2026  
+Heat/HW/water/sewer/trash all included, hardwood, cat friendly, no broker fee. Walkable to Porter/Davis Red Line. July 1 move-in date is the only minor downside.  
+Contact: Donicely Zapata, Boardwalk Properties — info@boardwalkprops.com / (617) 595-0911  
+**Approve?** Reply "yes" to send outreach to info@boardwalkprops.com (we already have outreach in flight to this address for the $2,300 Porter Sq listing — sending another might dilute attention).
+
+### [$2,600 — 1BR East Boston (126 Border St)](https://boston.craigslist.org/gbs/apa/d/boston-bedroom-apartment-for-rent-prime/7926094412.html)
+Score 6.0/10 | 126 Border St, East Boston 02228 | Date TBD  
+964 sqft, indoor parking, in-unit W/D, AC, waterfront, pets allowed. Blue Line at Maverick (~800 steps). MIT commute is the weak point — 30+ min via Blue→State→Red.  
+Contact: Craigslist relay only ("Message me for details")  
+**Approve?** Reply "yes" or drop the Craigslist relay email here to send outreach.
+
 ### [$2,195 — Studio Back Bay (Brownstone)](https://boston.craigslist.org/gbs/apa/d/boston-june-2026-awesome-back-bay/7922073925.html)
 Score 7.6/10 | Back Bay, Boston 02116 | June 1, 2026  
 Heat/HW included, laundry in building, no broker fee, brownstone with turret. Cats only.  

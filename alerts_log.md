@@ -94,3 +94,19 @@ Record of all email alerts and outreach messages sent by the agent.
 - Listings: 3 URGENT-tier (scores 8.7-10.0): Central Square 1BR, Harvard Sq Studio, Spring Hill 1BR
 - Score: 10.0, 8.9, 8.7 /10
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-07 00:55 — OUTREACH
+- Listing: [$2,800 Studio Harvard Sq (Boardwalk Taha)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/)
+- Score: 8.7/10
+- Recipient(s): info@boardwalkprops.com
+- Contact email: info@boardwalkprops.com (Taha Yildirim, Boardwalk Properties)
+
+### 2026-04-07 00:55 — OUTREACH
+- Listing: [$2,050 Studio Chinatown 231 Harrison Ave](https://southcoast.craigslist.org/apa/d/boston-boston-tufts-dental-june-1st/7919300771.html)
+- Score: 8.0/10
+- Recipient(s): gotapts4you@gmail.com
+- Contact email: gotapts4you@gmail.com (John L. Hanrahan, Prestige Property Solutions)
+
+### 2026-04-07 00:56 — ALERT
+- Listings: 2 URGENT-tier: Harvard Sq studio ($2,800, 8.7/10) + Chinatown studio ($2,050, 8.0/10)
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu

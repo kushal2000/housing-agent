@@ -2,6 +2,34 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 7th April, 2026
+
+### [$2,800 — Studio Harvard Square (Jun 1, Boardwalk Taha)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/)
+Harvard Square, Cambridge | Studio/1ba | June 1, 2026  
+Water/sewer/trash included; tenant pays heat/HW/electric. No broker fee, no pets, no parking. Sparse description (6 photos).  
+Score 8.7/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com (re: Taha Yildirim) — [details](outreach.md)  
+
+### [$2,050 — Studio Chinatown (231 Harrison Ave)](https://southcoast.craigslist.org/apa/d/boston-boston-tufts-dental-june-1st/7919300771.html)
+231 Harrison Ave, Chinatown/South End, Boston 02111 | Studio/1ba | June 1, 2026  
+Hot water/water/garbage included (electric heat tenant pays). Coin laundry, AC, no broker fee, cats OK. Renovations planned for August (mid-lease disruption).  
+Score 8.0/10 | MIT 2/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 5/5  
+ALERTED  
+Outreach: sent to gotapts4you@gmail.com — [details](outreach.md)  
+
+### [$2,450 — 1BR Spring Hill Somerville (Jul 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8073206/)
+Spring Hill Historic District, Somerville | 1BR/1ba | July 1, 2026  
+Heat/HW/water/sewer/trash included, hardwood floors, cat friendly, no broker fee. Boardwalk Properties (Donicely Zapata).  
+Score 7.8/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,600 — 1BR East Boston (Border St)](https://boston.craigslist.org/gbs/apa/d/boston-bedroom-apartment-for-rent-prime/7926094412.html)
+126 Border St, East Boston 02228 | 1BR/1ba | Date TBD  
+964 sqft, indoor parking, in-unit W/D, AC, waterfront access, pets allowed. ~800 steps to Maverick Blue Line.  
+Score 6.0/10 | MIT 1/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 3/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
 ## 6th April, 2026
 
 ### [$2,700 — 1BR Central Square](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html)

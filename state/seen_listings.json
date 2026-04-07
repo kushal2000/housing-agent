@@ -229,5 +229,73 @@
     "alerted": false,
     "outreach_sent": false,
     "still_active": true
+  },
+  "bostonpads-cambridge-8076816": {
+    "title": "$2,800 Studio Harvard Sq (Boardwalk Taha)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/",
+    "price": 2800,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T00:50:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7919300771": {
+    "title": "$2,050 Studio Chinatown 231 Harrison Ave",
+    "url": "https://southcoast.craigslist.org/apa/d/boston-boston-tufts-dental-june-1st/7919300771.html",
+    "price": 2050,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:50:00",
+    "score": 8.0,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-somerville-8073206": {
+    "title": "$2,450 1BR Spring Hill Somerville (Jul 1)",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8073206/",
+    "price": 2450,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T00:50:00",
+    "score": 7.8,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926094412": {
+    "title": "$2,600 1BR East Boston 126 Border St",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-bedroom-apartment-for-rent-prime/7926094412.html",
+    "price": 2600,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:50:00",
+    "score": 6.0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925941023": {
+    "title": "$2,750 Studio Back Bay 76 Comm Ave (DUPLICATE of 7925976064)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-no-fee-top-floor-back-bay-sunny/7925941023.html",
+    "price": 2750,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T00:50:00",
+    "score": 7.1,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "duplicate_of": "craigslist-7925976064"
+  },
+  "bostonpads-cambridge-8075659": {
+    "title": "$3,200 1BR Harvard Sq Sept 1 (REJECT date)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8075659/",
+    "price": 3200,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T00:50:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "date out of range (Sept 1)"
   }
 }

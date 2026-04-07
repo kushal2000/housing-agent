@@ -4,6 +4,48 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,800 — Studio Harvard Square (Boardwalk Taha)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/)
+**Score:** 8.7/10 | **Sent:** 2026-04-07 00:55 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,800/mo |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge, MA 02138 |
+| Available | June 1, 2026 |
+| Features | Water/sewer/trash included; tenant pays heat/HW/electric. No broker fee. No pets, no parking. 6 photos. Vague description. |
+| Contact | Taha Yildirim, Boardwalk Properties |
+| Phone | (617) 417-5831 |
+| Email | info@boardwalkprops.com (individual email not public) |
+| Office | 143 Harvard Avenue, Boston, MA 02134 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 3/5 \| Quality 4/5 \| Date 5/5 \| +0.5 dual direct |
+| Move-in costs | First $2,800 + Last $2,800 + Security $2,800 = $8,400 |
+| Notes | Weakest of the Harvard Sq URGENT-tier batch. Heat/HW NOT included; sparse description. Worth reaching out as Boardwalk is a known broker, but not the strongest signal. |
+
+---
+
+### [$2,050 — Studio Chinatown (231 Harrison Ave)](https://southcoast.craigslist.org/apa/d/boston-boston-tufts-dental-june-1st/7919300771.html)
+**Score:** 8.0/10 | **Sent:** 2026-04-07 00:55 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,050/mo |
+| Type | Studio / 1ba |
+| Location | 231 Harrison Ave, Chinatown/South End, Boston 02111 |
+| Available | June 1, 2026 |
+| Features | Hot water/water/garbage included; tenant pays electric heat. Coin laundry, AC, no broker fee, cats only. Marble lobby. RENOVATIONS PLANNED FOR AUGUST (new kitchen, stainless appliances). |
+| Contact | John L. Hanrahan, Prestige Property Solutions |
+| Phone | (617) 590-0455 |
+| Email | gotapts4you@gmail.com |
+| Office | 1292 Commonwealth Ave, Suite 2, Boston, MA 02134 |
+| Listing | https://southcoast.craigslist.org/apa/d/boston-boston-tufts-dental-june-1st/7919300771.html |
+| Scores | MIT 2/5 \| Downtown 5/5 \| Price 5/5 \| Quality 5/5 \| Date 5/5 |
+| Move-in costs | TBD |
+| Notes | Below-market price + downtown location are great. Mid-lease renovation disruption is a major caveat — outreach email asks for renovation scope/duration/relocation details. Verify before getting excited. MIT commute is the weak axis (Tier 4). |
+
+---
+
 ### [$2,700 — 1BR Central Square Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-high-ceilings/7926057338.html)
 **Score:** 10.0/10 | **Sent:** 2026-04-06 20:42 | **Status:** Awaiting reply
 
