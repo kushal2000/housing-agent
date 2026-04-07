@@ -3,6 +3,24 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+### [$2,950 — 1BR Winter Hill Somerville (Jun 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8073379/)
+Score 6.9/10 | Winter Hill, Somerville | June 1, 2026  
+Heat/HW/gas/parking/storage all included, hardwood, dishwasher, SS appliances, no broker fee. Strong all-inclusive bundle for the price.  
+Contact: Han Luong @ Jacob Realty — 857-300-3782 (no email published)  
+**Approve?** Reply "yes" to send outreach. We'll need an email — recommend WebSearching for Han Luong's email or using `info@jacobrealtyboston.com` if found.
+
+### [$2,700 — 1BR Beacon St Back Bay (Jun 1)](https://boston.craigslist.org/gbs/apa/d/boston-beacon-st-sunny-3rd-floor-front/7925885840.html)
+Score 6.7/10 | Beacon St btwn Mass Ave & Charlesgate, Back Bay 02215 | June 1, 2026  
+Heat/HW included, in-building laundry, off-street parking, dishwasher, hardwood, bay windows. Quality unit but Back Bay = transfer for both commutes.  
+Contact: Craigslist relay only — owner screens with qualifying questions  
+**Approve?** Reply "yes" or drop the Craigslist relay email here to send outreach.
+
+### [$2,850 — 1BR Newbury St Back Bay (Jun 1, Cabot)](https://boston.craigslist.org/gbs/apa/d/boston-no-broker-fee-back-bay-bed-top/7925555193.html)
+Score 6.2/10 | Newbury St near Gloucester, Back Bay 02115 | June 1, 2026  
+Heat/HW included, in-building laundry, hardwood, no broker fee. Quality solid but commute is the weak point.  
+Contact: Iana Ulianova @ Cabot & Company — 617-935-5605, brokers@cabotandcompany.com (known agent in registry)  
+**Approve?** Reply "yes" to send outreach to brokers@cabotandcompany.com.
+
 ### [$2,450 — 1BR Spring Hill Somerville (Jul 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8073206/)
 Score 7.8/10 | Spring Hill Historic District, Somerville | July 1, 2026  
 Heat/HW/water/sewer/trash all included, hardwood, cat friendly, no broker fee. Walkable to Porter/Davis Red Line. July 1 move-in date is the only minor downside.  

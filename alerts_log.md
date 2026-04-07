@@ -2,6 +2,12 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-07 06:35 — ALERT
+- Listing: [$2,600 1BR East Cambridge (walk to Kendall/MIT)](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html)
+- Score: 8.9/10
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+- Contact: Craigslist relay only — manual reply required (agent cannot extract relay email)
+
 ### 2026-04-06 22:30 — ALERT
 - Listing: [$2,680 Studio Harvard Square](https://bostonpads.com/cambridge-ma-apartments/cambridge-5882402/)
 - Score: 8.9/10

@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-07T00:56:00",
-  "listings_fetched": 14,
-  "new_listings": 6,
+  "last_run": "2026-04-07T06:35:00",
+  "listings_fetched": 80,
+  "new_listings": 7,
   "alerts_sent": 1,
-  "outreach_sent": 2,
+  "outreach_sent": 0,
   "sources_status": {
-    "craigslist_mit": "error: search page returns schema-only data without prices/URLs",
-    "craigslist_downtown": "ok (10 listings, mostly already in seen registry)",
-    "bostonpads_cambridge": "ok (2 new in date range, 1 reject Sept 1)",
-    "bostonpads_somerville": "ok (1 new July 1, others rejected for date)",
-    "gmail_facebook": "ok (0 results)",
-    "gmail_google_groups": "ok (still only join confirmation, no listings)",
+    "craigslist_mit": "error: schema-only data without prices/URLs (persistent issue)",
+    "craigslist_downtown": "ok (20 listings, 8 already in seen registry, 4 new in scoring range, 8 new but rejected/logged)",
+    "bostonpads_cambridge": "ok (30 listings sampled, 2 in date+price+bedroom filter, 1 reject as shared coliving)",
+    "bostonpads_somerville": "ok (30 listings sampled, 1 new candidate Winter Hill, others reject for date)",
+    "gmail_facebook": "ok (0 results — no FB notifications since last run)",
+    "gmail_google_groups": "ok (only the join request confirmation, no listings yet)",
     "websearch": "ok (resource pointers, no direct new listings)",
     "to_check": "ok (no URLs to check)"
   },
-  "notes": "6 new listings: 2 URGENT auto-outreach (Harvard Sq $2,800 studio Boardwalk, Chinatown $2,050 studio Prestige with renovation caveat), 2 GOOD added to please_check.md (Spring Hill 1BR $2,450 Boardwalk, East Boston $2,600), 1 duplicate of existing (Cabot Comm Ave Back Bay), 1 rejected for date (Harvard Sq Sept 1)."
+  "notes": "1 URGENT (Cambridge Otis 1BR $2,600 score 8.9 — Craigslist relay, no auto-outreach possible), 3 GOOD added to please_check.md (Winter Hill 1BR $2,950, Beacon St 1BR $2,700, Newbury 1BR $2,850 Cabot), 1 MEH logged ($3,000 Newbury Jul 1 score 5.8), 2 rejected (Northeastern Sept 1, RoostUp shared coliving). Digest skipped — outside 8am/6pm window."
 }

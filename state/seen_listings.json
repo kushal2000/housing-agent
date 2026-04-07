@@ -297,5 +297,85 @@
     "outreach_sent": false,
     "still_active": true,
     "rejected": "date out of range (Sept 1)"
+  },
+  "craigslist-7925579013": {
+    "title": "$2,600 1BR East Cambridge (walk to Kendall/MIT)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html",
+    "price": 2600,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "craigslist relay — manual reply required"
+  },
+  "bostonpads-somerville-8073379": {
+    "title": "$2,950 1BR Winter Hill Somerville (Jun 1, Jacob Realty)",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8073379/",
+    "price": 2950,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 6.9,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925885840": {
+    "title": "$2,700 1BR Beacon St Back Bay (Jun 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-beacon-st-sunny-3rd-floor-front/7925885840.html",
+    "price": 2700,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 6.7,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925555193": {
+    "title": "$2,850 1BR Newbury St Back Bay (Jun 1, Cabot)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-no-broker-fee-back-bay-bed-top/7925555193.html",
+    "price": 2850,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 6.2,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925884863": {
+    "title": "$3,000 1BR Newbury St Back Bay (Jul 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-newbury-st-top-floor-front/7925884863.html",
+    "price": 3000,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 5.8,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925976126": {
+    "title": "$2,200 1BR Northeastern Sept 1 (REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-2200-util-incl-1bed-northeastern/7925976126.html",
+    "price": 2200,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "date out of range (Sept 1)"
+  },
+  "bostonpads-cambridge-5698609": {
+    "title": "$1,900 furnished private bedroom RoostUp coliving (REJECT shared)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-5698609/",
+    "price": 1900,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T06:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "shared coliving — hard filter NO shared rooms"
   }
 }

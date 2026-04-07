@@ -2,7 +2,38 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
-## 7th April, 2026
+## 7th April, 2026 (06:30 AM scan)
+
+### [$2,600 — 1BR East Cambridge (walk to Kendall/MIT)](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html)
+Otis St, East Cambridge 02141 | 1BR/1ba 650sqft | June 1, 2026  
+Walking distance to Kendall/MIT/Lechmere. Updated kitchen, hardwood, in-building laundry, pet friendly, no smoking, no parking.  
+Score 8.9/10 | MIT 4/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, Kushal must reply manually via browser  
+
+### [$2,950 — 1BR Winter Hill Somerville (Jun 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8073379/)
+Winter Hill, Somerville | 1BR/1ba | June 1, 2026  
+Heat/HW/gas/parking/storage all included, hardwood, dishwasher, SS appliances, no broker fee. Han Luong @ Jacob Realty.  
+Score 6.9/10 | MIT 3/5 | Downtown 3/5 | Price 3/5 | Quality 5/5 | Date 5/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,700 — 1BR Beacon St Back Bay (Jun 1)](https://boston.craigslist.org/gbs/apa/d/boston-beacon-st-sunny-3rd-floor-front/7925885840.html)
+Beacon St btwn Mass Ave & Charlesgate, Back Bay 02215 | 1BR/1ba 500sqft | June 1, 2026  
+Heat/HW included, in-building laundry, off-street parking, dishwasher, hardwood, bay windows. Cats only, no undergrads.  
+Score 6.7/10 | MIT 2/5 | Downtown 3/5 | Price 4/5 | Quality 5/5 | Date 5/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,850 — 1BR Newbury St Back Bay (Jun 1, Cabot)](https://boston.craigslist.org/gbs/apa/d/boston-no-broker-fee-back-bay-bed-top/7925555193.html)
+Newbury St near Gloucester, Back Bay 02115 | 1BR/1ba 600sqft | June 1, 2026  
+Heat/HW included, in-building laundry, hardwood, no broker fee. Iana Ulianova @ Cabot & Company (known agent).  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 3/5 | Quality 5/5 | Date 5/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$3,000 — 1BR Newbury St Back Bay (Jul 1)](https://boston.craigslist.org/gbs/apa/d/boston-newbury-st-top-floor-front/7925884863.html)
+Newbury St btwn Exeter & Fairfield, Back Bay 02116 | 1BR/1ba 600sqft | July 1, 2026  
+In-unit W/D combo, central AC, granite, SS, walk-in closet, bay windows. Cats only, no undergrads.  
+Score 5.8/10 | MIT 2/5 | Downtown 3/5 | Price 3/5 | Quality 5/5 | Date 3/5  
+Logged only  
 
 ### [$2,800 — Studio Harvard Square (Jun 1, Boardwalk Taha)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/)
 Harvard Square, Cambridge | Studio/1ba | June 1, 2026  
