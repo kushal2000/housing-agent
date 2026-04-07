@@ -2,6 +2,69 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 7th April, 2026 (10:30 AM scan)
+
+### [$2,600 — Furnished Studio Harvard near Trowbridge](https://boston.craigslist.org/gbs/apa/d/cambridge-furnished-studio-mins-to/7926137375.html)
+Harvard near Trowbridge, Mid-Cambridge 02138 | Studio/1ba | June 15, 2026  
+Furnished (bed, dresser, dining table). Kitchenette, gas heat, in-building shared laundry, cats OK, street parking only. Lease start flexible to July.  
+Score 9.2/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, Kushal must reply manually via browser  
+
+### [$3,240 — 1BR 632 Mass Ave Central Square](https://boston.craigslist.org/gbs/apa/d/cambridge-june-lease-start-central/7926208121.html)
+632 Mass Ave, Central Square, Cambridge 02139 | 1BR/1ba 836sqft | June 1, 2026  
+Concierge building, central AC, garage parking, modern kitchen w/dishwasher, fitness center, on-site laundry, pets allowed. No broker fee. 1 min to T.  
+Score 9.2/10 | MIT 5/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (Ryan Moore 860-519-3644)  
+
+### [$2,250 — Studio Hingham St Riverside Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html)
+Hingham St, Riverside, Cambridge 02139 | Studio/1ba | May 1, 2026  
+ALL utilities included (heat/HW/water/electric/gas). Updated kitchen, garden level, no fee, cats OK, street parking. $10 application registration fee.  
+Score 8.9/10 | MIT 4/5 | Downtown 4/5 | Price 5/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to matthew@rentsourcellc.com (Rent Source LLC) — [details](outreach.md)  
+
+### [$2,900 — Studio Harvard Square (Jun 1, Jacob Realty)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080806/)
+Harvard Square, Cambridge 02138 | Studio/1ba | June 1, 2026  
+Heat/HW included, in-unit laundry, dishwasher, hardwood, pet friendly, no broker fee. 11 photos. Han Luong @ Jacob Realty.  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@jacobrealty.com (Han Luong) — [details](outreach.md)  
+
+### [$2,400 — Studio Davis Square (Jun 2, Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080696/)
+Davis Square, Cambridge 02140 | Studio/1ba | June 2, 2026  
+Laundry in building, dishwasher, water/sewer/trash included (tenant pays heat/HW/electric). 9 photos. NO broker fee, NO first/last/security deposit. Donicely Zapata @ Boardwalk.  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com (Donicely Zapata) — [details](outreach.md)  
+
+### [$2,400 — 1BR Cherry St (Davis Sq area, Somerville)](https://boston.craigslist.org/gbs/apa/d/somerville-amazing-porter-sq-one-bed/7926185450.html)
+Cherry St, Somerville 02144 (Davis Sq area, listed as Porter Sq) | 1BR/1ba | June 1, 2026  
+Heat/HW included, parking, hardwood, dishwasher, in-building laundry, brick building.  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (617-939-4835)  
+
+### [$2,850 — Studio Day St (Davis Sq, Somerville)](https://boston.craigslist.org/gbs/apa/d/cambridge-1excellent-location-studioht/7926186928.html)
+Day St near Orchard, Somerville 02144 | Studio/1ba | June 1, 2026  
+2-min walk to Davis T. Heat/HW included, hardwood, granite, SS appliances, dishwasher, in-building coin laundry, no fee, cats negotiable. Eddie @ Maven Realty.  
+Score 8.3/10 | MIT 3/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (Eddie 617-319-4612)  
+
+### [$2,600 — 1BR Winter Hill Somerville (Jun 1, Boardwalk)](https://bostonpads.com/somerville-ma-apartments/somerville-8077371/)
+Winter Hill, Somerville 02143 | 1BR/1ba | June 1, 2026  
+Heat/HW included, hardwood, no broker fee. 0 photos (placeholder), vague description. Patrice Samuels @ Boardwalk.  
+Score 6.9/10 | MIT 3/5 | Downtown 3/5 | Price 4/5 | Quality 3/5 | Date 5/5  
+Awaiting approval — [please_check.md](please_check.md)  
+
+### [$2,300 — 1BR Spring Hill Somerville (Jun 1, Boardwalk)](https://bostonpads.com/somerville-ma-apartments/somerville-8076372/)
+Spring Hill, Somerville 02143 | 1BR/1ba | June 1, 2026  
+Water/sewer/trash included (tenant pays heat/HW/electric), no pets, no parking. 0 photos, vague desc. $50 app fee + 1mo service fee. Patrice Samuels @ Boardwalk.  
+Score 7.8/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 1/5 | Date 5/5 | +0.5 dual direct  
+Awaiting approval — [please_check.md](please_check.md)  
+
 ## 7th April, 2026 (06:30 AM scan)
 
 ### [$2,600 — 1BR East Cambridge (walk to Kendall/MIT)](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html)

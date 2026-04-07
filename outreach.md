@@ -4,6 +4,82 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,250 — Studio Hingham St Riverside Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html)
+**Score:** 8.9/10 | **Sent:** 2026-04-07 10:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,250/mo |
+| Type | Studio / 1ba |
+| Location | Hingham St, Riverside, Cambridge, MA 02139 (near Harvard) |
+| Available | May 1, 2026 |
+| Features | ALL utilities included (heat/HW/water/electric/gas), updated kitchen, garden level, no fee, cats OK, street parking. $10 application registration fee. |
+| Contact | Matthew @ Rent Source LLC |
+| Phone | 781-281-8275 |
+| Email | matthew@rentsourcellc.com |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html |
+| Scores | MIT 4/5 \| Downtown 4/5 \| Price 5/5 \| Quality 4/5 \| Date 4/5 \| +0.5 dual direct |
+| Notes | All utilities included = effective rent ~$2,000/mo. Garden level is the only caveat. Walking distance to MIT (~25 min) and Harvard/Central Red Line. |
+
+---
+
+### [$2,900 — Studio Harvard Square (Jun 1, Jacob Realty)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080806/)
+**Score:** 8.9/10 | **Sent:** 2026-04-07 10:30 | **Status:** Awaiting reply (sent to general inbox)
+
+| Field | Details |
+|-------|---------|
+| Price | $2,900/mo |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge, MA 02138 |
+| Available | June 1, 2026 |
+| Features | Heat/HW included, in-unit laundry, dishwasher, hardwood, pet friendly, no broker fee. 11 photos. |
+| Contact | Han Luong, Jacob Realty |
+| Phone | 857-300-3782 |
+| Email | info@jacobrealty.com (general inbox — Han's individual email not public) |
+| Office | 279 Newbury St, 2nd Floor, Boston MA 02116 / (617) 236-4048 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8080806/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 3/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Notes | Same broker as the $2,950 Winter Hill listing currently in please_check.md. Outreach sent to general inbox; may need follow-up phone call to Han. |
+
+---
+
+### [$2,400 — Studio Davis Square (Jun 2, Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080696/)
+**Score:** 8.7/10 | **Sent:** 2026-04-07 10:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,400/mo |
+| Type | Studio / 1ba |
+| Location | Davis Square, Cambridge, MA 02140 |
+| Available | June 2, 2026 |
+| Features | Laundry in building, dishwasher, water/sewer/trash included (tenant pays heat/HW/electric), no pets, no parking. 9 photos. NO broker fee, NO first/last/security deposit required (only $3,456 due at signing). |
+| Contact | Donicely Zapata, Boardwalk Properties |
+| Phone | (617) 595-0911 |
+| Email | info@boardwalkprops.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8080696/ |
+| Scores | MIT 3/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Notes | No-deposit requirement is unusual — verify in person. Davis is direct Red Line both ways. |
+
+---
+
+### [$2,600 — 1BR Otis St East Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html)
+**Score:** 8.9/10 | **Sent:** 2026-04-07 (manual relay supplied by Kushal) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,600/mo |
+| Type | 1BR / 1ba, 650 sqft |
+| Location | Otis St, East Cambridge, MA 02141 |
+| Available | June 1, 2026 |
+| Features | Walking distance to Kendall/MIT/Lechmere. Updated kitchen, hardwood, in-building laundry, pet friendly. No smoking, no parking. |
+| Contact | Craigslist relay |
+| Email | 5cafc57d66c8346988e8fec984f3044d@hous.craigslist.org |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html |
+| Scores | MIT 4/5 \| Downtown 4/5 \| Price 4/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Notes | Top-tier listing — walkable to Kendall/MIT, Red/Green Line access, June 1 move-in. Relay email obtained manually by Kushal from browser. |
+
+---
+
 ### [$2,800 — Studio Harvard Square (Boardwalk Taha)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8076816/)
 **Score:** 8.7/10 | **Sent:** 2026-04-07 00:55 | **Status:** Awaiting reply
 

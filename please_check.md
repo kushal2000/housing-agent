@@ -3,6 +3,18 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+### [$2,300 — 1BR Spring Hill Somerville (Jun 1, Boardwalk)](https://bostonpads.com/somerville-ma-apartments/somerville-8076372/)
+Score 7.8/10 | Spring Hill, Somerville 02143 | June 1, 2026  
+Below-market price ($266 below avg). Water/sewer/trash included, tenant pays heat/HW/electric. No pets, no parking. ZERO photos (yellow flag for blind viewing). $50 app fee + 1mo service fee.  
+Contact: Patrice Samuels, Boardwalk Properties — info@boardwalkprops.com / (617) 519-7316  
+**Approve?** Reply "yes" to send outreach to info@boardwalkprops.com.
+
+### [$2,600 — 1BR Winter Hill Somerville (Jun 1, Boardwalk)](https://bostonpads.com/somerville-ma-apartments/somerville-8077371/)
+Score 6.9/10 | Winter Hill, Somerville 02143 | June 1, 2026  
+Heat/HW included, hardwood, no broker fee. ZERO photos (placeholder only), vague description.  
+Contact: Patrice Samuels, Boardwalk Properties — info@boardwalkprops.com / (617) 519-7316  
+**Approve?** Reply "yes" to send outreach to info@boardwalkprops.com.
+
 ### [$2,950 — 1BR Winter Hill Somerville (Jun 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8073379/)
 Score 6.9/10 | Winter Hill, Somerville | June 1, 2026  
 Heat/HW/gas/parking/storage all included, hardwood, dishwasher, SS appliances, no broker fee. Strong all-inclusive bundle for the price.  

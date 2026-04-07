@@ -306,9 +306,9 @@
     "first_seen": "2026-04-07T06:30:00",
     "score": 8.9,
     "alerted": true,
-    "outreach_sent": false,
+    "outreach_sent": true,
     "still_active": true,
-    "outreach_blocked_reason": "craigslist relay — manual reply required"
+    "outreach_blocked_reason": "craigslist relay \u2014 manual reply required"
   },
   "bostonpads-somerville-8073379": {
     "title": "$2,950 1BR Winter Hill Somerville (Jun 1, Jacob Realty)",
@@ -376,6 +376,228 @@
     "alerted": false,
     "outreach_sent": false,
     "still_active": true,
-    "rejected": "shared coliving — hard filter NO shared rooms"
+    "rejected": "shared coliving \u2014 hard filter NO shared rooms"
+  },
+  "craigslist-7926137375": {
+    "title": "$2,600 Furnished Studio Harvard near Trowbridge (Jun 15)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-furnished-studio-mins-to/7926137375.html",
+    "price": 2600,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 9.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926208121": {
+    "title": "$3,240 1BR 632 Mass Ave Central Sq (Jun 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-june-lease-start-central/7926208121.html",
+    "price": 3240,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 9.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926180074": {
+    "title": "$2,250 Studio Hingham St Riverside Cambridge (May 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html",
+    "price": 2250,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8080806": {
+    "title": "$2,900 Studio Harvard Sq (Jun 1, Han Luong/Jacob Realty)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080806/",
+    "price": 2900,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8080696": {
+    "title": "$2,400 Studio Davis Sq (Jun 2, Donicely Zapata/Boardwalk)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080696/",
+    "price": 2400,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7926185450": {
+    "title": "$2,400 1BR Cherry St Davis Sq area Somerville (Jun 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/somerville-amazing-porter-sq-one-bed/7926185450.html",
+    "price": 2400,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926186928": {
+    "title": "$2,850 Studio Day St Davis Sq Somerville (Jun 1, Eddie/Maven)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-1excellent-location-studioht/7926186928.html",
+    "price": 2850,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 8.3,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-somerville-8077371": {
+    "title": "$2,600 1BR Winter Hill Somerville (Jun 1, Boardwalk)",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8077371/",
+    "price": 2600,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 6.9,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "please_check": true
+  },
+  "bostonpads-somerville-8076372": {
+    "title": "$2,300 1BR Spring Hill Somerville (Jun 1, Boardwalk)",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8076372/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 7.8,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "please_check": true
+  },
+  "craigslist-7926235332": {
+    "title": "$2,550 1BR Brighton (Sept 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-sept-1st-renovated-bed-in/7926235332.html",
+    "price": 2550,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926232619": {
+    "title": "$2,450 1BR Brighton (Jul 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-july-1st-bed-in-brighton-near/7926232619.html",
+    "price": 2450,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 5.6,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926207021": {
+    "title": "$3,175 1BR Central Sq (Sept 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-bed-bath-concierge/7926207021.html",
+    "price": 3175,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926185278": {
+    "title": "$2,000 Brighton (sparse)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-great-apartment-great-location/7926185278.html",
+    "price": 2000,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 5.0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926088237": {
+    "title": "$2,300 1BR Brighton (Jul 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-bed-on-comm-laundry-july-1st/7926088237.html",
+    "price": 2300,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 5.8,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926168847": {
+    "title": "$2,195 Studio Back Bay (Jun 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-june-2026-awesome-back-bay/7926168847.html",
+    "price": 2195,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 6.5,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926132694": {
+    "title": "$2,450 1BR Brighton (Sept 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-near-laundry-ht-hw-incl/7926132694.html",
+    "price": 2450,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926087364": {
+    "title": "$2,400 1BR Brighton (Sept 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-pet-friendly-bed-in-brighton/7926087364.html",
+    "price": 2400,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926086949": {
+    "title": "$2,400 1BR Allston (Apr 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/allston-bed-near-available-april-ht-hw/7926086949.html",
+    "price": 2400,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926086449": {
+    "title": "$2,500 1BR Brighton (Sept 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-bed-near-ht-hw-included/7926086449.html",
+    "price": 2500,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926053423": {
+    "title": "$2,925 1BR Cambridge (Aug 1, REJECT date)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-super-high/7926053423.html",
+    "price": 2925,
+    "source": "craigslist",
+    "first_seen": "2026-04-07T10:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
   }
 }

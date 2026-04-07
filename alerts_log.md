@@ -2,6 +2,41 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-07 10:30 — ALERT (batch of 7 URGENT listings)
+- Listings (top scores 9.2/10):
+  - [$2,600 Furnished Studio Harvard near Trowbridge](https://boston.craigslist.org/gbs/apa/d/cambridge-furnished-studio-mins-to/7926137375.html) — 9.2
+  - [$3,240 1BR 632 Mass Ave Central Square](https://boston.craigslist.org/gbs/apa/d/cambridge-june-lease-start-central/7926208121.html) — 9.2
+  - [$2,250 Studio Hingham St Riverside](https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html) — 8.9
+  - [$2,900 Studio Harvard Sq (Jacob Realty)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080806/) — 8.9
+  - [$2,400 Studio Davis Sq (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080696/) — 8.7
+  - [$2,400 1BR Cherry St Davis Sq area](https://boston.craigslist.org/gbs/apa/d/somerville-amazing-porter-sq-one-bed/7926185450.html) — 8.7
+  - [$2,850 Studio Day St Davis Sq](https://boston.craigslist.org/gbs/apa/d/cambridge-1excellent-location-studioht/7926186928.html) — 8.3
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-07 10:30 — OUTREACH
+- Listing: [$2,250 Studio Hingham St Riverside Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html)
+- Score: 8.9/10
+- Recipient: matthew@rentsourcellc.com (Matthew @ Rent Source LLC)
+- Contact email: matthew@rentsourcellc.com
+
+### 2026-04-07 10:30 — OUTREACH
+- Listing: [$2,900 Studio Harvard Square (Jacob Realty)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080806/)
+- Score: 8.9/10
+- Recipient: info@jacobrealty.com (general inbox; for Han Luong)
+- Contact email: info@jacobrealty.com
+
+### 2026-04-07 10:30 — OUTREACH
+- Listing: [$2,400 Studio Davis Square (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080696/)
+- Score: 8.7/10
+- Recipient: info@boardwalkprops.com (Donicely Zapata @ Boardwalk)
+- Contact email: info@boardwalkprops.com
+
+### 2026-04-07 (manual relay supplied) — OUTREACH
+- Listing: [$2,600 1BR East Cambridge Otis St](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html)
+- Score: 8.9/10
+- Recipient: 5cafc57d66c8346988e8fec984f3044d@hous.craigslist.org (Craigslist relay supplied by Kushal)
+- Contact email: 5cafc57d66c8346988e8fec984f3044d@hous.craigslist.org
+
 ### 2026-04-07 06:35 — ALERT
 - Listing: [$2,600 1BR East Cambridge (walk to Kendall/MIT)](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html)
 - Score: 8.9/10
