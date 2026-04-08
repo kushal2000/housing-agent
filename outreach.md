@@ -4,6 +4,46 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,730 — Studio Harvard Square (Jul 1, NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8068128/)
+**Score:** 8.9/10 | **Sent:** 2026-04-08 07:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,730/mo |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge, MA 02138 |
+| Available | July 1, 2026 |
+| Features | Heat/HW included, no broker fee, near transit/universities, no pets, no parking |
+| Contact | Greg Bastien, NextGen Realty |
+| Phone | (617) 467-8169 |
+| Email | info@nextgenrealty.com (general inbox) |
+| Office | 1243 Commonwealth Ave, Allston / (617) 208-2100 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8068128/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 3/5 \| +0.5 dual direct |
+| Notes | July 1 is the only weak point (one week late vs Jun 15 target). Harvard Sq + heat incl + NextGen known agent contact = high confidence. |
+
+---
+
+### [$2,200 — Studio Davis Square (Now flexible, Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065192/)
+**Score:** 8.7/10 | **Sent:** 2026-04-08 07:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,200/mo |
+| Type | Studio / 1ba |
+| Location | Davis Square, Cambridge, MA 02140 |
+| Available | Now (flexible move-in) |
+| Features | Modern, natural light, water/sewer/garbage included (tenant pays heat/HW/electric), no broker fee, no pets, no parking, $335 below market avg |
+| Contact | Thomas Webb, Douglas Paul Real Estate |
+| Phone | (860) 967-4992 |
+| Email | info@douglaspaulre.com (verified pattern) |
+| Office | 1210 Massachusetts Ave, Cambridge MA 02138 / (617) 782-0211 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8065192/ |
+| Scores | MIT 3/5 \| Downtown 5/5 \| Price 5/5 \| Quality 4/5 \| Date 4/5 \| +0.5 dual direct |
+| Notes | Listed as "available now" but flexible — good shot at June 15 hold. $335 below Cambridge studio average makes this a value play. Davis Red Line direct for both commutes. |
+
+---
+
 ### [$2,250 — Studio Hingham St Riverside Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-no-fee-riverside-studio-all/7926180074.html)
 **Score:** 8.9/10 | **Sent:** 2026-04-07 10:30 | **Status:** Awaiting reply
 

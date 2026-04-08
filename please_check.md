@@ -3,6 +3,54 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-08 (7:30 AM scan)
+
+### [$3,400 — 1BR Harvard Square Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-harvard-square-hardwood/7926160524.html)
+Score 7.8/10 | Harvard Sq, Cambridge 02238 | May 1 or June 1, 2026  
+Eat-in kitchen with dishwasher, freshly painted, dining room, hardwood, private back porch. Strong unit but $3,400 hits the price ceiling.  
+Contact: Craigslist relay only — paste reply email here  
+**Approve?** Reply "yes" or drop the Craigslist relay email here to send outreach.
+
+### [$3,225 — 1BR 18 Forest St Porter/Agassiz (Ben Keddy)](https://boston.craigslist.org/gbs/apa/d/cambridge-bed-porter-agassiz-porter-sq/7924827635.html)
+Score 7.8/10 | 18 Forest St, Cambridge 02138 (Porter Sq/Agassiz) | June 1, 2026  
+Pre-war brick, 535sqft, quartz counters, hardwood, in-bldg laundry, NO FEE. Steps to Porter Red Line.  
+Contact: Ben Keddy, 781-645-8736 (no email published)  
+**Approve?** Reply "yes" — we'll need the relay email or a phone outreach plan.
+
+### [$2,780 — 1+BR Highland Ave Spring Hill (Aliya Johnson)](https://boston.craigslist.org/gbs/apa/d/somerville-porter-sq-spring-hill/7926286753.html)
+Score 7.8/10 | Highland Ave near Sycamore St, Somerville 02143 | June 1, 2026  
+1930s brick, hardwood, quartz kitchen, SS appliances, fully tiled bath w/ glass shower. NO FEE. Includes legitimate den.  
+Contact: Aliya Johnson, 413-272-5059 (Ref #142348, no email published)  
+**Approve?** Reply "yes" or drop a relay email.
+
+### [$2,550 — 1.5BR 2 Park Ave Davis Sq (Sila, basement)](https://boston.craigslist.org/gbs/apa/d/somerville-15-bed-min-to-davis-sq-all/7925974080.html)
+Score 7.8/10 | 2 Park Ave, Somerville 02144 | July 1, 2026  
+ALL UTILITIES INCLUDED, renovated kitchen, dishwasher, SS, no pets. BASEMENT level (-1 quality). 2-min walk to Davis Red.  
+Contact: Sila, 617-417-5450 (phone only)  
+**Approve?** Reply "yes" or drop a relay email.
+
+### [$3,200 — 1BR Forest Court Cambridge (May 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-mins-to-the-may/7926050636.html)
+Score 7.6/10 | Forest Court, Cambridge 02138 (near Porter/Frost) | May 1, 2026  
+Renovated quartz kitchen, hardwood, tiled bath, high ceilings, secure bldg, basement laundry, cats OK. NO RENTAL FEE.  
+Contact: 617-684-8000 (Ref #123317, phone only)  
+**Approve?** Reply "yes" or drop a relay email.
+
+### [$2,100 — Studio Spring Hill Somerville (Towne Patrick)](https://bostonpads.com/somerville-ma-apartments/somerville-8076935/)
+Score 7.3/10 | Spring Hill, Somerville 02143 | Available Now ($223 below market)  
+Water/garbage included, no pets, no parking. Patrick Davoodi-Masihe @ Towne Realty Group.  
+Contact: Patrick Davoodi-Masihe — 774-279-5543 / general inbox: info@thetownere.com  
+**Approve?** Reply "yes" — known agent inbox available, can fire immediately.
+
+### [$3,300 — 1BR Porter Square Cambridge (Boardwalk Ashley)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079019/)
+Score 6.9/10 | Porter Square, Cambridge | Available Now  
+In-unit laundry, hardwood, hot water included, cat friendly, no broker fee. Ashley Stephens @ Boardwalk.  
+Contact: Ashley Stephens, 617-516-7901 / info@boardwalkprops.com (known)  
+**Approve?** Reply "yes" — Boardwalk inbox already in registry. Note: $3,300 is at the high end of acceptable.
+
+---
+
+## Earlier (2026-04-07)
+
 ### [$2,300 — 1BR Spring Hill Somerville (Jun 1, Boardwalk)](https://bostonpads.com/somerville-ma-apartments/somerville-8076372/)
 Score 7.8/10 | Spring Hill, Somerville 02143 | June 1, 2026  
 Below-market price ($266 below avg). Water/sewer/trash included, tenant pays heat/HW/electric. No pets, no parking. ZERO photos (yellow flag for blind viewing). $50 app fee + 1mo service fee.  

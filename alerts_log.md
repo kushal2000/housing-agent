@@ -2,6 +2,44 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-08 07:30 — ALERT (batch of 14 URGENT listings)
+- Top scores:
+  - [$2,200 Studio Foster St Brattle](https://boston.craigslist.org/gbs/apa/d/cambridge-room-studio-on-foster-street/7925967045.html) — 9.6
+  - [$2,200 Studio Garfield St Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-harvard-porter-studio-queen/7925844226.html) — 9.2
+  - [$2,200 1BR 521 Cambridge St E.Camb](https://boston.craigslist.org/gbs/apa/d/cambridge-sun-filled-bed-no-fee-mins-to/7920402290.html) — 8.9
+  - [$2,000 1BR Irving St Harvard area (basement)](https://boston.craigslist.org/gbs/apa/d/cambridge-super-nice-br-apartment-on/7925971805.html) — 8.9
+  - [$2,730 Studio Harvard Sq NextGen](https://bostonpads.com/cambridge-ma-apartments/cambridge-8068128/) — 8.9
+  - [$2,200 Studio Davis Sq Douglas Paul](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065192/) — 8.7
+  - [$2,475 1BR Park Ave Davis Maven](https://boston.craigslist.org/gbs/apa/d/somerville-1best-location-1bd2-min-to/7926305614.html) — 8.3
+  - [$3,025 1BR 38 Day St Davis](https://boston.craigslist.org/gbs/apa/d/somerville-spacious-davis-sq-1br-no/7925919336.html) — 8.3
+  - [$2,700 Studio 402A Highland Davis](https://boston.craigslist.org/gbs/apa/d/somerville-beautiful-studio-in-davis/7925986692.html) — 8.3
+  - [$3,400 1BR 2 Arlington Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-charming-bed-mins-to-the-heat/7926049294.html) — 8.1
+  - [$2,550 1BR Wendell St Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-large-bsmnt-level-1br-heat-hw/7925933269.html) — 8.1
+  - [$2,475 1BR 11R Park Ave Davis Sila](https://boston.craigslist.org/gbs/apa/d/cambridge-minutes-to-davis-sq-renovated/7925946303.html) — 8.1
+  - [$2,200 1BR Hancock St Somerville](https://boston.craigslist.org/nos/apa/d/somerville-bedroom-apt-within-walking/7926349186.html) — 8.1
+  - [$2,600 1BR 17 Otis St Somerville](https://boston.craigslist.org/gbs/apa/d/somerville-bed-deck-and-yard-pet/7926018246.html) — 8.0
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-08 07:30 — OUTREACH
+- Listing: [$2,730 Studio Harvard Square (NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8068128/)
+- Score: 8.9/10
+- Recipient: info@nextgenrealty.com (general inbox; for Greg Bastien)
+- Contact email: info@nextgenrealty.com
+
+### 2026-04-08 07:30 — OUTREACH
+- Listing: [$2,200 Studio Davis Square (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065192/)
+- Score: 8.7/10
+- Recipient: info@douglaspaulre.com (general inbox; for Thomas Webb)
+- Contact email: info@douglaspaulre.com
+
+### 2026-04-08 07:43 — DIGEST (7 GOOD-tier listings)
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+- Listings 7.8: Harvard Sq 7926160524, 18 Forest St 7924827635, Highland Ave Spring Hill 7926286753, 2 Park Ave Sila 7925974080
+- Listings 7.6: Forest Court 7926050636
+- Listings 7.3: Spring Hill bostonpads 8076935
+- Listings 6.9: Porter Sq Boardwalk bostonpads 8079019
+- Window: within 30min of 8AM ET (7:43 AM ET)
+
 ### 2026-04-07 10:30 — ALERT (batch of 7 URGENT listings)
 - Listings (top scores 9.2/10):
   - [$2,600 Furnished Studio Harvard near Trowbridge](https://boston.craigslist.org/gbs/apa/d/cambridge-furnished-studio-mins-to/7926137375.html) — 9.2

@@ -2,6 +2,164 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 8th April, 2026 (7:30 AM scan)
+
+### [$2,200 — Studio Foster St (Brattle/Harvard)](https://boston.craigslist.org/gbs/apa/d/cambridge-room-studio-on-foster-street/7925967045.html)
+Foster St, Brattle area, Cambridge 02138 (short walk to Harvard Sq) | Studio/1ba | June 1, 2026  
+Top floor of 3-unit, eat-in kitchen w/ dishwasher, near Charles River and Harvard Sq. First/last required.  
+Score 9.6/10 | MIT 4/5 | Downtown 5/5 | Price 5/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$2,200 — Studio Garfield St (Harvard/Porter)](https://boston.craigslist.org/gbs/apa/d/cambridge-harvard-porter-studio-queen/7925844226.html)
+Garfield St, Cambridge 02138 (Queen Anne Victorian) | Studio/1ba | June 1, 2026  
+Ground floor in Victorian home, walking to Harvard. All utilities incl, in-bldg laundry, off-street parking, cats OK, wheelchair accessible.  
+Score 9.2/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (owner 617-799-3338)  
+
+### [$2,200 — 1BR 521 Cambridge St (East Cambridge)](https://boston.craigslist.org/gbs/apa/d/cambridge-sun-filled-bed-no-fee-mins-to/7920402290.html)
+521 Cambridge St, East Cambridge/Lechmere 02141 | 1BR/1ba | June 1, 2026  
+Sun-filled, tons of windows, near Inman/East Cambridge dining. NO FEE. Street parking, no laundry on-site.  
+Score 8.9/10 | MIT 4/5 | Downtown 4/5 | Price 5/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (617-684-8000)  
+
+### [$2,000 — 1BR Irving St Harvard area (basement)](https://boston.craigslist.org/gbs/apa/d/cambridge-super-nice-br-apartment-on/7925971805.html)
+Irving St, Cambridge 02138 (walk to Harvard Sq) | 1BR/1ba basement | June 15 or July 1, 2026  
+Open kitchen/living, full bath, heat/HW included, basement laundry/storage. Cheapest 1BR walking to Harvard.  
+Score 8.9/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$2,730 — Studio Harvard Square (Jul 1, NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8068128/)
+Harvard Square, Cambridge 02138 | Studio/1ba | July 1, 2026  
+Heat/HW included, no broker fee, near transit/universities. Greg Bastien @ NextGen Realty.  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@nextgenrealty.com (Greg Bastien) — [details](outreach.md)  
+
+### [$2,200 — Studio Davis Square (Now flexible, Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065192/)
+Davis Square, Cambridge 02140 | Studio/1ba | Now (flexible move-in) | $335 below market  
+Modern, natural light, water/sewer/garbage incl. No broker fee. Thomas Webb @ Douglas Paul Real Estate.  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com (Thomas Webb) — [details](outreach.md)  
+
+### [$2,475 — 1BR Park Ave Davis Sq (Maven)](https://boston.craigslist.org/gbs/apa/d/somerville-1best-location-1bd2-min-to/7926305614.html)
+Park Ave near College Ave, Davis Square, Somerville 02144 | 1BR/1ba | July 1, 2026  
+2-min walk to Davis T, hardwood, dishwasher, coin laundry, pets neg, $0 broker fee. Eddie @ Maven Realty.  
+Score 8.3/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (Eddie Maven 617-319-4612), Maven email patterns not public  
+
+### [$3,025 — 1BR 38 Day St Davis Sq (tenant-listed)](https://boston.craigslist.org/gbs/apa/d/somerville-spacious-davis-sq-1br-no/7925919336.html)
+38 Day St Apt 22, Somerville 02144 | 1BR/1ba 650sqft | May 1 or June 1, 2026 (flexible)  
+Gas heat/HW included, in-bldg laundry, off-street parking $150 (avail), cats OK. NO BROKER FEE. Listed by current tenants.  
+Score 8.3/10 | MIT 3/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only (tenant-listed), manual reply required  
+
+### [$2,700 — Studio 402A Highland Ave Davis (Maven office)](https://boston.craigslist.org/gbs/apa/d/somerville-beautiful-studio-in-davis/7925986692.html)
+402A Highland Ave, Davis Square, Somerville 02144 | Studio/1ba (2-room) | Date TBD  
+Bright, well-maintained, hot water paid by landlord. Steps from Red Line. NO FEE. Maven Realty's own office building.  
+Score 8.3/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only (Maven Realty), manual reply required  
+
+### [$3,400 — 1BR 2 Arlington St Cambridge (Harvard area)](https://boston.craigslist.org/gbs/apa/d/cambridge-charming-bed-mins-to-the-heat/7926049294.html)
+2 Arlington St, Cambridge 02138 (Harvard area) | 1+BR/1ba (legitimate study) | June 1, 2026  
+Granite kitchen, dishwasher, microwave, hardwood, 2 mins to T, NO FEE. Heat included.  
+Score 8.1/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (617-684-8000)  
+
+### [$2,550 — 1BR Wendell St Cambridge (basement)](https://boston.craigslist.org/gbs/apa/d/cambridge-large-bsmnt-level-1br-heat-hw/7925933269.html)
+Wendell St near Mass Ave, Cambridge 02138 | 1BR/1ba basement | June 1, 2026  
+Heat/HW included, indoor bike storage, on-site laundry, cats OK, only first month upfront. Listed by owner.  
+Score 8.1/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only (owner), manual reply required  
+
+### [$2,475 — 1BR 11R Park Ave Davis Sq (Sila)](https://boston.craigslist.org/gbs/apa/d/cambridge-minutes-to-davis-sq-renovated/7925946303.html)
+11R Park Avenue, Somerville 02144 | 1BR/1ba (1st floor) | July 1, 2026  
+Dishwasher, large bathroom, shared laundry, street parking, pets welcome. NO FEES. Steps from Davis Red Line.  
+Score 8.1/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (Sila 617-417-5450)  
+
+### [$2,200 — 1BR Hancock St Somerville (walking to Porter)](https://boston.craigslist.org/nos/apa/d/somerville-bedroom-apt-within-walking/7926349186.html)
+Hancock St, Somerville 02145 | 1BR/1ba 3rd floor | Date TBD  
+5-min walk to Porter Sq, 7-min to Davis. Skylight bathroom, AC, basement laundry, no animals/no smoking. Tenant pays utils.  
+Score 8.1/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 4/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$2,600 — 1BR 17 Otis St Somerville](https://boston.craigslist.org/gbs/apa/d/somerville-bed-deck-and-yard-pet/7926018246.html)
+17 Otis St, Somerville 02145 | 1BR/1ba 550sqft | June 1, 2026  
+Renovated, hardwood, granite, individual AC/heat, deck + yard, in-bldg laundry, pets OK (cats/dogs), street parking. NO BROKER FEE.  
+Score 8.0/10 | MIT 4/5 | Downtown 3/5 | Price 4/5 | Quality 5/5 | Date 5/5  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$3,400 — 1BR Harvard Square (May/Jun 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-harvard-square-hardwood/7926160524.html)
+Harvard Square area, Cambridge 02238 | 1BR/1ba | May 1 or June 1, 2026  
+Eat-in kitchen w/ gas stove and dishwasher, freshly painted, dining room, hardwood, private back porch, coin laundry.  
+Score 7.8/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (Craigslist relay)  
+
+### [$3,225 — 1BR 18 Forest St Porter/Agassiz (Ben Keddy)](https://boston.craigslist.org/gbs/apa/d/cambridge-bed-porter-agassiz-porter-sq/7924827635.html)
+18 Forest St, Cambridge 02138 (Porter Sq/Agassiz) | 1BR/1ba 535sqft | June 1, 2026  
+Pre-war brick, quartz counters, hardwood, tiled bath, in-bldg laundry, street parking. NO FEE. Steps to Porter Red Line.  
+Score 7.8/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (phone only — Ben Keddy 781-645-8736)  
+
+### [$2,780 — 1BR Highland Ave Spring Hill (Aliya Johnson)](https://boston.craigslist.org/gbs/apa/d/somerville-porter-sq-spring-hill/7926286753.html)
+Highland Ave near Sycamore St, Somerville 02143 (Spring Hill) | 1+BR/1ba (incl den) | June 1, 2026  
+1930s brick, hardwood, quartz kitchen, SS appliances, fully tiled bath w/ glass shower. NO FEE.  
+Score 7.8/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 5/5  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (phone only — Aliya Johnson 413-272-5059)  
+
+### [$2,550 — 1.5BR 2 Park Ave Davis (Sila, basement)](https://boston.craigslist.org/gbs/apa/d/somerville-15-bed-min-to-davis-sq-all/7925974080.html)
+2 Park Ave, Somerville 02144 | 1.5BR/1ba basement | July 1, 2026  
+Renovated kitchen, dishwasher, SS appliances, ALL UTILITIES INCLUDED. No pets.  
+Score 7.8/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 3/5 | Date 3/5 | +0.5 dual direct  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (phone only — Sila 617-417-5450)  
+
+### [$3,200 — 1BR Forest Court Cambridge (May 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-mins-to-the-may/7926050636.html)
+Forest Court, Cambridge 02138 (near Porter/Frost) | 1BR/1ba | May 1, 2026  
+Renovated quartz kitchen, hardwood, tiled bathroom, high ceilings, secure bldg, basement laundry. Cats OK. NO RENTAL FEE.  
+Score 7.6/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (phone only — 617-684-8000)  
+
+### [$2,100 — Studio Spring Hill Somerville (Towne Patrick)](https://bostonpads.com/somerville-ma-apartments/somerville-8076935/)
+Spring Hill, Somerville 02143 | Studio/1ba | Available Now | $223 below market  
+Water/garbage included, no pets, no parking. Patrick Davoodi-Masihe @ Towne Realty Group.  
+Score 7.3/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (info@thetownere.com available)  
+
+### [$3,300 — 1BR Porter Square Cambridge (Boardwalk Ashley)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079019/)
+Porter Square, Cambridge | 1BR/1ba | Available Now  
+In-unit laundry, hardwood, hot water included, cat friendly, no broker fee. Ashley Stephens @ Boardwalk.  
+Score 6.9/10 | MIT 3/5 | Downtown 5/5 | Price 1/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+Logged to please_check.md (GOOD tier)  
+Outreach: pending Kushal approval (info@boardwalkprops.com known)  
+
+### Rejects logged this scan
+- 7926181293 (17 Otis Sept 1, dup of 7926018246)  
+- 7926253675 (North End Aug 1)  
+- 7926003647, 7926007991 (888 Mass Ave Aug 1, dup pair)  
+- 7926037473, 7926032800, 7926020553, 7925997087 (11 Ellery St Aug 1, 4-listing duplicate set)  
+- bostonpads cambridge-8068228, cambridge-8079072 (2BR — hard filter)  
+- bostonpads somerville-6126153 (RoostUp shared coliving — hard filter)  
+- 7925989277 (Cherry St dup of seen 7926185450)  
+
 ## 7th April, 2026 (10:30 AM scan)
 
 ### [$2,600 — Furnished Studio Harvard near Trowbridge](https://boston.craigslist.org/gbs/apa/d/cambridge-furnished-studio-mins-to/7926137375.html)

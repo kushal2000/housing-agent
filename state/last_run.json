@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-07T10:30:00",
-  "listings_fetched": 50,
-  "new_listings": 9,
-  "alerts_sent": 1,
-  "outreach_sent": 3,
+  "last_run": "2026-04-08T07:30:00",
+  "listings_fetched": 333,
+  "new_listings": 33,
+  "alerts_sent": 14,
+  "outreach_sent": 2,
   "sources_status": {
-    "craigslist_mit": "ok (30 listings — fetched after URL retry; many Brighton/Allston Sept 1 rejected)",
-    "craigslist_downtown": "ok (175 listings sampled, 0 new in scoring range — already in seen registry from morning scan)",
-    "bostonpads_cambridge": "ok (20 sampled, 2 new in date+price+bedroom filter, others Sept 2026)",
-    "bostonpads_somerville": "ok (9 sampled, 2 new candidates Winter Hill + Spring Hill)",
-    "gmail_facebook": "ok (0 results)",
-    "gmail_google_groups": "ok (0 results)",
-    "websearch": "skipped (covered by Craigslist + BostonPads this run)",
+    "craigslist_mit": "ok (333 unique URLs via curl, ~24 candidates fetched, 14 URGENT new + 7 GOOD new + 11 REJECT/DUP)",
+    "craigslist_downtown": "ok (175 sampled — most already in seen registry or low MIT-tier; no new URGENT)",
+    "bostonpads_cambridge": "ok (25 sampled, 4 fetched, 2 URGENT new (NextGen Studio, Douglas Paul Studio Davis), 1 GOOD (Boardwalk Porter Sq), 2 REJECT 2BR)",
+    "bostonpads_somerville": "ok (25 sampled, 1 GOOD new (Towne Spring Hill Studio), 1 REJECT shared coliving)",
+    "gmail_facebook": "ok (0 results since last run)",
+    "gmail_google_groups": "ok (0 results since last run)",
+    "websearch": "skipped (Craigslist/BostonPads delivered enough this run)",
     "to_check": "ok (no URLs to check)"
   },
-  "notes": "7 URGENT new (4 Craigslist + 3 BostonPads): 2 at 9.2/10 (Furnished Studio Harvard, $3,240 1BR Central Sq), 2 at 8.9 (Riverside Studio + Harvard Sq Studio Jacob), 2 at 8.7 (Davis Sq Studio Boardwalk + Cherry St 1BR), 1 at 8.3 (Day St Studio Davis area). Outreach sent for 3 (Riverside via matthew@rentsourcellc.com, Harvard Sq via info@jacobrealty.com, Davis Sq via info@boardwalkprops.com). 4 URGENT need manual relay/phone (top scorer is the $3,240 Central Sq concierge). Also Otis St Craigslist relay supplied earlier in conversation by Kushal — outreach SENT to 5cafc57d66c8346988e8fec984f3044d@hous.craigslist.org. 2 GOOD added to please_check.md (Spring Hill 7.8, Winter Hill 6.9, both Boardwalk/Patrice Samuels). 11 Craigslist listings logged to seen registry as REJECT (date out of range) or low score."
+  "notes": "Big morning: 14 URGENT + 7 GOOD = 21 promising new listings. Cambridge Craigslist had a large overnight batch. Top scores: Foster St Studio 9.6 (Brattle area, $2,200, walk to Harvard), Garfield St Studio 9.2 ($2,200 Victorian all-utils-incl). Auto-outreach SENT to NextGen (Greg Bastien Studio Harvard Sq $2,730 8.9) and Douglas Paul (Thomas Webb Studio Davis Sq $2,200 8.7). 12 of 14 URGENT need manual Craigslist relay reply via Kushal's browser — they were all flagged in the alert email. The GOOD-tier digest also sent (7:43 AM ET, within 8 AM window). Total seen registry now 87 listings; 25 alerted; 12 outreach sent cumulative."
 }
