@@ -2,6 +2,71 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 9th April, 2026 (6:37 AM scan)
+
+### [$1,795 — Studio E Cambridge near Kendall](https://boston.craigslist.org/gbs/apa/d/cambridge-spacious-studio-include/7926477611.html)
+Berkshire near Hardwick, Cambridge 02141 (10 min Kendall, 5 min MIT) | Studio/1ba | Available now thru Aug 31 (sublease, renewable)  
+Furnished 1,250 sqft, all utils incl, A/C, bldg laundry. Sublease — price unusually low but has 8 photos and specific address.  
+Score 9.6/10 | MIT 4/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$1,985 — Studio near MIT Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html)
+Cambridge 02141 (near MIT) | Studio/1ba | Lease thru Aug 31, 2026 or Aug 2027  
+Furnished, utils incl (~$150/mo), new A/C, bldg laundry, no realtor fee. Title says 1BR but description says Studio.  
+Score 9.6/10 | MIT 4/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$2,600 — 1BR Mt Auburn/Brattle Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/)
+Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | 1BR/1ba | June 2, 2026  
+Dishwasher, 14 photos, no broker fee. Water/sewer/garbage incl. 12.7% below market. No pets, no parking.  
+Score 9.2/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com (Patrice Samuels, Boardwalk, 617-519-7316)  
+
+### [$2,700 — 1BR Inman Square Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082183/)
+Inman Square, Cambridge 02141 | 1BR/1ba | Available now  
+Hardwood floors, modern bath, in-wall A/C, cat-friendly, no broker fee. $279 below market.  
+Score 8.7/10 | MIT 4/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com (Steven Moffa, Boardwalk, 508-733-0883)  
+
+### [$2,700 — 1BR Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
+Sixth St, Cambridge 02141 (top floor, 3-family) | 1BR/1ba + office | Aug-Sept 2026  
+Wide-pine floors, mini-split A/C, in-bldg washer/dryer, dishwasher, ceiling fans. 18 photos. Near Kendall/Lechmere.  
+Score 8.7/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$2,100 — Studio Spring Hill Somerville (Douglas Paul)](https://bostonpads.com/somerville-ma-apartments/somerville-4404273/)
+Spring Hill, Somerville 02143 | Studio/1ba | Available now  
+No broker fee, $223 below market. Near Davis/Union Sq transit. Tenant pays utils.  
+Score 8.3/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com (Josue Vargas, Douglas Paul, 617-595-1019)  
+
+### [$2,100 — Studio Spring Hill Somerville (Towne Realty)](https://bostonpads.com/somerville-ma-apartments/somerville-8074550/)
+Spring Hill, Somerville 02143 | Studio/1ba | August 1, 2026  
+In-unit laundry, heat/HW included, cat-friendly, no broker fee. 9.6% below market.  
+Score 8.1/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to Info@thetownere.com (Anthony Campbell, Towne Realty, 617-304-4825)  
+
+### [$2,300 — Studio Davis Square Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8077156/)
+Davis Square, Cambridge | Studio/1ba | August 2, 2026  
+No broker fee. Davis Red Line direct to both MIT and downtown.  
+Score 7.8/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 2/5 | +0.5 dual direct  
+Digest: pending (next 8 AM window)  
+Outreach: not sent — awaiting approval  
+
+### [$3,300 — 1BR Porter Square Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082086/)
+Porter Square, Cambridge | 1BR/1ba | Available now  
+No broker fee. Porter Red Line direct to both MIT and downtown.  
+Score 7.4/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct  
+Digest: pending (next 8 AM window)  
+Outreach: not sent — awaiting approval  
+
 ## 8th April, 2026 (7:30 AM scan)
 
 ### [$2,200 — Studio Foster St (Brattle/Harvard)](https://boston.craigslist.org/gbs/apa/d/cambridge-room-studio-on-foster-street/7925967045.html)

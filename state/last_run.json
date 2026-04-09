@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-08T07:30:00",
-  "listings_fetched": 333,
-  "new_listings": 33,
-  "alerts_sent": 14,
-  "outreach_sent": 2,
+  "last_run": "2026-04-09T06:37:00",
+  "listings_fetched": 280,
+  "new_listings": 9,
+  "alerts_sent": 7,
+  "outreach_sent": 4,
   "sources_status": {
-    "craigslist_mit": "ok (333 unique URLs via curl, ~24 candidates fetched, 14 URGENT new + 7 GOOD new + 11 REJECT/DUP)",
-    "craigslist_downtown": "ok (175 sampled — most already in seen registry or low MIT-tier; no new URGENT)",
-    "bostonpads_cambridge": "ok (25 sampled, 4 fetched, 2 URGENT new (NextGen Studio, Douglas Paul Studio Davis), 1 GOOD (Boardwalk Porter Sq), 2 REJECT 2BR)",
-    "bostonpads_somerville": "ok (25 sampled, 1 GOOD new (Towne Spring Hill Studio), 1 REJECT shared coliving)",
+    "craigslist_mit": "degraded (200+ listings returned but no prices/URLs — got JSON schema markup instead of rendered HTML; 3 Cambridge candidates found via downtown overlap)",
+    "craigslist_downtown": "ok (112 listings extracted, 3 new Cambridge/E.Cambridge candidates scored URGENT)",
+    "bostonpads_cambridge": "ok (30 sampled, 3 new studio/1BR candidates: 1 URGENT Mt Auburn 9.2, 1 URGENT Inman 8.7, 2 GOOD Davis/Porter)",
+    "bostonpads_somerville": "ok (30 sampled, 2 new studio candidates: Spring Hill Douglas Paul 8.3, Spring Hill Towne Realty 8.1)",
     "gmail_facebook": "ok (0 results since last run)",
     "gmail_google_groups": "ok (0 results since last run)",
-    "websearch": "skipped (Craigslist/BostonPads delivered enough this run)",
+    "websearch": "ok (2 queries, no actionable new listings beyond CL/BP overlap)",
     "to_check": "ok (no URLs to check)"
   },
-  "notes": "Big morning: 14 URGENT + 7 GOOD = 21 promising new listings. Cambridge Craigslist had a large overnight batch. Top scores: Foster St Studio 9.6 (Brattle area, $2,200, walk to Harvard), Garfield St Studio 9.2 ($2,200 Victorian all-utils-incl). Auto-outreach SENT to NextGen (Greg Bastien Studio Harvard Sq $2,730 8.9) and Douglas Paul (Thomas Webb Studio Davis Sq $2,200 8.7). 12 of 14 URGENT need manual Craigslist relay reply via Kushal's browser — they were all flagged in the alert email. The GOOD-tier digest also sent (7:43 AM ET, within 8 AM window). Total seen registry now 87 listings; 25 alerted; 12 outreach sent cumulative."
+  "notes": "7 URGENT + 2 GOOD = 9 new listings. Top scores: $1,795 Studio E Cambridge 9.6 (sublease, unusually cheap — verify in person), $1,985 Studio near MIT 9.6 (title/description mismatch). $2,600 1BR Mt Auburn/Brattle 9.2 is the most reliable URGENT pick (Boardwalk agent, June 2, no fee). Auto-outreach sent to Boardwalk (2 listings), Douglas Paul, and Towne Realty. 3 Craigslist listings flagged for manual relay reply. Craigslist MIT query returned degraded data — no impact since downtown query covers Cambridge overlap. Total seen registry now 96 listings; 32 alerted; 16 outreach sent cumulative."
 }

@@ -3,6 +3,20 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-09 (6:37 AM scan)
+
+### [$2,300 — Studio Davis Square Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8077156/)
+Score 7.8/10 | Davis Square, Cambridge | August 2, 2026  
+No broker fee. Davis Red Line direct for both commutes. Aug move-in is the main drawback.  
+Contact: BostonPads platform — agent TBD  
+**Approve?** Reply "yes" to send outreach.
+
+### [$3,300 — 1BR Porter Square Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082086/)
+Score 7.4/10 | Porter Square, Cambridge | Available now  
+No broker fee. Porter Red Line direct for both commutes. Price is the main drawback ($3,300).  
+Contact: BostonPads platform — agent TBD  
+**Approve?** Reply "yes" to send outreach.
+
 ## Added 2026-04-08 (7:30 AM scan)
 
 ### [$3,400 — 1BR Harvard Square Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-harvard-square-hardwood/7926160524.html)

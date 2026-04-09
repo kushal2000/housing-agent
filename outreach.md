@@ -4,6 +4,90 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,600 — 1BR Mt Auburn/Brattle Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/)
+**Score:** 9.2/10 | **Sent:** 2026-04-09 06:37 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,600/mo |
+| Type | 1BR / 1ba |
+| Location | Mt. Auburn/Brattle/Fresh Pond, Cambridge, MA 02138 |
+| Available | June 2, 2026 |
+| Features | Dishwasher, no broker fee, water/sewer/garbage incl, 14 photos. No pets, no parking. 12.7% below market. |
+| Contact | Patrice Samuels, Boardwalk Properties |
+| Phone | 617-519-7316 |
+| Email | info@boardwalkprops.com |
+| Office | 1518 Tremont St, Boston MA 02120 / (617) 445-2200 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/ |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 4/5 \| Quality 4/5 \| Date 5/5 \| +0.5 dual direct |
+| Move-in costs | First $0, Last $2,600, Security $2,600 = $3,456 est total due |
+| Notes | Harvard area, June 2 perfect timing. Tenant pays heat/HW/electric. Strong location for both commutes via Red Line. |
+
+---
+
+### [$2,700 — 1BR Inman Square Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082183/)
+**Score:** 8.7/10 | **Sent:** 2026-04-09 06:37 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,700/mo |
+| Type | 1BR / 1ba |
+| Location | Inman Square, Cambridge, MA 02141 |
+| Available | Now (flexible) |
+| Features | Hardwood floors, modern bath, in-wall A/C, cat-friendly, no broker fee. 6 photos. |
+| Contact | Steven Moffa, Boardwalk Properties |
+| Phone | 508-733-0883 |
+| Email | info@boardwalkprops.com |
+| Office | 143 Harvard Ave, Boston MA 02134 / (617) 566-5333 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8082183/ |
+| Scores | MIT 4/5 \| Downtown 4/5 \| Price 4/5 \| Quality 5/5 \| Date 4/5 \| +0.5 dual direct |
+| Move-in costs | First $2,700, Security $2,700 = $5,400 due (no last month) |
+| Notes | Inman → 10 min walk to Central Red Line → direct to both MIT and downtown. $279 below market. |
+
+---
+
+### [$2,100 — Studio Spring Hill Somerville (Douglas Paul)](https://bostonpads.com/somerville-ma-apartments/somerville-4404273/)
+**Score:** 8.3/10 | **Sent:** 2026-04-09 06:37 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,100/mo |
+| Type | Studio / 1ba |
+| Location | Spring Hill, Somerville, MA 02143 |
+| Available | Now |
+| Features | No broker fee, $223 below market avg. Near MBTA buses 83, 87, 88, 90. |
+| Contact | Josue Vargas, Douglas Paul Real Estate |
+| Phone | (617) 595-1019 |
+| Email | info@douglaspaulre.com |
+| Office | 1210 Massachusetts Ave, Cambridge MA 02138 / (617) 782-0211 |
+| Listing | https://bostonpads.com/somerville-ma-apartments/somerville-4404273/ |
+| Scores | MIT 3/5 \| Downtown 4/5 \| Price 5/5 \| Quality 4/5 \| Date 4/5 \| +0.5 dual direct |
+| Move-in costs | First $2,100, Last $2,100, Security $2,100 = $6,300 due |
+| Notes | Walkable to Davis Red Line for both commutes. Tenant pays all utils. Very affordable. |
+
+---
+
+### [$2,100 — Studio Spring Hill Somerville (Towne Realty)](https://bostonpads.com/somerville-ma-apartments/somerville-8074550/)
+**Score:** 8.1/10 | **Sent:** 2026-04-09 06:37 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,100/mo |
+| Type | Studio / 1ba |
+| Location | Spring Hill, Somerville, MA 02143 |
+| Available | August 1, 2026 |
+| Features | In-unit laundry, heat/HW included, cat-friendly, no broker fee. 9.6% below market. |
+| Contact | Anthony Campbell, Towne Realty Group |
+| Phone | (617) 304-4825 |
+| Email | Info@thetownere.com |
+| Office | 1243 Commonwealth Ave, Boston MA 02134 |
+| Listing | https://bostonpads.com/somerville-ma-apartments/somerville-8074550/ |
+| Scores | MIT 3/5 \| Downtown 4/5 \| Price 5/5 \| Quality 5/5 \| Date 2/5 \| +0.5 dual direct |
+| Move-in costs | First $2,100, Last $2,100, Security $2,100, Key $50 = $6,350 due |
+| Notes | Best amenities in price range: in-unit laundry + heat/HW incl. Aug 1 only drawback. |
+
+---
+
 ### [$2,730 — Studio Harvard Square (Jul 1, NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8068128/)
 **Score:** 8.9/10 | **Sent:** 2026-04-08 07:30 | **Status:** Awaiting reply
 

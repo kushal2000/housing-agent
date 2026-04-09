@@ -2,6 +2,41 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-09 06:37 — ALERT (7 URGENT listings)
+- Top scores:
+  - [$1,795 Studio E Cambridge near Kendall](https://boston.craigslist.org/gbs/apa/d/cambridge-spacious-studio-include/7926477611.html) — 9.6
+  - [$1,985 Studio near MIT Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html) — 9.6
+  - [$2,600 1BR Mt Auburn/Brattle Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/) — 9.2
+  - [$2,700 1BR Inman Square Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082183/) — 8.7
+  - [$2,700 1BR Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html) — 8.7
+  - [$2,100 Studio Spring Hill Somerville](https://bostonpads.com/somerville-ma-apartments/somerville-4404273/) — 8.3
+  - [$2,100 Studio Spring Hill Somerville](https://bostonpads.com/somerville-ma-apartments/somerville-8074550/) — 8.1
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-09 06:37 — OUTREACH
+- Listing: [$2,600 1BR Mt Auburn/Brattle (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/)
+- Score: 9.2/10
+- Recipient: info@boardwalkprops.com (Patrice Samuels, Boardwalk Properties)
+- Contact email: info@boardwalkprops.com
+
+### 2026-04-09 06:37 — OUTREACH
+- Listing: [$2,700 1BR Inman Square (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082183/)
+- Score: 8.7/10
+- Recipient: info@boardwalkprops.com (Steven Moffa, Boardwalk Properties)
+- Contact email: info@boardwalkprops.com
+
+### 2026-04-09 06:37 — OUTREACH
+- Listing: [$2,100 Studio Spring Hill (Douglas Paul)](https://bostonpads.com/somerville-ma-apartments/somerville-4404273/)
+- Score: 8.3/10
+- Recipient: info@douglaspaulre.com (Josue Vargas, Douglas Paul)
+- Contact email: info@douglaspaulre.com
+
+### 2026-04-09 06:37 — OUTREACH
+- Listing: [$2,100 Studio Spring Hill (Towne Realty)](https://bostonpads.com/somerville-ma-apartments/somerville-8074550/)
+- Score: 8.1/10
+- Recipient: Info@thetownere.com (Anthony Campbell, Towne Realty Group)
+- Contact email: Info@thetownere.com
+
 ### 2026-04-08 07:30 — ALERT (batch of 14 URGENT listings)
 - Top scores:
   - [$2,200 Studio Foster St Brattle](https://boston.craigslist.org/gbs/apa/d/cambridge-room-studio-on-foster-street/7925967045.html) — 9.6

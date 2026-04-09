@@ -993,5 +993,104 @@
     "outreach_sent": false,
     "still_active": true,
     "duplicate_of": "craigslist-7926185450"
+  },
+  "craigslist-7926477611": {
+    "title": "$1,795 Studio E Cambridge near Kendall",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-spacious-studio-include/7926477611.html",
+    "price": 1795,
+    "source": "craigslist",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 9.6,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7925060642": {
+    "title": "$1,985 Studio near MIT Cambridge",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html",
+    "price": 1985,
+    "source": "craigslist",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 9.6,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8081331": {
+    "title": "$2,600 1BR Mt Auburn/Brattle Cambridge",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/",
+    "price": 2600,
+    "source": "bostonpads",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 9.2,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8082183": {
+    "title": "$2,700 1BR Inman Square Cambridge",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8082183/",
+    "price": 2700,
+    "source": "bostonpads",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7924620364": {
+    "title": "$2,700 1BR Sixth St E Cambridge",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html",
+    "price": 2700,
+    "source": "craigslist",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-somerville-4404273": {
+    "title": "$2,100 Studio Spring Hill Somerville",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-4404273/",
+    "price": 2100,
+    "source": "bostonpads",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 8.3,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-somerville-8074550": {
+    "title": "$2,100 Studio Spring Hill Somerville (heat/HW incl)",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8074550/",
+    "price": 2100,
+    "source": "bostonpads",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 8.1,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8077156": {
+    "title": "$2,300 Studio Davis Square Cambridge",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8077156/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 7.8,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8082086": {
+    "title": "$3,300 1BR Porter Square Cambridge",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8082086/",
+    "price": 3300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-09T06:37:00",
+    "score": 7.4,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
   }
 }
