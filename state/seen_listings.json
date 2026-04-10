@@ -1092,5 +1092,88 @@
     "alerted": false,
     "outreach_sent": false,
     "still_active": true
+  },
+  "bostonpads-cambridge-8065202": {
+    "title": "$2,300 Studio Davis Square Cambridge (Douglas Paul Thomas Webb)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8065202/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "notes": "Related to 8065192 — different unit, same agent (Thomas Webb). Outreach skipped to avoid duplicate."
+  },
+  "craigslist-7926700298": {
+    "title": "$2,208 Studio South Boston luxury building",
+    "url": "https://boston.craigslist.org/gbs/apa/d/south-boston-youll-the-roofdeck-pool/7926700298.html",
+    "price": 2208,
+    "source": "craigslist",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 8.4,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "phone only (Another Level Realty, 617-888-6265). Managed building ad."
+  },
+  "bostonpads-cambridge-8080683": {
+    "title": "$2,300 Studio Mt Auburn/Fresh Pond Cambridge (Boardwalk Donicely Zapata)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 8.1,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-40690": {
+    "title": "$2,600 1BR Mt Auburn/Fresh Pond Cambridge",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-40690/",
+    "price": 2600,
+    "source": "bostonpads",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 8.1,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "no agent email on listing page — platform inquiry required"
+  },
+  "bostonpads-cambridge-8080825": {
+    "title": "$3,900 2BR Central Sq/Cambridgeport (REJECT 2BR over budget)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080825/",
+    "price": 3900,
+    "source": "bostonpads",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "2BR and over $3,500 budget"
+  },
+  "bostonpads-cambridge-8082167": {
+    "title": "$3,725 2BR Chestnut Hill Brookline (REJECT 2BR)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8082167/",
+    "price": 3725,
+    "source": "bostonpads",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "2BR and over $3,500 budget"
+  },
+  "bostonpads-cambridge-8078867": {
+    "title": "$2,300 Studio Mt Auburn/Fresh Pond (REJECT date Aug 2)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-10T06:57:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "date out of range (Aug 2)"
   }
 }

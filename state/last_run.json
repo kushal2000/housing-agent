@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-09T06:37:00",
-  "listings_fetched": 280,
-  "new_listings": 9,
-  "alerts_sent": 7,
-  "outreach_sent": 4,
+  "last_run": "2026-04-10T06:57:00",
+  "listings_fetched": 270,
+  "new_listings": 4,
+  "alerts_sent": 4,
+  "outreach_sent": 1,
   "sources_status": {
-    "craigslist_mit": "degraded (200+ listings returned but no prices/URLs — got JSON schema markup instead of rendered HTML; 3 Cambridge candidates found via downtown overlap)",
-    "craigslist_downtown": "ok (112 listings extracted, 3 new Cambridge/E.Cambridge candidates scored URGENT)",
-    "bostonpads_cambridge": "ok (30 sampled, 3 new studio/1BR candidates: 1 URGENT Mt Auburn 9.2, 1 URGENT Inman 8.7, 2 GOOD Davis/Porter)",
-    "bostonpads_somerville": "ok (30 sampled, 2 new studio candidates: Spring Hill Douglas Paul 8.3, Spring Hill Towne Realty 8.1)",
+    "craigslist_mit": "degraded (JSON schema markup only — no prices/URLs, same issue as 2026-04-09)",
+    "craigslist_downtown": "degraded (only 5 listings extracted vs 112 last run — mostly Sept 1 rejects)",
+    "bostonpads_cambridge": "ok (30 sampled of 529, list-page extraction unreliable — individual pages verified for 7 candidates, 2 valid new + 1 related unit)",
+    "bostonpads_somerville": "ok (30 sampled of 235, no new studio/1BR in date range)",
     "gmail_facebook": "ok (0 results since last run)",
     "gmail_google_groups": "ok (0 results since last run)",
-    "websearch": "ok (2 queries, no actionable new listings beyond CL/BP overlap)",
+    "websearch": "ok (3 queries, 1 new SoBo listing found via CL downtown overlap)",
     "to_check": "ok (no URLs to check)"
   },
-  "notes": "7 URGENT + 2 GOOD = 9 new listings. Top scores: $1,795 Studio E Cambridge 9.6 (sublease, unusually cheap — verify in person), $1,985 Studio near MIT 9.6 (title/description mismatch). $2,600 1BR Mt Auburn/Brattle 9.2 is the most reliable URGENT pick (Boardwalk agent, June 2, no fee). Auto-outreach sent to Boardwalk (2 listings), Douglas Paul, and Towne Realty. 3 Craigslist listings flagged for manual relay reply. Craigslist MIT query returned degraded data — no impact since downtown query covers Cambridge overlap. Total seen registry now 96 listings; 32 alerted; 16 outreach sent cumulative."
+  "notes": "4 URGENT new listings. Top: $2,300 Studio Davis Sq 8.9 (Douglas Paul, same agent as 8065192 — different unit), $2,208 Studio SoBo luxury bldg 8.4 (phone only), $2,300 Studio Mt Auburn 8.1 (Boardwalk outreach sent), $2,600 1BR Mt Auburn 8.1 (no agent email). Craigslist both queries degraded — MIT returns schema-only, downtown returned very few results. BostonPads list-page extraction unreliable (multiple ID/price mismatches vs individual pages). Total seen registry now 104 listings; 36 alerted; 17 outreach sent cumulative."
 }

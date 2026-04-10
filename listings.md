@@ -2,6 +2,36 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 10th April, 2026 (6:57 AM scan)
+
+### [$2,300 — Studio Davis Square Cambridge (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065202/)
+Davis Square, Cambridge 02140 | Studio/1ba | Available now (flexible move-in)  
+Heat/HW included, in-wall A/C, laundry in building, dishwasher. $234 below market. Thomas Webb @ Douglas Paul. Related to listing 8065192 — different unit, same agent.  
+Score 8.9/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not sent — same agent (Thomas Webb) already contacted for 8065192  
+
+### [$2,208 — Studio South Boston (luxury building)](https://boston.craigslist.org/gbs/apa/d/south-boston-youll-the-roofdeck-pool/7926700298.html)
+South Boston 02127 (walk to Broadway Red Line) | Studio/1ba 500sqft | May 1 or later  
+Luxury managed building: in-unit W/D, pool, gym, roofdeck, dog park, 24hr fitness, coworking, garage parking. Another Level Realty. Broker ad — "thousands of other properties" language.  
+Score 8.4/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 4/5  
+ALERTED  
+Outreach: not available — phone only (Another Level Realty, 617-888-6265)  
+
+### [$2,300 — Studio Mt Auburn/Fresh Pond Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/)
+Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | Studio/1ba | July 2, 2026  
+Dishwasher, no broker fee, water/sewer/garbage incl. 9.2% below market. Donicely Zapata @ Boardwalk Properties.  
+Score 8.1/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 4/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com (Donicely Zapata, Boardwalk, 617-595-0911)  
+
+### [$2,600 — 1BR Mt Auburn/Fresh Pond Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-40690/)
+Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | 1BR/1ba | June 2, 2026  
+No broker fee. $386 below market for Cambridge 1BR. Water/sewer incl. No specific agent listed.  
+Score 8.1/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — no agent email found, platform inquiry required  
+
 ## 9th April, 2026 (6:37 AM scan)
 
 ### [$1,795 — Studio E Cambridge near Kendall](https://boston.craigslist.org/gbs/apa/d/cambridge-spacious-studio-include/7926477611.html)

@@ -4,6 +4,27 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,300 — Studio Mt Auburn/Fresh Pond Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/)
+**Score:** 8.1/10 | **Sent:** 2026-04-10 06:57 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,300/mo |
+| Type | Studio / 1ba |
+| Location | Mt. Auburn/Brattle/Fresh Pond, Cambridge, MA 02138 |
+| Available | July 2, 2026 |
+| Features | Dishwasher, no broker fee, water/sewer/garbage incl. 9.2% below market. |
+| Contact | Donicely Zapata, Boardwalk Properties |
+| Phone | (617) 595-0911 |
+| Email | info@boardwalkprops.com |
+| Office | 1518 Tremont St, Boston MA 02120 / (617) 445-2200 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/ |
+| Scores | MIT 3/5 \| Downtown 4/5 \| Price 5/5 \| Quality 4/5 \| Date 3/5 \| +0.5 dual direct |
+| Move-in costs | Last $2,300, Security $2,300, Key $100 = ~$4,700 total due |
+| Notes | Walk to Harvard for Red Line, direct to both MIT and downtown. No pets, no parking. July 2 is slightly late but still in window. |
+
+---
+
 ### [$2,600 — 1BR Mt Auburn/Brattle Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/)
 **Score:** 9.2/10 | **Sent:** 2026-04-09 06:37 | **Status:** Awaiting reply
 

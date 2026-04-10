@@ -2,6 +2,20 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-10 06:57 — ALERT (4 URGENT listings)
+- Top scores:
+  - [$2,300 Studio Davis Square Cambridge (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065202/) — 8.9
+  - [$2,208 Studio South Boston (luxury bldg)](https://boston.craigslist.org/gbs/apa/d/south-boston-youll-the-roofdeck-pool/7926700298.html) — 8.4
+  - [$2,300 Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/) — 8.1
+  - [$2,600 1BR Mt Auburn/Fresh Pond](https://bostonpads.com/cambridge-ma-apartments/cambridge-40690/) — 8.1
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-10 06:57 — OUTREACH
+- Listing: [$2,300 Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/)
+- Score: 8.1/10
+- Recipient: info@boardwalkprops.com (Donicely Zapata, Boardwalk Properties)
+- Contact email: info@boardwalkprops.com
+
 ### 2026-04-09 06:37 — ALERT (7 URGENT listings)
 - Top scores:
   - [$1,795 Studio E Cambridge near Kendall](https://boston.craigslist.org/gbs/apa/d/cambridge-spacious-studio-include/7926477611.html) — 9.6
