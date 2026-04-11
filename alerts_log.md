@@ -2,6 +2,13 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-11 (later) — OUTREACH (user-initiated, post-rubric-update)
+- Listing: [$2,700 1BR Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
+- Score: 8.9/10 (rescored from 8.7 under updated date rubric)
+- Recipient: 87a0692a190d3cc5b69da6b2314b367f@hous.craigslist.org (CL relay, user-provided)
+- Contact email: Craigslist relay only
+- Notes: User really liked this listing; we originally skipped outreach due to CL relay. User fetched relay from browser and provided it. Also triggered update to CLAUDE.md (Kushal's actual start = August) and search_profile.md (hard filter widened to May 15 – Aug 15; Date 3/5 now = July 1-31 OR Aug 1).
+
 ### 2026-04-11 07:30 — ALERT (7 URGENT listings)
 - Top scores:
   - [$2,200 Studio 128 Pine St Cambridgeport](https://boston.craigslist.org/gbs/apa/d/cambridge/7926931773.html) — 10.0 PERFECT

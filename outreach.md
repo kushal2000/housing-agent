@@ -4,6 +4,25 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,700 — 1BR + office Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
+**Score:** 8.9/10 | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,700/mo |
+| Type | 1BR + office / 1ba |
+| Location | Sixth St, Cambridge 02141 (East Cambridge, near Kendall/Lechmere) |
+| Available | Aug-Sept 2026 (Aug 1 start agreed) |
+| Features | Top floor of 3-family, wide-pine floors, mini-split A/C, in-building W/D, dishwasher, ceiling fans. 18 photos. |
+| Contact | Landlord (name unknown — Craigslist relay) |
+| Phone | Not listed |
+| Email | 87a0692a190d3cc5b69da6b2314b367f@hous.craigslist.org (CL relay) |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 3/5 \| +0.5 dual direct |
+| Notes | User-flagged favorite. Originally skipped outreach (CL relay), user fetched relay from browser. Rescored 8.7 → 8.9 under updated date rubric (Kushal's real MIT start is Aug 2026). |
+
+---
+
 ### [$2,650 — 1BR Hancock St Central Sq (Red Tree)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html)
 **Score:** 10.0/10 | **Sent:** 2026-04-11 07:30 | **Status:** Awaiting reply
 

@@ -7,10 +7,17 @@ from email.mime.text import MIMEText
 
 SENDER = "kk837@cornell.edu"
 DEFAULT_CC = "kb529@cornell.edu"
+CONTACT_PHONE = "607-327-2580"
+SELF_ADDRESSES = {"kk837@cornell.edu", "kb529@cornell.edu"}
 APP_PASSWORD_FILE = "/home/kk837/.claude/.gmail_app_password"
 
 
 def send(to: str, subject: str, body: str, cc: str = DEFAULT_CC):
+    recipients = {addr.strip() for addr in to.split(",")}
+    is_outreach = not recipients.issubset(SELF_ADDRESSES)
+    if is_outreach and CONTACT_PHONE not in body:
+        body = body.rstrip() + "\n" + CONTACT_PHONE + "\n"
+
     with open(APP_PASSWORD_FILE) as f:
         password = f.read().strip()
 

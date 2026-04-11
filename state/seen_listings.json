@@ -1039,15 +1039,16 @@
     "still_active": true
   },
   "craigslist-7924620364": {
-    "title": "$2,700 1BR Sixth St E Cambridge",
+    "title": "$2,700 1BR Sixth St E Cambridge (Aug 1 — Kushal's arrival)",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html",
     "price": 2700,
     "source": "craigslist",
     "first_seen": "2026-04-09T06:37:00",
-    "score": 8.7,
+    "score": 8.9,
     "alerted": true,
-    "outreach_sent": false,
-    "still_active": true
+    "outreach_sent": true,
+    "still_active": true,
+    "notes": "Rescored 8.7 → 8.9 under updated date rubric (Aug 1 now = 3/5). Outreach sent 2026-04-11 to user-provided CL relay 87a0692a190d3cc5b69da6b2314b367f@hous.craigslist.org — user manually fetched the relay from browser."
   },
   "bostonpads-somerville-4404273": {
     "title": "$2,100 Studio Spring Hill Somerville",

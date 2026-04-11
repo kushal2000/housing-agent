@@ -114,11 +114,11 @@ ALERTED
 Outreach: sent to info@boardwalkprops.com (Steven Moffa, Boardwalk, 508-733-0883)  
 
 ### [$2,700 — 1BR Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
-Sixth St, Cambridge 02141 (top floor, 3-family) | 1BR/1ba + office | Aug-Sept 2026  
+Sixth St, Cambridge 02141 (top floor, 3-family) | 1BR/1ba + office | Aug-Sept 2026 (Aug 1 works — Kushal's actual arrival)  
 Wide-pine floors, mini-split A/C, in-bldg washer/dryer, dishwasher, ceiling fans. 18 photos. Near Kendall/Lechmere.  
-Score 8.7/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct (rescored under updated rubric)  
 ALERTED  
-Outreach: not available — Craigslist relay only, manual reply required  
+Outreach: sent 2026-04-11 to CL relay 87a0692a...@hous.craigslist.org (user-provided)  
 
 ### [$2,100 — Studio Spring Hill Somerville (Douglas Paul)](https://bostonpads.com/somerville-ma-apartments/somerville-4404273/)
 Spring Hill, Somerville 02143 | Studio/1ba | Available now  

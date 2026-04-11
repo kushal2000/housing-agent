@@ -9,7 +9,7 @@ Last updated: 2026-04-06
 ## Hard Filters (auto-reject if ANY violated)
 - Price: $1,500 - $3,500/month
 - Bedrooms: Studio or 1BR only
-- Available: May 15 - July 1, 2026 (flexible 2 weeks either side of June 15)
+- Available: May 15 - August 15, 2026 (ideal: June 1-15; fallback: August 1 when Kushal arrives)
 - Location: Must be within 30 min transit to MIT (77 Massachusetts Ave, Cambridge)
 - NO: shared rooms, roommate-wanted-only posts, short-term (<6 months)
 
@@ -48,11 +48,12 @@ Start at 3, then adjust:
 - Cap at 5, floor at 1
 
 ### Move-in Date Fit (weight: 1x)
-- 5: June 1-15 available
+Kushal's actual MIT start is August 2026, but June 1-15 is ideal because it saves Kanika a June/July sublet. August 1 is fully acceptable (the fallback plan).
+- 5: June 1-15 available (ideal — both move in together)
 - 4: June 16-30 or May 15-31
-- 3: July 1
-- 2: August 1
-- 1: September 1+
+- 3: July 1-31 or August 1 (August 1 = Kushal's actual arrival, fallback plan)
+- 2: August 2-15 or May 1-14 (borderline — short sublet needed, edge of hard filter)
+- 1: August 16+ or before May 1 (outside hard filter)
 
 ## Dual Direct Transit Bonus
 If a location gives **both** Kushal and Kanika a direct train commute (no transfers), add **+0.5** to the composite score. This rewards the Red Line corridor (Kendall → Harvard → Porter → Davis) since Red Line runs direct to both MIT (Kendall) and downtown Financial District (Park St / Downtown Crossing / South Station).
