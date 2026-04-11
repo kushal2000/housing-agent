@@ -590,12 +590,13 @@
     "still_active": true
   },
   "craigslist-7926053423": {
-    "title": "$2,925 1BR Cambridge (Aug 1, REJECT date)",
+    "title": "$2,925 1BR Cambridge (Aug 1, 410 GONE)",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-super-high/7926053423.html",
     "price": 2925,
     "source": "craigslist",
     "first_seen": "2026-04-07T10:30:00",
     "score": 0,
+    "still_active": false,
     "alerted": false,
     "outreach_sent": false,
     "still_active": true
@@ -863,28 +864,31 @@
     "rejected": "date out of range (Sept 1) \u2014 duplicate of 7926018246"
   },
   "craigslist-7926253675": {
-    "title": "$3,100 1BR North End Boston (Aug 1, REJECT date)",
+    "title": "$3,100 1BR 374 North St North End Boston (Aug 1) — RESCORED 6.2 GOOD",
     "url": "https://boston.craigslist.org/gbs/apa/d/boston-august-1st-spacious-north-end/7926253675.html",
     "price": 3100,
     "source": "craigslist",
     "first_seen": "2026-04-08T07:30:00",
-    "score": 0,
-    "alerted": false,
+    "score": 6.2,
+    "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "rejected": "date out of range (Aug 1)"
+    "outreach_blocked_reason": "craigslist relay only. Rescored 2026-04-11 after date rubric update.",
+    "please_check": true,
+    "previously_rejected": "date out of range (Aug 1) — un-rejected after search_profile.md update"
   },
   "craigslist-7926003647": {
-    "title": "$2,925 1BR 888 Mass Ave Central Sq (Aug 1, REJECT date)",
+    "title": "$2,925 1BR 888 Mass Ave Central Sq (Aug 1) — RESCORED 9.2 URGENT",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-1br-top-floor/7926003647.html",
     "price": 2925,
     "source": "craigslist",
     "first_seen": "2026-04-08T07:30:00",
-    "score": 0,
-    "alerted": false,
+    "score": 9.2,
+    "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "rejected": "date out of range (Aug 1)"
+    "outreach_blocked_reason": "phone only (617-684-8000, Ref #137512). Rescored 2026-04-11 after date rubric update.",
+    "previously_rejected": "date out of range (Aug 1) — un-rejected after search_profile.md update"
   },
   "craigslist-7926007991": {
     "title": "$2,925 1BR 888 Mass Ave Central Sq (Aug 1, DUP of 7926003647)",
@@ -899,16 +903,18 @@
     "rejected": "date out of range (Aug 1) \u2014 duplicate of 7926003647"
   },
   "craigslist-7926037473": {
-    "title": "$3,300 1BR 11 Ellery St Cambridge (Aug 1, REJECT date)",
+    "title": "$3,300 1BR 11 Ellery St Mid Cambridge/Harvard Sq (Aug 1, Ben Keddy) — RESCORED 7.2 GOOD",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-mid-cam-harvard/7926037473.html",
     "price": 3300,
     "source": "craigslist",
     "first_seen": "2026-04-08T07:30:00",
-    "score": 0,
-    "alerted": false,
+    "score": 7.2,
+    "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "rejected": "date out of range (Aug 1)"
+    "outreach_blocked_reason": "phone only (Ben Keddy 781-645-8736). Rescored 2026-04-11 after date rubric update.",
+    "please_check": true,
+    "previously_rejected": "date out of range (Aug 1) — un-rejected after search_profile.md update"
   },
   "craigslist-7926032800": {
     "title": "$3,300 1BR 11 Ellery St Cambridge (Aug 1, DUP of 7926037473)",
@@ -1166,16 +1172,18 @@
     "rejected": "2BR and over $3,500 budget"
   },
   "bostonpads-cambridge-8078867": {
-    "title": "$2,300 Studio Mt Auburn/Fresh Pond (REJECT date Aug 2)",
+    "title": "$2,300 Studio Mt Auburn/Fresh Pond (Aug 2, NextGen Marta Moraru) — RESCORED 7.8 GOOD",
     "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/",
     "price": 2300,
     "source": "bostonpads",
     "first_seen": "2026-04-10T06:57:00",
-    "score": 0,
-    "alerted": false,
+    "score": 7.8,
+    "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "rejected": "date out of range (Aug 2)"
+    "please_check": true,
+    "notes": "NextGen Realty — contact info@nextgenrealty.com, Marta Moraru 617-955-6993. Rescored 2026-04-11 after date rubric update.",
+    "previously_rejected": "date out of range (Aug 2) — un-rejected after search_profile.md update"
   },
   "craigslist-7926931773": {
     "title": "$2,200 Studio 128 Pine St Cambridgeport (walk to MIT, July 1)",

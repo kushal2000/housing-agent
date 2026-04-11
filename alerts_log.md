@@ -2,6 +2,16 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-11 (digest) — DIGEST (4 rescored Aug listings after rubric update)
+- URGENT:
+  - [$2,925 1BR 888 Mass Ave Central Sq (Aug 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-1br-top-floor/7926003647.html) — 9.2 (phone only 617-684-8000)
+- GOOD:
+  - [$2,300 Studio Mt Auburn (NextGen Marta Moraru, Aug 2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/) — 7.8 (please_check)
+  - [$3,300 1BR 11 Ellery St Mid Cambridge (Ben Keddy, Aug 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-mid-cam-harvard/7926037473.html) — 7.2 (please_check)
+  - [$3,100 1BR 374 North St North End (Aug 1)](https://boston.craigslist.org/gbs/apa/d/boston-august-1st-spacious-north-end/7926253675.html) — 6.2 (please_check)
+- Dead: [7926053423 Cambridge Aug 1](https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-super-high/7926053423.html) returned 410 GONE
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
 ### 2026-04-11 (later) — OUTREACH (user-initiated, post-rubric-update)
 - Listing: [$2,700 1BR Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
 - Score: 8.9/10 (rescored from 8.7 under updated date rubric)

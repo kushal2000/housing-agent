@@ -3,6 +3,27 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-11 (rescored after date rubric update)
+
+### [$2,300 — Studio Mt Auburn/Fresh Pond (NextGen Marta Moraru)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/)
+Score 7.8/10 | Mt. Auburn/Brattle, Cambridge | August 2, 2026  
+Dishwasher, no broker fee, 9.2% below market. Walk to Harvard Red Line.  
+Contact: Marta Moraru — info@nextgenrealty.com / 617-955-6993 (NextGen is a known contact)  
+**Approve?** Reply "yes" to send outreach.
+
+### [$3,300 — 1BR 11 Ellery St Mid Cambridge (Ben Keddy)](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-mid-cam-harvard/7926037473.html)
+Score 7.2/10 | 11 Ellery St, Cambridge 02138 | August 1, 2026  
+Remodeled Victorian 1st floor, hardwood, gas range, heat/HW + storage incl, off-street parking, laundry, NO FEE. 8 min walk to Harvard T. Price ($3,300) hits the ceiling.  
+Contact: Ben Keddy — phone only (781-645-8736)  
+**Approve?** Reply "yes" and drop the relay email if you want outreach.
+
+### [$3,100 — 1BR 374 North St North End Boston](https://boston.craigslist.org/gbs/apa/d/boston-august-1st-spacious-north-end/7926253675.html)
+Score 6.2/10 | 374 North St, Boston 02113 (North End) | August 1, 2026  
+Hardwood, central air, W/D in unit, dishwasher, common roof deck, cats OK, no broker fee. Strong downtown, weak MIT commute (~30 min with transfer).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" and drop the relay email to send outreach.
+
+
 ## Added 2026-04-09 (6:37 AM scan)
 
 ### [$2,300 — Studio Davis Square Cambridge](https://bostonpads.com/cambridge-ma-apartments/cambridge-8077156/)

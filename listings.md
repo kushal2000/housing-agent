@@ -2,6 +2,36 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 11th April, 2026 (rescored under new date rubric)
+
+### [$2,925 — 1BR 888 Mass Ave Central Sq (Aug 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-1br-top-floor/7926003647.html)
+888 Massachusetts Ave, Cambridge 02139 (Central Sq) | 1BR/1ba 400sqft | August 1, 2026  
+Top-floor pre-war, cathedral ceilings, exposed brick fireplace, 3 bay windows, hardwood, SS appliances, dishwasher, mini-split AC, elevator bldg, on-site laundry w/ free WiFi, cats $45/mo, no fee. 17 photos.  
+Score 9.2/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED (digest)  
+Outreach: not available — phone only (617-684-8000, Ref #137512)  
+
+### [$2,300 — Studio Mt Auburn/Fresh Pond (NextGen Marta Moraru, Aug 2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/)
+Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | Studio/1ba | August 2, 2026  
+Dishwasher, no fee, 9.2% below market. Marta Moraru @ NextGen Realty.  
+Score 7.8/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 4/5 | Date 2/5 | +0.5 dual direct  
+Digest: sent 2026-04-11  
+Outreach: not sent — GOOD tier awaiting approval (please_check.md)  
+
+### [$3,300 — 1BR 11 Ellery St Mid Cambridge (Ben Keddy, Aug 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-mid-cam-harvard/7926037473.html)
+11 Ellery St, Cambridge 02138 (Mid Cambridge/Harvard Sq) | 1BR/1ba 650sqft Victorian 1st floor | August 1, 2026  
+Remodeled, hardwood, modern kitchen w/ gas range + dishwasher, heat/HW incl, storage, off-street parking, laundry in bldg (app), cats negotiable, no fee. 8 min walk to T.  
+Score 7.2/10 | MIT 4/5 | Downtown 4/5 | Price 1/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+Digest: sent 2026-04-11  
+Outreach: not sent — phone only (Ben Keddy 781-645-8736), GOOD tier  
+
+### [$3,100 — 1BR 374 North St North End (Aug 1)](https://boston.craigslist.org/gbs/apa/d/boston-august-1st-spacious-north-end/7926253675.html)
+374 North St, Boston 02113 (North End) | 1BR/1ba | August 1, 2026  
+Hardwood throughout, central air, gas heat, W/D in unit, dishwasher, common roof deck, cats OK, street parking. 13 photos. No broker fee.  
+Score 6.2/10 | MIT 2/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 3/5  
+Digest: sent 2026-04-11  
+Outreach: not sent — Craigslist relay only, GOOD tier  
+
 ## 11th April, 2026 (7:30 AM scan)
 
 ### [$2,200 — Studio 128 Pine St Cambridgeport (walk to MIT)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926931773.html)
