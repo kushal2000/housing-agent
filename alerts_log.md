@@ -12,6 +12,13 @@ Record of all email alerts and outreach messages sent by the agent.
 - Dead: [7926053423 Cambridge Aug 1](https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-super-high/7926053423.html) returned 410 GONE
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 
+### 2026-04-11 (later) — OUTREACH (user-initiated, company inquiry — not a listing)
+- Target: [Metro Haven Suites](https://metrohavensuites.com/boston/furnished-apartment-boston.html) — corporate furnished short/long-term rental company
+- Recipient: reservations@metrohavensuites.com
+- Inquiry: 12-month furnished 1BR starting June 1, 2026, in Central Square (Cambridge) OR Financial District (Boston)
+- Purpose: reality-check the "$80/night" website pricing (= $2,400/mo implied). Insisted on live video tour before any deposit. Asked for actual all-in monthly cost, what's included, specific unit availability, lease terms.
+- Notes: Website lists all units uniformly at "$80/night" across sizes/neighborhoods, which is suspicious. If legit, this could replace the traditional-rental hunt entirely. If inflated 2-3x on real quote, at least a clean Kanika June/July sublet option.
+
 ### 2026-04-11 (later) — OUTREACH (user-initiated)
 - Listing: [$2,850 1BR Harvard St Central Sq (Peyton)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html)
 - Score: 8.9/10

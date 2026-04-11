@@ -299,7 +299,7 @@
     "rejected": "date out of range (Sept 1)"
   },
   "craigslist-7925579013": {
-    "title": "$2,600 1BR East Cambridge (walk to Kendall/MIT)",
+    "title": "$2,600 1BR East Cambridge Otis St (walk to Kendall/MIT, June 1)",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7925579013.html",
     "price": 2600,
     "source": "craigslist",
@@ -308,7 +308,7 @@
     "alerted": true,
     "outreach_sent": true,
     "still_active": true,
-    "outreach_blocked_reason": "craigslist relay \u2014 manual reply required"
+    "notes": "Outreach sent 2026-04-07 to 5cafc57d66c8346988e8fec984f3044d@hous.craigslist.org (user-provided relay). Awaiting reply."
   },
   "bostonpads-somerville-8073379": {
     "title": "$2,950 1BR Winter Hill Somerville (Jun 1, Jacob Realty)",

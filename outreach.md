@@ -4,6 +4,22 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [Metro Haven Suites — corporate furnished inquiry (Central Sq or Financial District)](https://metrohavensuites.com/boston/furnished-apartment-boston.html)
+**Score:** N/A (exploratory company inquiry, not a specific listing) | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Type | Corporate furnished rental company — month-to-month flexible |
+| Target neighborhoods | Central Square (Cambridge) OR Financial District (Boston) |
+| Desired term | 12 months starting ~June 1, 2026 |
+| Advertised price | "$80/night" on website (≈ $2,400/mo if real — but likely teaser) |
+| Contact | reservations@metrohavensuites.com / (213) 542-0602 |
+| Website | https://metrohavensuites.com/boston/furnished-apartment-boston.html |
+| Key asks | (1) confirm actual all-in monthly rate for 12-month term (2) what's included (utils/wifi/cleaning) (3) specific available units June 1 (4) lease/cancellation terms (5) **firm requirement for live video tour before any deposit** |
+| Notes | Same $80/night across all sizes/neighborhoods = suspicious. 213 (LA) phone. If real pricing confirms ≈$2,400/mo → strong long-term candidate and could short-circuit the Craigslist hunt. If real pricing is $3,500-$5,000/mo (more likely) → falls back to a Kanika June/July sublet option. Video tour requirement is the scam-screen. |
+
+---
+
 ### [$2,850 — 1BR Harvard St Central Sq (Peyton)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html)
 **Score:** 8.9/10 | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
 
