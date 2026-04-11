@@ -2,6 +2,57 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 11th April, 2026 (7:30 AM scan)
+
+### [$2,200 — Studio 128 Pine St Cambridgeport (walk to MIT)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926931773.html)
+128 Pine St, Cambridge 02139 (between Central & Kendall, 6 min walk to T) | Studio/1ba | July 1, 2026  
+Hardwood, eat-in kitchen, deck, coin-op laundry, street parking, cats OK, NO FEE. 12 photos. Large studio+, 3rd floor.  
+Score 10.0/10 | MIT 5/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (857-547-8682)  
+
+### [$2,650 — 1BR Hancock St Central Sq (Red Tree)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html)
+Hancock St near Mass Ave, Cambridge 02139 (Central Sq) | 1BR/1ba 680sqft | June 1, 2026  
+Central AC, high ceilings, renovated kitchen/dishwasher, basement laundry, cats OK. Half-month broker fee. Brandon Keane @ Red Tree.  
+Score 10.0/10 | MIT 5/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to realestate@redtreeboston.com (Brandon Keane, Red Tree Real Estate, 617-487-8015)  
+
+### [$2,750 — 1BR 11 Everett St Harvard Sq (Rent Realty)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926803822.html)
+11 Everett St, Cambridge 02138 (Harvard Sq, near HLS/Science Center) | 1BR+office/1ba | June 1, 2026  
+Heat/HW incl, 3rd-floor walk-up, big living/dining, arts & crafts, clawfoot tub, laundry in bldg, cats OK (1 max), NO FEE. On-site super. Steve Wax @ Rent Realty LLC.  
+Score 9.4/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only (Steve Wax, Rent Realty LLC, no email listed)  
+
+### [$2,850 — 1BR Harvard St Central Sq (Peyton)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html)
+Harvard St, Cambridge 02138 (4 min to Central Red Line) | 1BR/1ba | May 1, 2026 (early — negotiate for June)  
+Charming brick, wood floors, laundry in bldg, heat/HW incl, off-street parking. 10 photos. No pets. Peyton (owner/manager).  
+Score 8.9/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (617-939-4835 Peyton)  
+
+### [$2,900 — 1BR Central Sq Cambridge (owner-occupied)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926852370.html)
+Central Square, Cambridge 02139 | 1BR/1ba | May 1, 2026 (early — negotiate for June)  
+Light-filled, owner-occupied, updated kitchen w/ induction + dishwasher, free basement laundry, bike parking, shared yard/patio, AC. Only 2 photos. Bathroom reno in progress.  
+Score 8.9/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — Craigslist relay only, manual reply required  
+
+### [$2,300 — Studio Mt Auburn/Fresh Pond Cambridge (NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079467/)
+Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | Studio/1ba | June 2, 2026  
+Open kitchen w/ center island, in-wall AC, laundry in building, dishwasher, NO FEE. 9.2% below market. Carmen Moreno @ NextGen Realty.  
+Score 8.7/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@nextgenrealty.com (Carmen Moreno, NextGen Realty, 617-678-8278)  
+
+### [$2,800 — 1BR 21 Shepard St Harvard Sq (Oxford St Realty)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926817412.html)
+21 Shepard St, Cambridge 02138 (Harvard Sq, near Mass Ave) | 1BR/1ba | July 1, 2026  
+Hardwood, tall ceilings, SS appliances, granite, renovated bath, laundry in bldg, dishwasher, heat/HW incl. 8 photos. 1 month broker fee. Jeff Indeck @ Oxford Street Realty.  
+Score 8.5/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@oxfordstreetrealty.com (Jeff Indeck, Oxford Street Realty, 617-354-3535)  
+
 ## 10th April, 2026 (6:57 AM scan)
 
 ### [$2,300 — Studio Davis Square Cambridge (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065202/)

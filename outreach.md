@@ -4,6 +4,69 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,650 — 1BR Hancock St Central Sq (Red Tree)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html)
+**Score:** 10.0/10 | **Sent:** 2026-04-11 07:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,650/mo |
+| Type | 1BR / 1ba, 680 sqft |
+| Location | Hancock St near Mass Ave, Cambridge, MA 02139 (Central Sq) |
+| Available | June 1, 2026 |
+| Features | Central AC, high ceilings, renovated kitchen with dishwasher, basement laundry, cats OK. Water/sewer incl. |
+| Contact | Brandon Keane, Red Tree Real Estate |
+| Phone | (617) 487-8015 |
+| Email | realestate@redtreeboston.com |
+| Office | 193 Harvard St, Brookline MA 02446 |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html |
+| Scores | MIT 5/5 \| Downtown 5/5 \| Price 4/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Move-in costs | First month $2,650 + half-month broker fee $1,325 = $3,975 minimum |
+| Notes | Walking to Central Red Line, direct to MIT (Kendall) and downtown. June 1 perfect timing. First-floor condo in managed building. |
+
+---
+
+### [$2,800 — 1BR 21 Shepard St Harvard Sq (Oxford St Realty)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926817412.html)
+**Score:** 8.5/10 | **Sent:** 2026-04-11 07:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,800/mo |
+| Type | 1BR / 1ba |
+| Location | 21 Shepard St, Cambridge, MA 02138 (Harvard Sq, near Mass Ave) |
+| Available | July 1, 2026 |
+| Features | Hardwood, tall ceilings, stainless appliances, granite counters, renovated bath, laundry in bldg, dishwasher. Heat/HW included. No pets/parking. |
+| Contact | Jeff Indeck, Oxford Street Realty |
+| Phone | (617) 354-3535 |
+| Email | info@oxfordstreetrealty.com |
+| Office | 1644 Massachusetts Ave, Cambridge MA 02138 |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge/7926817412.html |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 3/5 \| Quality 5/5 \| Date 3/5 \| +0.5 dual direct |
+| Move-in costs | 1 month broker fee, plus first/last/security — total ~$11,200 |
+| Notes | Harvard Sq walk, Red Line to Kendall (2 stops). July 1 slightly late, high quality. Broker fee is the downside. |
+
+---
+
+### [$2,300 — Studio Mt Auburn/Fresh Pond (NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079467/)
+**Score:** 8.7/10 | **Sent:** 2026-04-11 07:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,300/mo |
+| Type | Studio / 1ba |
+| Location | Mt. Auburn/Brattle/Fresh Pond, Cambridge, MA 02138 |
+| Available | June 2, 2026 |
+| Features | Open kitchen w/ center island, in-wall AC, laundry in building, dishwasher, no fee. 9.2% below market. |
+| Contact | Carmen Moreno, NextGen Realty |
+| Phone | (617) 678-8278 |
+| Email | info@nextgenrealty.com |
+| Office | 1243 Commonwealth Ave, Boston MA 02134 |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8079467/ |
+| Scores | MIT 3/5 \| Downtown 4/5 \| Price 5/5 \| Quality 5/5 \| Date 5/5 \| +0.5 dual direct |
+| Move-in costs | First $0, Last $2,300, Security $2,300, Key $100 = $4,700 total |
+| Notes | Walk to Harvard Red Line. June 2 is perfect timing. NextGen known contact — 3rd agent contacted here. |
+
+---
+
 ### [$2,300 — Studio Mt Auburn/Fresh Pond Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080683/)
 **Score:** 8.1/10 | **Sent:** 2026-04-10 06:57 | **Status:** Awaiting reply
 

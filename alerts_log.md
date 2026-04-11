@@ -2,6 +2,35 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-11 07:30 — ALERT (7 URGENT listings)
+- Top scores:
+  - [$2,200 Studio 128 Pine St Cambridgeport](https://boston.craigslist.org/gbs/apa/d/cambridge/7926931773.html) — 10.0 PERFECT
+  - [$2,650 1BR Hancock St Central Sq (Red Tree)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html) — 10.0 PERFECT
+  - [$2,750 1BR 11 Everett St Harvard Sq (Rent Realty)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926803822.html) — 9.4
+  - [$2,850 1BR Harvard St Central Sq](https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html) — 8.9
+  - [$2,900 1BR Central Sq owner-occupied](https://boston.craigslist.org/gbs/apa/d/cambridge/7926852370.html) — 8.9
+  - [$2,300 Studio Mt Auburn/Fresh Pond (NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079467/) — 8.7
+  - [$2,800 1BR 21 Shepard St Harvard Sq (Oxford St)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926817412.html) — 8.5
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-11 07:30 — OUTREACH
+- Listing: [$2,300 Studio Mt Auburn/Fresh Pond (NextGen)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8079467/)
+- Score: 8.7/10
+- Recipient: info@nextgenrealty.com (Carmen Moreno, NextGen Realty)
+- Contact email: info@nextgenrealty.com
+
+### 2026-04-11 07:30 — OUTREACH
+- Listing: [$2,650 1BR Hancock St Central Sq (Red Tree)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html)
+- Score: 10.0/10
+- Recipient: realestate@redtreeboston.com (Brandon Keane, Red Tree Real Estate)
+- Contact email: realestate@redtreeboston.com
+
+### 2026-04-11 07:30 — OUTREACH
+- Listing: [$2,800 1BR 21 Shepard St Harvard Sq (Oxford St)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926817412.html)
+- Score: 8.5/10
+- Recipient: info@oxfordstreetrealty.com (Jeff Indeck, Oxford Street Realty)
+- Contact email: info@oxfordstreetrealty.com
+
 ### 2026-04-10 06:57 — ALERT (4 URGENT listings)
 - Top scores:
   - [$2,300 Studio Davis Square Cambridge (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8065202/) — 8.9

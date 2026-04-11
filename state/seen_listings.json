@@ -1175,5 +1175,98 @@
     "outreach_sent": false,
     "still_active": true,
     "rejected": "date out of range (Aug 2)"
+  },
+  "craigslist-7926931773": {
+    "title": "$2,200 Studio 128 Pine St Cambridgeport (walk to MIT, July 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge/7926931773.html",
+    "price": 2200,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 10.0,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "phone only (857-547-8682)"
+  },
+  "craigslist-7926810971": {
+    "title": "$2,650 1BR Hancock St Central Sq (Red Tree Brandon Keane, June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge/7926810971.html",
+    "price": 2650,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 10.0,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7926803822": {
+    "title": "$2,750 1BR 11 Everett St Harvard Sq (Rent Realty Steve Wax, June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge/7926803822.html",
+    "price": 2750,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 9.4,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "craigslist relay — Rent Realty LLC no email published, manual reply required"
+  },
+  "craigslist-7926835501": {
+    "title": "$2,850 1BR Harvard St Central Sq (Peyton owner, May 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html",
+    "price": 2850,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "phone only (617-939-4835 Peyton)"
+  },
+  "craigslist-7926852370": {
+    "title": "$2,900 1BR Central Sq owner-occupied (May 1, bathroom reno in progress)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge/7926852370.html",
+    "price": 2900,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "outreach_blocked_reason": "craigslist relay — manual reply required"
+  },
+  "bostonpads-cambridge-8079467": {
+    "title": "$2,300 Studio Mt Auburn/Fresh Pond (NextGen Carmen Moreno, June 2)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8079467/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7926817412": {
+    "title": "$2,800 1BR 21 Shepard St Harvard Sq (Oxford St Jeff Indeck, July 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge/7926817412.html",
+    "price": 2800,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 8.5,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7926938734": {
+    "title": "$2,300 1BR Somerville (404 — dead link at verification time)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/somerville/7926938734.html",
+    "price": 2300,
+    "source": "craigslist",
+    "first_seen": "2026-04-11T07:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": false,
+    "rejected": "404 at individual listing fetch — deleted or never valid"
   }
 }
