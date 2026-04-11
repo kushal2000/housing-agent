@@ -60,7 +60,7 @@ Harvard St, Cambridge 02138 (4 min to Central Red Line) | 1BR/1ba | May 1, 2026 
 Charming brick, wood floors, laundry in bldg, heat/HW incl, off-street parking. 10 photos. No pets. Peyton (owner/manager).  
 Score 8.9/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
 ALERTED  
-Outreach: not available — phone only (617-939-4835 Peyton)  
+Outreach: sent 2026-04-11 to CL relay 0f14ba950c...@hous.craigslist.org (user-provided). Asked about June 1 flexibility. User also messaging Peyton directly by phone.  
 
 ### [$2,900 — 1BR Central Sq Cambridge (owner-occupied)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926852370.html)
 Central Square, Cambridge 02139 | 1BR/1ba | May 1, 2026 (early — negotiate for June)  

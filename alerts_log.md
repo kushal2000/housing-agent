@@ -13,6 +13,13 @@ Record of all email alerts and outreach messages sent by the agent.
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 
 ### 2026-04-11 (later) — OUTREACH (user-initiated)
+- Listing: [$2,850 1BR Harvard St Central Sq (Peyton)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html)
+- Score: 8.9/10
+- Recipient: 0f14ba950c6b38e6b54d1b675ffcfe1c@hous.craigslist.org (CL relay, user-provided)
+- Contact email: Craigslist relay only
+- Notes: Asked about June 1 flexibility — May 1 availability is before Kanika arrives. User also messaging Peyton directly at 617-939-4835.
+
+### 2026-04-11 (later) — OUTREACH (user-initiated)
 - Listing: [$1,985 Studio near MIT Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html)
 - Score: 9.6/10
 - Recipient: 72806c9767ab3864b1a7630c1561136f@hous.craigslist.org (CL relay, user-provided)

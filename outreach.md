@@ -4,6 +4,25 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,850 — 1BR Harvard St Central Sq (Peyton)](https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html)
+**Score:** 8.9/10 | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,850/mo |
+| Type | 1BR / 1ba |
+| Location | Harvard St, Cambridge 02138 (4 min walk to Central Red Line) |
+| Available | May 1, 2026 (asked about June 1 flexibility) |
+| Features | Charming brick building, wood floors, laundry in building, heat/HW included, off-street parking. No pets. 10 photos. |
+| Contact | Peyton (owner/manager) |
+| Phone | 617-939-4835 |
+| Email | 0f14ba950c6b38e6b54d1b675ffcfe1c@hous.craigslist.org (CL relay) |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge/7926835501.html |
+| Scores | MIT 5/5 \| Downtown 5/5 \| Price 3/5 \| Quality 5/5 \| Date 2/5 \| +0.5 dual direct |
+| Notes | Owner-listed, not a broker. User is also messaging Peyton directly by phone. Main question in email: June 1 flexibility since May 1 is before Kanika's arrival. Serious risk the unit goes to an earlier tenant — Central Sq 1BRs rarely get held. |
+
+---
+
 ### [$1,985 — Studio near MIT Cambridge (furnished)](https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html)
 **Score:** 9.6/10 | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
 

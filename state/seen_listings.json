@@ -1229,9 +1229,9 @@
     "first_seen": "2026-04-11T07:30:00",
     "score": 8.9,
     "alerted": true,
-    "outreach_sent": false,
+    "outreach_sent": true,
     "still_active": true,
-    "outreach_blocked_reason": "phone only (617-939-4835 Peyton)"
+    "notes": "Outreach sent 2026-04-11 to user-provided CL relay 0f14ba950c6b38e6b54d1b675ffcfe1c@hous.craigslist.org. Asked about June 1 flexibility (May 1 is before Kanika arrives). User also messaging Peyton by phone (617-939-4835)."
   },
   "craigslist-7926852370": {
     "title": "$2,900 1BR Central Sq owner-occupied (May 1, bathroom reno in progress)",
