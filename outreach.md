@@ -4,6 +4,25 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$1,985 — Studio near MIT Cambridge (furnished)](https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html)
+**Score:** 9.6/10 | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $1,985/mo |
+| Type | Studio / 1ba (furnished) |
+| Location | Cambridge 02141 (near MIT) |
+| Available | Lease thru Aug 31, 2026 OR Aug 2027 (two options advertised) |
+| Features | Furnished, utilities included (~$150/mo), new A/C, in-building laundry, no realtor fee. |
+| Contact | Landlord (name unknown — Craigslist relay) |
+| Phone | Not listed |
+| Email | 72806c9767ab3864b1a7630c1561136f@hous.craigslist.org (CL relay) |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html |
+| Scores | MIT 4/5 \| Downtown 5/5 \| Price 5/5 \| Quality 5/5 \| Date 4/5 \| +0.5 dual direct |
+| Notes | User-flagged favorite. Two clarifying questions in the outreach: (1) longer-lease option — short lease ends Aug 31, 2026, right when Kushal arrives — need the Aug 2027 variant; (2) June 1 start for Kanika. Title says 1BR but description says Studio. |
+
+---
+
 ### [$2,700 — 1BR + office Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
 **Score:** 8.9/10 | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
 

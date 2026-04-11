@@ -127,7 +127,7 @@ Cambridge 02141 (near MIT) | Studio/1ba | Lease thru Aug 31, 2026 or Aug 2027
 Furnished, utils incl (~$150/mo), new A/C, bldg laundry, no realtor fee. Title says 1BR but description says Studio.  
 Score 9.6/10 | MIT 4/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 4/5 | +0.5 dual direct  
 ALERTED  
-Outreach: not available — Craigslist relay only, manual reply required  
+Outreach: sent 2026-04-11 to CL relay 72806c9767...@hous.craigslist.org (user-provided). Asked about longer lease option and June 1 start.  
 
 ### [$2,600 — 1BR Mt Auburn/Brattle Cambridge (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8081331/)
 Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | 1BR/1ba | June 2, 2026  

@@ -1019,8 +1019,9 @@
     "first_seen": "2026-04-09T06:37:00",
     "score": 9.6,
     "alerted": true,
-    "outreach_sent": false,
-    "still_active": true
+    "outreach_sent": true,
+    "still_active": true,
+    "notes": "Outreach sent 2026-04-11 to user-provided CL relay 72806c9767ab3864b1a7630c1561136f@hous.craigslist.org. Asked about longer lease (thru Aug 2027) and June 1 start."
   },
   "bostonpads-cambridge-8081331": {
     "title": "$2,600 1BR Mt Auburn/Brattle Cambridge",

@@ -12,6 +12,13 @@ Record of all email alerts and outreach messages sent by the agent.
 - Dead: [7926053423 Cambridge Aug 1](https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-super-high/7926053423.html) returned 410 GONE
 - Recipient(s): kk837@cornell.edu, kb529@cornell.edu
 
+### 2026-04-11 (later) — OUTREACH (user-initiated)
+- Listing: [$1,985 Studio near MIT Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-all-utilities-included-close/7925060642.html)
+- Score: 9.6/10
+- Recipient: 72806c9767ab3864b1a7630c1561136f@hous.craigslist.org (CL relay, user-provided)
+- Contact email: Craigslist relay only
+- Notes: User flagged as favorite. Included 2 clarifying questions: (1) longer-lease option (thru Aug 2027) availability since short lease ends when Kushal arrives, (2) June 1 start for Kanika.
+
 ### 2026-04-11 (later) — OUTREACH (user-initiated, post-rubric-update)
 - Listing: [$2,700 1BR Sixth St E Cambridge](https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html)
 - Score: 8.9/10 (rescored from 8.7 under updated date rubric)
