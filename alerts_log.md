@@ -4,7 +4,7 @@ Record of all email alerts and outreach messages sent by the agent.
 
 ### 2026-04-12 06:31 — ALERT (5 URGENT listings)
 - Top scores:
-  - [$2,845 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html) — 9.6 (CL relay hidden, phone 617-684-8000)
+  - [$2,845 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html) — 9.6 (outreach sent by Kanika 14:27 ET)
   - [$2,300 1BR Beacon Hill brownstone (Apr 30)](https://boston.craigslist.org/gbs/apa/d/boston-apartment-mgh/7927030005.html) — 8.9 (CL relay hidden)
   - [$2,300 Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/) — 8.7 (outreach sent)
   - [$2,400 Studio Davis Sq (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/) — 8.7 (outreach sent)

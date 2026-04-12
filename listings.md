@@ -9,7 +9,7 @@ Scored apartment listings, newest first. Updated by the housing agent every 4 ho
 Heat/HW incl, hardwood, exposed brick fireplace, updated kitchen, on-site laundry w/ free WiFi, cats $45/mo, no fee. 14 photos. Apartment Rental Experts Ref #124849.  
 Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
 ALERTED  
-Outreach: not available — CL relay hidden, phone only (617-684-8000). REPLY VIA CRAIGSLIST.  
+Outreach: sent by Kanika 2026-04-12 14:27 to a8fbc98b13373aeeaf648c1f96abc506@hous.craigslist.org (CC kk837)  
 
 ### [$2,300 — 1BR Beacon Hill (Apr 30)](https://boston.craigslist.org/gbs/apa/d/boston-apartment-mgh/7927030005.html)
 Beacon Hill, Boston 02114 | 1BR/1ba 650sqft brownstone whole floor | April 30, 2026  

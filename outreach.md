@@ -4,6 +4,23 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,845 — 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html)
+**Score:** 9.6/10 | **Sent:** 2026-04-12 14:27 (by Kanika) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,845/mo |
+| Type | 1BR / 1ba |
+| Location | 888 Massachusetts Ave, Cambridge 02139 (Central Sq) |
+| Available | June 1, 2026 |
+| Features | Heat/HW incl, hardwood, exposed brick fireplace, updated kitchen, on-site laundry, free WiFi, cats $45/mo, no broker fee |
+| Contact | Apartment Rental Experts |
+| Phone | 617-684-8000 (Ref #124849) |
+| Email | a8fbc98b13373aeeaf648c1f96abc506@hous.craigslist.org (CL relay) |
+| Listing | https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html |
+| Scores | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Notes | Same building as $2,925 Aug 1 unit (7926003647) but cheaper + earlier. 5-min walk to Central Sq T. Sent by Kanika from kb529@cornell.edu, Kushal CC'd. |
+
 ### [$2,300 — Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/)
 **Score:** 8.7/10 | **Sent:** 2026-04-12 06:31 | **Status:** Awaiting reply
 
