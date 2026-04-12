@@ -596,10 +596,9 @@
     "source": "craigslist",
     "first_seen": "2026-04-07T10:30:00",
     "score": 0,
-    "still_active": false,
+    "still_active": true,
     "alerted": false,
-    "outreach_sent": false,
-    "still_active": true
+    "outreach_sent": false
   },
   "craigslist-7925967045": {
     "title": "$2,200 Studio Foster St Brattle/Harvard area Cambridge (Jun 1)",
@@ -864,7 +863,7 @@
     "rejected": "date out of range (Sept 1) \u2014 duplicate of 7926018246"
   },
   "craigslist-7926253675": {
-    "title": "$3,100 1BR 374 North St North End Boston (Aug 1) — RESCORED 6.2 GOOD",
+    "title": "$3,100 1BR 374 North St North End Boston (Aug 1) \u2014 RESCORED 6.2 GOOD",
     "url": "https://boston.craigslist.org/gbs/apa/d/boston-august-1st-spacious-north-end/7926253675.html",
     "price": 3100,
     "source": "craigslist",
@@ -875,10 +874,10 @@
     "still_active": true,
     "outreach_blocked_reason": "craigslist relay only. Rescored 2026-04-11 after date rubric update.",
     "please_check": true,
-    "previously_rejected": "date out of range (Aug 1) — un-rejected after search_profile.md update"
+    "previously_rejected": "date out of range (Aug 1) \u2014 un-rejected after search_profile.md update"
   },
   "craigslist-7926003647": {
-    "title": "$2,925 1BR 888 Mass Ave Central Sq (Aug 1) — RESCORED 9.2 URGENT",
+    "title": "$2,925 1BR 888 Mass Ave Central Sq (Aug 1) \u2014 RESCORED 9.2 URGENT",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-1br-top-floor/7926003647.html",
     "price": 2925,
     "source": "craigslist",
@@ -888,7 +887,7 @@
     "outreach_sent": false,
     "still_active": true,
     "outreach_blocked_reason": "phone only (617-684-8000, Ref #137512). Rescored 2026-04-11 after date rubric update.",
-    "previously_rejected": "date out of range (Aug 1) — un-rejected after search_profile.md update"
+    "previously_rejected": "date out of range (Aug 1) \u2014 un-rejected after search_profile.md update"
   },
   "craigslist-7926007991": {
     "title": "$2,925 1BR 888 Mass Ave Central Sq (Aug 1, DUP of 7926003647)",
@@ -903,7 +902,7 @@
     "rejected": "date out of range (Aug 1) \u2014 duplicate of 7926003647"
   },
   "craigslist-7926037473": {
-    "title": "$3,300 1BR 11 Ellery St Mid Cambridge/Harvard Sq (Aug 1, Ben Keddy) — RESCORED 7.2 GOOD",
+    "title": "$3,300 1BR 11 Ellery St Mid Cambridge/Harvard Sq (Aug 1, Ben Keddy) \u2014 RESCORED 7.2 GOOD",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-mid-cam-harvard/7926037473.html",
     "price": 3300,
     "source": "craigslist",
@@ -914,7 +913,7 @@
     "still_active": true,
     "outreach_blocked_reason": "phone only (Ben Keddy 781-645-8736). Rescored 2026-04-11 after date rubric update.",
     "please_check": true,
-    "previously_rejected": "date out of range (Aug 1) — un-rejected after search_profile.md update"
+    "previously_rejected": "date out of range (Aug 1) \u2014 un-rejected after search_profile.md update"
   },
   "craigslist-7926032800": {
     "title": "$3,300 1BR 11 Ellery St Cambridge (Aug 1, DUP of 7926037473)",
@@ -1046,7 +1045,7 @@
     "still_active": true
   },
   "craigslist-7924620364": {
-    "title": "$2,700 1BR Sixth St E Cambridge (Aug 1 — Kushal's arrival)",
+    "title": "$2,700 1BR Sixth St E Cambridge (Aug 1 \u2014 Kushal's arrival)",
     "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-light-and-airy-one-bed-plus/7924620364.html",
     "price": 2700,
     "source": "craigslist",
@@ -1055,7 +1054,7 @@
     "alerted": true,
     "outreach_sent": true,
     "still_active": true,
-    "notes": "Rescored 8.7 → 8.9 under updated date rubric (Aug 1 now = 3/5). Outreach sent 2026-04-11 to user-provided CL relay 87a0692a190d3cc5b69da6b2314b367f@hous.craigslist.org — user manually fetched the relay from browser."
+    "notes": "Rescored 8.7 \u2192 8.9 under updated date rubric (Aug 1 now = 3/5). Outreach sent 2026-04-11 to user-provided CL relay 87a0692a190d3cc5b69da6b2314b367f@hous.craigslist.org \u2014 user manually fetched the relay from browser."
   },
   "bostonpads-somerville-4404273": {
     "title": "$2,100 Studio Spring Hill Somerville",
@@ -1111,7 +1110,7 @@
     "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "notes": "Related to 8065192 — different unit, same agent (Thomas Webb). Outreach skipped to avoid duplicate."
+    "notes": "Related to 8065192 \u2014 different unit, same agent (Thomas Webb). Outreach skipped to avoid duplicate."
   },
   "craigslist-7926700298": {
     "title": "$2,208 Studio South Boston luxury building",
@@ -1146,7 +1145,7 @@
     "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "outreach_blocked_reason": "no agent email on listing page — platform inquiry required"
+    "outreach_blocked_reason": "no agent email on listing page \u2014 platform inquiry required"
   },
   "bostonpads-cambridge-8080825": {
     "title": "$3,900 2BR Central Sq/Cambridgeport (REJECT 2BR over budget)",
@@ -1173,7 +1172,7 @@
     "rejected": "2BR and over $3,500 budget"
   },
   "bostonpads-cambridge-8078867": {
-    "title": "$2,300 Studio Mt Auburn/Fresh Pond (Aug 2, NextGen Marta Moraru) — RESCORED 7.8 GOOD",
+    "title": "$2,300 Studio Mt Auburn/Fresh Pond (Aug 2, NextGen Marta Moraru) \u2014 RESCORED 7.8 GOOD",
     "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/",
     "price": 2300,
     "source": "bostonpads",
@@ -1183,8 +1182,8 @@
     "outreach_sent": false,
     "still_active": true,
     "please_check": true,
-    "notes": "NextGen Realty — contact info@nextgenrealty.com, Marta Moraru 617-955-6993. Rescored 2026-04-11 after date rubric update.",
-    "previously_rejected": "date out of range (Aug 2) — un-rejected after search_profile.md update"
+    "notes": "NextGen Realty \u2014 contact info@nextgenrealty.com, Marta Moraru 617-955-6993. Rescored 2026-04-11 after date rubric update.",
+    "previously_rejected": "date out of range (Aug 2) \u2014 un-rejected after search_profile.md update"
   },
   "craigslist-7926931773": {
     "title": "$2,200 Studio 128 Pine St Cambridgeport (walk to MIT, July 1)",
@@ -1219,7 +1218,7 @@
     "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "outreach_blocked_reason": "craigslist relay — Rent Realty LLC no email published, manual reply required"
+    "outreach_blocked_reason": "craigslist relay \u2014 Rent Realty LLC no email published, manual reply required"
   },
   "craigslist-7926835501": {
     "title": "$2,850 1BR Harvard St Central Sq (Peyton owner, May 1)",
@@ -1243,7 +1242,7 @@
     "alerted": true,
     "outreach_sent": false,
     "still_active": true,
-    "outreach_blocked_reason": "craigslist relay — manual reply required"
+    "outreach_blocked_reason": "craigslist relay \u2014 manual reply required"
   },
   "bostonpads-cambridge-8079467": {
     "title": "$2,300 Studio Mt Auburn/Fresh Pond (NextGen Carmen Moreno, June 2)",
@@ -1268,7 +1267,7 @@
     "still_active": true
   },
   "craigslist-7926938734": {
-    "title": "$2,300 1BR Somerville (404 — dead link at verification time)",
+    "title": "$2,300 1BR Somerville (404 \u2014 dead link at verification time)",
     "url": "https://boston.craigslist.org/gbs/apa/d/somerville/7926938734.html",
     "price": 2300,
     "source": "craigslist",
@@ -1277,6 +1276,230 @@
     "alerted": false,
     "outreach_sent": false,
     "still_active": false,
-    "rejected": "404 at individual listing fetch — deleted or never valid"
+    "rejected": "404 at individual listing fetch \u2014 deleted or never valid"
+  },
+  "craigslist-7927115255": {
+    "title": "$2,845 1BR 888 Mass Ave Central Sq (June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html",
+    "price": 2845,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 9.6,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7927030005": {
+    "title": "$2,300 1BR Beacon Hill (Apr 30)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-apartment-mgh/7927030005.html",
+    "price": 2300,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8080695": {
+    "title": "$2,300 Studio Mt Auburn/Fresh Pond (June 2)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/",
+    "price": 2300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8080684": {
+    "title": "$2,400 Studio Davis Sq (June 2)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/",
+    "price": 2400,
+    "source": "bostonpads",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "craigslist-7927163561": {
+    "title": "$2,780 1BR+ Highland Ave Spring Hill (June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/somerville-porter-square-spring-hill/7927163561.html",
+    "price": 2780,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 8.3,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8082773": {
+    "title": "$3,300 1BR Porter Sq (June 1) \u2014 NextGen",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8082773/",
+    "price": 3300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 7.8,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "bostonpads-cambridge-8082746": {
+    "title": "$3,300 1BR Porter Sq (June 1) \u2014 NextGen",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-8082746/",
+    "price": 3300,
+    "source": "bostonpads",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 7.8,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926856384": {
+    "title": "$2,700 1BR East Boston Furnished",
+    "url": "https://boston.craigslist.org/gbs/apa/d/east-boston-furnishedharbor-view/7926856384.html",
+    "price": 2700,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.4,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7919551929": {
+    "title": "$2,200 1BR SoWa/Roxbury Loft",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-sowa-district-loft-d-central-c/7919551929.html",
+    "price": 2200,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.4,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7927096820": {
+    "title": "$2,475 1BR Brighton No Fee",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-no-fee-spacious-bed-eat-in/7927096820.html",
+    "price": 2475,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7927030677": {
+    "title": "$2,090 Studio South End w/yard",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-south-end-studio-apartment-yard/7927030677.html",
+    "price": 2090,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7927207412": {
+    "title": "$1,778 1BR Brighton",
+    "url": "https://westernmass.craigslist.org/apa/d/brighton-easy-walk-to-whole-foods-and/7927207412.html",
+    "price": 1778,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.0,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7927059292": {
+    "title": "$1,995 Studio Brighton Pool/Parking",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-now-studio-off-street-parking/7927059292.html",
+    "price": 1995,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.0,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7918809967": {
+    "title": "$2,300 1BR Boston 40th Floor SCAM",
+    "url": "https://worcester.craigslist.org/apa/d/boston-boston-harbor-views-from-every/7918809967.html",
+    "price": 2300,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.0,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "scam_flag": true
+  },
+  "craigslist-7927060629": {
+    "title": "$1,750 1BR Coolidge Corner SCAM",
+    "url": "https://southcoast.craigslist.org/apa/d/brookline-renovated-coolidge-corner-one/7927060629.html",
+    "price": 1750,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 6.2,
+    "alerted": true,
+    "outreach_sent": false,
+    "still_active": true,
+    "scam_flag": true
+  },
+  "craigslist-7927073946": {
+    "title": "$2,700 1BR Brighton May 1",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-modern-bed-in-brighton-for-ht/7927073946.html",
+    "price": 2700,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 5.8,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7924395568": {
+    "title": "$2,900 1BR Back Bay Deck/Views",
+    "url": "https://worcester.craigslist.org/apa/d/boston-back-bay-1br-deck-views/7924395568.html",
+    "price": 2900,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 5.6,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7926812618": {
+    "title": "$2,995 1BR Fenway Westland",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-bed-on-westland/7926812618.html",
+    "price": 2995,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 5.3,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "craigslist-7927076698": {
+    "title": "$2,750 1BR Allston Sept 1 REJECTED",
+    "url": "https://boston.craigslist.org/gbs/apa/d/allston-spacious-bed-sept-1st-ht-hw/7927076698.html",
+    "price": 2750,
+    "source": "craigslist",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "Sept 1 outside date range"
+  },
+  "bostonpads-somerville-8084244": {
+    "title": "$3,000 1BR Magoun/Ball Sq Sept 1 REJECTED",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8084244/",
+    "price": 3000,
+    "source": "bostonpads",
+    "first_seen": "2026-04-12T06:37:05",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true,
+    "rejected": "Sept 1 outside date range"
   }
 }

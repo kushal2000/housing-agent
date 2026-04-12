@@ -4,6 +4,42 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,300 — Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/)
+**Score:** 8.7/10 | **Sent:** 2026-04-12 06:31 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,300/mo |
+| Type | Studio / 1ba |
+| Location | Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 |
+| Available | June 2, 2026 |
+| Features | Laundry in bldg, A/C, water/sewer incl, no broker fee, no first month deposit |
+| Contact | Donicely Zapata, Boardwalk Properties |
+| Phone | 617-595-0911 |
+| Email | info@boardwalkprops.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/ |
+| Scores | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Move-in costs | Security $2,300 + key/lock $100 = $2,400 due at signing. $50 app fee. |
+| Notes | Walk to Harvard Sq Red Line. Same agent (Donicely) as several prior Boardwalk inquiries. Low move-in costs — no first month, no last month, no broker fee. |
+
+### [$2,400 — Studio Davis Sq (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/)
+**Score:** 8.7/10 | **Sent:** 2026-04-12 06:31 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,400/mo |
+| Type | Studio / 1ba |
+| Location | Davis Square, Cambridge 02140 |
+| Available | June 2, 2026 |
+| Features | Heat/HW incl, A/C, dishwasher, laundry in bldg, no broker fee, no last month deposit |
+| Contact | Donicely Zapata, Boardwalk Properties |
+| Phone | 617-595-0911 |
+| Email | info@boardwalkprops.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/ |
+| Scores | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Move-in costs | Security $2,400 + total at signing $3,456 (includes tech fee). $50 app fee. |
+| Notes | Heat/HW included makes effective cost ~$2,250. Davis Sq = direct Red Line to both commutes. 5.29% below Cambridge avg. |
+
 ### [Metro Haven Suites — corporate furnished inquiry (Central Sq or Financial District)](https://metrohavensuites.com/boston/furnished-apartment-boston.html)
 **Score:** N/A (exploratory company inquiry, not a specific listing) | **Sent:** 2026-04-11 (user-initiated) | **Status:** Awaiting reply
 

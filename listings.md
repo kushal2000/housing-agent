@@ -2,6 +2,111 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 12th April, 2026
+
+### [$2,845 — 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html)
+888 Massachusetts Ave, Cambridge 02139 (Central Sq) | 1BR/1ba | June 1, 2026  
+Heat/HW incl, hardwood, exposed brick fireplace, updated kitchen, on-site laundry w/ free WiFi, cats $45/mo, no fee. 14 photos. Apartment Rental Experts Ref #124849.  
+Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — CL relay hidden, phone only (617-684-8000). REPLY VIA CRAIGSLIST.  
+
+### [$2,300 — 1BR Beacon Hill (Apr 30)](https://boston.craigslist.org/gbs/apa/d/boston-apartment-mgh/7927030005.html)
+Beacon Hill, Boston 02114 | 1BR/1ba 650sqft brownstone whole floor | April 30, 2026  
+Original hardwood, A/C, all utilities included, contracted laundry service, near MGH/Whole Foods. 18 photos. Charles/MGH T = 1 Red Line stop to Kendall.  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 1/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — CL relay hidden, no phone. REPLY VIA CRAIGSLIST. Ask about June 1 start.  
+
+### [$2,300 — Studio Mt Auburn/Fresh Pond (Boardwalk, June 2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/)
+Mt. Auburn/Brattle/Fresh Pond, Cambridge 02138 | Studio/1ba | June 2, 2026  
+Laundry in bldg, A/C, water/sewer incl, no fee, no first month deposit. Boardwalk Properties (Donicely Zapata, 617-595-0911).  
+Score 8.7/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com  
+
+### [$2,400 — Studio Davis Sq (Boardwalk, June 2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/)
+Davis Square, Cambridge 02140 | Studio/1ba | June 2, 2026  
+Heat/HW incl, A/C, dishwasher, laundry in bldg, no fee, no last month deposit. Boardwalk Properties (Donicely Zapata, 617-595-0911).  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@boardwalkprops.com  
+
+### [$2,780 — 1BR+ Highland Ave Spring Hill (June 1)](https://boston.craigslist.org/gbs/apa/d/somerville-porter-square-spring-hill/7927163561.html)
+Highland Ave nr Sycamore, Somerville 02143 (Spring Hill) | 1BR+den/1ba 800sqft | June 1, 2026  
+New reno: quartz counters, SS appliances, hardwood, glass shower, dishwasher, heat pump, A/C, on-site laundry, no fee. 11 photos. Agent: Christina Crawley 781-366-8526.  
+Score 8.3/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only (Christina Crawley 781-366-8526). REPLY VIA CRAIGSLIST or call.  
+
+### [$3,300 — 1BR Porter Sq (NextGen, June 1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082773/)
+Porter Square, Cambridge 02140 | 1BR/1ba | June 1, 2026  
+In-unit laundry, dishwasher, hardwood, cats OK, street parking, no fee, no last month deposit. HW + water/sewer incl. NextGen Realty (Alexandra Gabriel, 617-699-1026).  
+Score 7.8/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — GOOD tier awaiting approval (please_check.md)  
+
+### [$3,300 — 1BR Porter Sq (NextGen, June 1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082746/)
+Porter Square, Cambridge 02140 | 1BR/1ba | June 1, 2026  
+In-unit laundry, dishwasher, hardwood, cats OK, street parking, no fee, no last month deposit. HW + water/sewer incl. NextGen Realty (Alexandra Gabriel, 617-699-1026).  
+Score 7.8/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — GOOD tier awaiting approval (please_check.md)  
+
+### [$2,700 — 1BR East Boston Furnished](https://boston.craigslist.org/gbs/apa/d/east-boston-furnishedharbor-view/7926856384.html)
+East Boston | 1BR/1ba | Available now  
+Furnished, harbor view, parking, mini-splits, renovated kitchen/bath. Blue Line to State St (Kanika) but transfer required for MIT.  
+Score 6.4/10 | MIT 2/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 3/5  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — CL relay hidden  
+
+### [$2,200 — 1BR SoWa/Roxbury Loft](https://boston.craigslist.org/gbs/apa/d/boston-sowa-district-loft-d-central-c/7919551929.html)
+SoWa District, Roxbury/South End | 1BR | Available now  
+Loft, W/D in unit, central A/C, near Whole Foods. Orange Line area — transfer needed for MIT.  
+Score 6.4/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 3/5  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — CL relay hidden  
+
+### [$2,475 — 1BR Brighton No Fee](https://boston.craigslist.org/gbs/apa/d/brighton-no-fee-spacious-bed-eat-in/7927096820.html)
+Brighton | 1BR | Available now  
+Spacious, no fee, heat/HW incl, eat-in kitchen, laundry. Far from MIT (Tier 4).  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 4/5 | Quality 5/5 | Date 3/5  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — CL relay hidden  
+
+### [$2,090 — Studio South End w/yard](https://boston.craigslist.org/gbs/apa/d/boston-south-end-studio-apartment-yard/7927030677.html)
+South End, Boston | Studio | Available now  
+Studio with yard, great price for South End. Orange Line area.  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — CL relay hidden  
+
+### [$1,778 — 1BR Brighton](https://westernmass.craigslist.org/apa/d/brighton-easy-walk-to-whole-foods-and/7927207412.html)
+Brighton | 1BR | Available now  
+Great price. Near Whole Foods, good for BU/BC area. Far from MIT.  
+Score 6.0/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 2/5  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — CL relay hidden  
+
+### [$1,995 — Studio Brighton Pool/Parking](https://boston.craigslist.org/gbs/apa/d/brighton-now-studio-off-street-parking/7927059292.html)
+Brighton | Studio | Available now  
+Off-street parking, pool, full kitchen, heat/HW incl. Available now — landlord may want someone sooner.  
+Score 6.0/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 1/5  
+Digest: sent 2026-04-12 AM  
+Outreach: not sent — CL relay hidden  
+
+### [$2,300 — 1BR "40th Floor Harbor Views" Boston ⚠️ SCAM](https://worcester.craigslist.org/apa/d/boston-boston-harbor-views-from-every/7918809967.html)
+Boston | 1BR | Available now  
+$2,300 for 40th floor harbor views = too good to be true. Posted from Worcester CL. SCAM FLAGGED.  
+Score 6.0/10 (scam) | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 2/5 | Date 3/5  
+Logged only — SCAM  
+
+### [$1,750 — 1BR Coolidge Corner Brookline ⚠️ SCAM](https://southcoast.craigslist.org/apa/d/brookline-renovated-coolidge-corner-one/7927060629.html)
+Coolidge Corner, Brookline | 1BR | Available now  
+Renovated, balcony, A/C, garage for $1,750 — way below market. Posted from SouthCoast CL. SCAM FLAGGED.  
+Score 6.2/10 (scam) | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+Logged only — SCAM  
+
 ## 11th April, 2026 (rescored under new date rubric)
 
 ### [$2,925 — 1BR 888 Mass Ave Central Sq (Aug 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-1br-top-floor/7926003647.html)

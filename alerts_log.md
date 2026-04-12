@@ -2,6 +2,42 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-12 06:31 — ALERT (5 URGENT listings)
+- Top scores:
+  - [$2,845 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html) — 9.6 (CL relay hidden, phone 617-684-8000)
+  - [$2,300 1BR Beacon Hill brownstone (Apr 30)](https://boston.craigslist.org/gbs/apa/d/boston-apartment-mgh/7927030005.html) — 8.9 (CL relay hidden)
+  - [$2,300 Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/) — 8.7 (outreach sent)
+  - [$2,400 Studio Davis Sq (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/) — 8.7 (outreach sent)
+  - [$2,780 1BR+ Highland Ave Spring Hill (June 1)](https://boston.craigslist.org/gbs/apa/d/somerville-porter-square-spring-hill/7927163561.html) — 8.3 (phone only 781-366-8526)
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-12 06:31 — OUTREACH
+- Listing: [$2,300 Studio Mt Auburn/Fresh Pond (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080695/)
+- Score: 8.7/10
+- Recipient: info@boardwalkprops.com (Donicely Zapata, Boardwalk Properties)
+- Contact email: info@boardwalkprops.com
+
+### 2026-04-12 06:31 — OUTREACH
+- Listing: [$2,400 Studio Davis Sq (Boardwalk)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080684/)
+- Score: 8.7/10
+- Recipient: info@boardwalkprops.com (Donicely Zapata, Boardwalk Properties)
+- Contact email: info@boardwalkprops.com
+
+### 2026-04-12 06:32 — DIGEST (8 GOOD-tier + 2 scam-flagged)
+- GOOD:
+  - [$3,300 1BR Porter Sq (NextGen 8082773)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082773/) — 7.8 (please_check)
+  - [$3,300 1BR Porter Sq (NextGen 8082746)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082746/) — 7.8 (please_check)
+  - [$2,700 1BR East Boston Furnished](https://boston.craigslist.org/gbs/apa/d/east-boston-furnishedharbor-view/7926856384.html) — 6.4
+  - [$2,200 1BR SoWa/Roxbury Loft](https://boston.craigslist.org/gbs/apa/d/boston-sowa-district-loft-d-central-c/7919551929.html) — 6.4
+  - [$2,475 1BR Brighton No Fee](https://boston.craigslist.org/gbs/apa/d/brighton-no-fee-spacious-bed-eat-in/7927096820.html) — 6.2
+  - [$2,090 Studio South End w/yard](https://boston.craigslist.org/gbs/apa/d/boston-south-end-studio-apartment-yard/7927030677.html) — 6.2
+  - [$1,778 1BR Brighton](https://westernmass.craigslist.org/apa/d/brighton-easy-walk-to-whole-foods-and/7927207412.html) — 6.0
+  - [$1,995 Studio Brighton Pool/Parking](https://boston.craigslist.org/gbs/apa/d/brighton-now-studio-off-street-parking/7927059292.html) — 6.0
+- SCAM-FLAGGED:
+  - [$2,300 1BR Boston 40th Floor](https://worcester.craigslist.org/apa/d/boston-boston-harbor-views-from-every/7918809967.html) — too good to be true
+  - [$1,750 1BR Coolidge Corner](https://southcoast.craigslist.org/apa/d/brookline-renovated-coolidge-corner-one/7927060629.html) — way below market
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
 ### 2026-04-11 (digest) — DIGEST (4 rescored Aug listings after rubric update)
 - URGENT:
   - [$2,925 1BR 888 Mass Ave Central Sq (Aug 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-central-sq-1br-top-floor/7926003647.html) — 9.2 (phone only 617-684-8000)

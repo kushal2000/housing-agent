@@ -3,6 +3,20 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-12
+
+### [$3,300 — 1BR Porter Sq Cambridge (NextGen Alexandra Gabriel)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082773/)
+Score 7.8/10 | Porter Square, Cambridge 02140 | June 1, 2026  
+In-unit laundry, dishwasher, hardwood, cats OK, street parking, no fee, no last month deposit. HW + water/sewer incl. $3,300 is pricey but June 1 + Red Line + in-unit laundry is premium.  
+Contact: Alexandra Gabriel — info@nextgenrealty.com / 617-699-1026 (NextGen is a known contact)  
+**Approve?** Reply "yes" to send outreach.
+
+### [$3,300 — 1BR Porter Sq Cambridge (NextGen Alexandra Gabriel, unit B)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082746/)
+Score 7.8/10 | Porter Square, Cambridge 02140 | June 1, 2026  
+Same specs as above — may be different unit in same building. In-unit laundry, hardwood, cats OK, no fee.  
+Contact: Alexandra Gabriel — info@nextgenrealty.com / 617-699-1026  
+**Approve?** Reply "yes" to send outreach.
+
 ## Added 2026-04-11 (rescored after date rubric update)
 
 ### [$2,300 — Studio Mt Auburn/Fresh Pond (NextGen Marta Moraru)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078867/)
