@@ -4,6 +4,13 @@ Scored apartment listings, newest first. Updated by the housing agent every 4 ho
 
 ## 13th April, 2026
 
+### $2,750 — 1BR 5 Linnaean St Apt 37 Harvard/Porter (June 1)
+5 Linnaean St Apt 37, Cambridge 02138 (between Harvard & Porter) | 1BR/1ba 3rd floor | June 1, 2026  
+Lease takeover (mgmt approved). Heat/HW incl, wood floors & paneling, bay windows, spacious bedroom w/ 2 closets, laundry in basement, quiet bldg. 8 min walk to Porter, 15 min to Harvard Sq. Furniture available for purchase. Thayer Associates mgmt.  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED (user-initiated)  
+Outreach: sent to smedina@thayerassociates.com (Simon Medina, Thayer Associates) — referencing Sadie & Lev  
+
 ### [$2,250 — 1BR Harvard Sq (July 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-cambridge-harvard-square/7927246998.html)
 Near Sumner, Cambridge 02138 | 1BR/1ba | July 1, 2026  
 Heat/HW/trash incl, laundry on site, no fee, furnished basics. Steps to Harvard Yard. ⚠️ "For one person only" — ask if couple OK.  

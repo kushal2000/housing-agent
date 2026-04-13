@@ -2,6 +2,13 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-13 — OUTREACH (user-initiated, Facebook listing)
+- Listing: $2,750 1BR 5 Linnaean St Apt 37, Cambridge (Harvard/Porter)
+- Score: 8.7/10
+- Recipient: smedina@thayerassociates.com (Simon Medina, Thayer Associates)
+- Contact email: smedina@thayerassociates.com
+- Notes: Facebook find. Lease takeover June 1, mgmt approved. Referred by Sadie & Lev. Heat/HW incl, wood floors, bay windows, 3rd floor, laundry in basement. 8 min to Porter Red Line.
+
 ### 2026-04-13 06:30 — ALERT (5 URGENT listings)
 - Top scores:
   - [$2,250 1BR Harvard Sq (July 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-cambridge-harvard-square/7927246998.html) — 9.4 (CL relay hidden, "one person" caveat)

@@ -1935,5 +1935,16 @@
     "outreach_sent": false,
     "still_active": true,
     "rejected": "Shared room/co-living, not standalone unit"
+  },
+  "facebook-5linnaean-apt37": {
+    "title": "$2,750 1BR 5 Linnaean St Apt 37 Harvard/Porter (June 1)",
+    "url": "https://www.facebook.com/",
+    "price": 2750,
+    "source": "facebook",
+    "first_seen": "2026-04-13T13:10:36",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
   }
 }

@@ -4,6 +4,22 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### $2,750 — 1BR 5 Linnaean St Apt 37 Harvard/Porter (June 1)
+**Score:** 8.7/10 | **Sent:** 2026-04-13 (user-initiated) | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,750/mo + utilities (heat/HW included) |
+| Type | 1BR / 1ba |
+| Location | 5 Linnaean St Apt 37, Cambridge 02138 (between Harvard & Porter Sq) |
+| Available | June 1, 2026 (lease takeover, management approved) |
+| Features | 3rd floor, bay windows, spacious bedroom w/ 2 closets, wood floors & paneling, laundry in basement, quiet building, online rent/maintenance portal |
+| Contact | Simon Medina, Thayer Associates |
+| Email | smedina@thayerassociates.com |
+| Listing | Facebook (found by user, referred by Sadie & Lev) |
+| Scores | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Notes | 8 min walk to Porter Red Line, 15 min to Harvard Sq. Furniture available for purchase from current tenant. Lease takeover = no broker fee, mgmt-approved transition. |
+
 ### [$2,495 — Studio Beacon Hill (June 1)](https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927226592.html)
 **Score:** 9.4/10 | **Sent:** 2026-04-13 06:30 | **Status:** Awaiting reply
 
