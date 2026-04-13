@@ -2,6 +2,106 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 13th April, 2026
+
+### [$2,250 — 1BR Harvard Sq (July 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-cambridge-harvard-square/7927246998.html)
+Near Sumner, Cambridge 02138 | 1BR/1ba | July 1, 2026  
+Heat/HW/trash incl, laundry on site, no fee, furnished basics. Steps to Harvard Yard. ⚠️ "For one person only" — ask if couple OK.  
+Score 9.4/10 | MIT 4/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — CL relay hidden. REPLY VIA CRAIGSLIST.  
+
+### [$2,495 — Studio Beacon Hill (June 1)](https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927226592.html)
+Cambridge St nr Garden St, Boston 02114 (Beacon Hill) | Studio/1ba | June 1, 2026  
+Large 2-room studio, dishwasher, laundry in bldg, cats OK, no fee. Steps to MGH, Red Line at Charles St. Christopher Puzacke, Benjamin Apartments 860-309-8511.  
+Score 9.4/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@benjaminapartments.com  
+
+### [$3,150 — 1BR Duplex Trowbridge/Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-extra-spacious-duplex-1br/7927366524.html)
+Trowbridge nr Mass Ave, Cambridge 02138 | 1BR+office/2ba duplex | June 1, 2026  
+Upper: bedroom+bath+office. Lower: open kitchen/living+2nd full bath. Private entrance, laundry in bldg, cats OK. Owner-managed.  
+Score 8.9/10 | MIT 5/5 | Downtown 5/5 | Price 2/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — CL relay hidden, owner-managed. REPLY VIA CRAIGSLIST.  
+
+### [$2,950 — 1BR Harvard St/Dana Cambridge (May 6)](https://boston.craigslist.org/gbs/apa/d/cambridge-stunning-euro-style-reno-of/7927233926.html)
+Harvard St nr Dana, Cambridge 02139 | 1BR/1ba 600sqft 4th flr elevator | May 6, 2026  
+Art deco brick, euro reno, mini-split AC, dishwasher, laundry in bldg, off-street parking avail, no fee. 6-min walk to Red Line. Christina Crawley 781-366-8526 (Apt Rental Experts Ref #181450).  
+Score 8.9/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 2/5 | +0.5 dual direct  
+ALERTED  
+Outreach: not available — phone only. Call Christina or reply via CL.  
+
+### [$2,100 — Studio Spring Hill Somerville (June 1, Douglas Paul)](https://bostonpads.com/somerville-ma-apartments/somerville-8070495/)
+Spring Hill, Somerville 02143 | Studio/1ba | June 1, 2026  
+Heat/HW incl, laundry in bldg, cat friendly, no fee, NO DEPOSITS. Best deal: $223 below market. Kaylee Klenk, Douglas Paul 617-706-1266.  
+Score 8.7/10 | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com  
+
+### [$2,900 — 1BR Porter/Davis Somerville (June 1)](https://boston.craigslist.org/gbs/apa/d/somerville-no-fee-garden-prkng-laundry/7927363859.html)
+Somerville (12 min to Porter Sq) | 1BR/1ba | June 1, 2026  
+No fee, garden, parking, laundry. 12 min to Porter.  
+Score 7.8/10 | MIT 3/5 | Downtown 4/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+Outreach: not sent — GOOD tier (please_check.md)  
+
+### [$3,100 — 1BR Porter Sq Cambridge (in-unit laundry)](https://boston.craigslist.org/gbs/apa/d/cambridge-ultra-modern-bed-steps-to/7927224312.html)
+Porter Sq, Cambridge | 1BR/1ba | Date TBD  
+Ultra modern, in-unit laundry, steps to Porter Red Line.  
+Score 7.8/10 | MIT 3/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+
+### [$2,800 — 1BR Harvard Sq Cambridge (Now)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8080826/)
+Harvard Sq, Cambridge | 1BR | Available now  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 3/5 | Date 1/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+
+### [$2,500 — Studio Spring Hill Somerville (renovated)](https://boston.craigslist.org/gbs/apa/d/somerville-porter-sq-spring-hill-studio/7927266298.html)
+Spring Hill, Somerville | Studio | Date TBD  
+Newly renovated, walk to Porter/Davis Red Line.  
+Score 7.6/10 | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 3/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+
+### [$3,175 — 1BR Porter Sq Cambridge (in-unit laundry, reno)](https://boston.craigslist.org/gbs/apa/d/cambridge-fabulous-apt-fabulous/7927398505.html)
+Porter Sq, Cambridge | 1BR/1ba | Date TBD  
+Ultra-sleek reno, in-unit laundry.  
+Score 7.4/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+
+### [$3,450 — 1BR Harvard Sq Cambridge (euro reno)](https://boston.craigslist.org/gbs/apa/d/cambridge-stunning-euro-style-reno-of/7927232573.html)
+Harvard St nr Dana, Cambridge | 1BR/1ba | Date TBD  
+Same brick bldg as $2,950 unit above. Larger/pricier unit.  
+Score 7.4/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 3/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+
+### [$3,225 — 1BR Porter Sq Cambridge (June 1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082760/)
+Porter Sq, Cambridge | 1BR/1ba | June 1, 2026  
+Score 7.4/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+Digest: sent 2026-04-13 AM  
+
+### Porter Sq BostonPads cluster (6 listings, scores 6.5-6.9)
+[8082758](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082758/) $3,100 Now | [8082754](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082754/) $3,360 Jun 1 | [8082779](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082779/) $3,400 Jun 1 | [8082753](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082753/) $3,225 Now | [8082741](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082741/) $3,300 Now | [8082729](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082729/) $3,175 Apr 23  
+All 1BR Porter Sq, Red Line corridor, scores 6.5-6.9. Large inventory turnover — negotiation leverage.  
+Digest: sent 2026-04-13 AM  
+
+### [$2,325 — 1BR Brighton (June 1, no fee, parking)](https://boston.craigslist.org/gbs/apa/d/brighton-available-june-parking/7927254133.html)
+Brighton | 1BR | June 1, 2026 | No fee, parking incl.  
+Score 6.9/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 5/5  
+Digest: sent 2026-04-13 AM  
+
+### [$1,800 — 1BR near Porter Sq ⚠️ SCAM](https://southcoast.craigslist.org/apa/d/cambridge-nice-large-pet-friendly-bed/7927352938.html)
+Cambridge | 1BR | SCAM: $1,800 near Porter is way below market. Cross-posted from SouthCoast CL.  
+Logged only — SCAM  
+
+### [$1,500 — 1BR Union Sq Somerville ⚠️ SCAM](https://boston.craigslist.org/gbs/apa/d/somerville-great-one-bedroom-near-union/7927325053.html)
+Somerville | 1BR | SCAM: $1,500 is absurdly cheap for Union Sq.  
+Logged only — SCAM  
+
+### [$1,690 — 1BR+ Somerville ⚠️ SCAM](https://southcoast.craigslist.org/apa/d/somerville-this-bedroom-home-boasts/7927236734.html)
+Somerville | 1BR+ | SCAM: Cross-posted from SouthCoast CL, below market.  
+Logged only — SCAM  
+
 ## 12th April, 2026
 
 ### [$2,845 — 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html)

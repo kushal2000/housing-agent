@@ -4,6 +4,41 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,495 — Studio Beacon Hill (June 1)](https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927226592.html)
+**Score:** 9.4/10 | **Sent:** 2026-04-13 06:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,495/mo |
+| Type | Studio / 1ba |
+| Location | Cambridge St nr Garden St, Beacon Hill, Boston 02114 |
+| Available | June 1, 2026 |
+| Features | Large 2-room studio, dishwasher, laundry in bldg, cats OK, no broker fee |
+| Contact | Christopher Puzacke, Benjamin Apartments LLC |
+| Phone | 860-309-8511 / office 617-206-4822 |
+| Email | info@benjaminapartments.com |
+| Listing | https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927226592.html |
+| Scores | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Notes | Charles/MGH Red Line = 1 stop to Kendall + direct to Financial District. Steps from MGH, Suffolk, State House. |
+
+### [$2,100 — Studio Spring Hill Somerville (June 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8070495/)
+**Score:** 8.7/10 | **Sent:** 2026-04-13 06:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,100/mo |
+| Type | Studio / 1ba |
+| Location | Spring Hill, Somerville 02143 |
+| Available | June 1, 2026 |
+| Features | Heat/HW incl, laundry in bldg, cat friendly, no fee, NO DEPOSITS (first/last/security all waived) |
+| Contact | Kaylee Klenk, Douglas Paul |
+| Phone | (617) 706-1266 |
+| Email | info@douglaspaulre.com |
+| Listing | https://bostonpads.com/somerville-ma-apartments/somerville-8070495/ |
+| Scores | MIT 3/5 | Downtown 4/5 | Price 5/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Move-in costs | $0 deposits. $3,456 total at signing (1st month + estimated utilities). |
+| Notes | Best deal: $223 below market. Walk to Davis Red Line. Zero move-in barrier. |
+
 ### [$2,845 — 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html)
 **Score:** 9.6/10 | **Sent:** 2026-04-12 14:27 (by Kanika) | **Status:** Awaiting reply
 

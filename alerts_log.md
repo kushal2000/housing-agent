@@ -2,6 +2,33 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-13 06:30 — ALERT (5 URGENT listings)
+- Top scores:
+  - [$2,250 1BR Harvard Sq (July 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-cambridge-harvard-square/7927246998.html) — 9.4 (CL relay hidden, "one person" caveat)
+  - [$2,495 Studio Beacon Hill (June 1)](https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927226592.html) — 9.4 (outreach sent to info@benjaminapartments.com)
+  - [$3,150 1BR Duplex Trowbridge/Central (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-extra-spacious-duplex-1br/7927366524.html) — 8.9 (CL relay hidden, owner-managed)
+  - [$2,950 1BR Harvard St/Dana (May 6)](https://boston.craigslist.org/gbs/apa/d/cambridge-stunning-euro-style-reno-of/7927233926.html) — 8.9 (Christina Crawley phone only)
+  - [$2,100 Studio Spring Hill (June 1)](https://bostonpads.com/somerville-ma-apartments/somerville-8070495/) — 8.7 (outreach sent to info@douglaspaulre.com)
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
+### 2026-04-13 06:30 — OUTREACH
+- Listing: [$2,495 Studio Beacon Hill (Benjamin Apartments)](https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927226592.html)
+- Score: 9.4/10
+- Recipient: info@benjaminapartments.com (Christopher Puzacke, Benjamin Apartments)
+- Contact email: info@benjaminapartments.com
+
+### 2026-04-13 06:30 — OUTREACH
+- Listing: [$2,100 Studio Spring Hill (Douglas Paul)](https://bostonpads.com/somerville-ma-apartments/somerville-8070495/)
+- Score: 8.7/10
+- Recipient: info@douglaspaulre.com (Kaylee Klenk, Douglas Paul)
+- Contact email: info@douglaspaulre.com
+
+### 2026-04-13 06:31 — DIGEST (22 GOOD-tier + 3 scam-flagged)
+- Top GOOD: $2,900 1BR Porter/Davis June 1 (7.8), $3,100 1BR Porter in-unit laundry (7.8), $2,800 1BR Harvard Sq (7.6), $2,500 Studio Spring Hill (7.6)
+- Porter Sq cluster: 6 new BostonPads 1BRs ($3,100-$3,400, 6.5-6.9)
+- SCAM: $1,800 Porter (SouthCoast cross-post), $1,500 Union Sq, $1,690 Somerville (SouthCoast)
+- Recipient(s): kk837@cornell.edu, kb529@cornell.edu
+
 ### 2026-04-12 06:31 — ALERT (5 URGENT listings)
 - Top scores:
   - [$2,845 1BR 888 Mass Ave Central Sq (June 1)](https://boston.craigslist.org/gbs/apa/d/cambridge-one-of-our-best-buildings/7927115255.html) — 9.6 (outreach sent by Kanika 14:27 ET)

@@ -3,6 +3,20 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-13
+
+### [$2,900 — 1BR Porter/Davis Somerville (June 1, no fee)](https://boston.craigslist.org/gbs/apa/d/somerville-no-fee-garden-prkng-laundry/7927363859.html)
+Score 7.8/10 | Somerville, 12 min to Porter Sq | June 1, 2026  
+No fee, garden, parking, laundry. Excellent combo for the price. Walk to Porter Red Line.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$3,100 — 1BR Porter Sq Cambridge (in-unit laundry)](https://boston.craigslist.org/gbs/apa/d/cambridge-ultra-modern-bed-steps-to/7927224312.html)
+Score 7.8/10 | Porter Sq, Cambridge | Date TBD  
+Ultra modern, in-unit laundry, steps to Porter Red Line. Premium finish.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-12
 
 ### [$3,300 — 1BR Porter Sq Cambridge (NextGen Alexandra Gabriel)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8082773/)

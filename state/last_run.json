@@ -1,19 +1,19 @@
 {
-  "last_run": "2026-04-12T06:31:00",
-  "listings_fetched": 82,
-  "new_listings": 20,
+  "last_run": "2026-04-13T06:30:00",
+  "listings_fetched": 95,
+  "new_listings": 39,
   "alerts_sent": 6,
   "outreach_sent": 2,
   "sources_status": {
     "craigslist_mit": "degraded (JSON schema markup only — persistent issue)",
-    "craigslist_downtown": "ok (partial — 7 listings extracted from JSON-LD, some with URLs)",
-    "craigslist_postedtoday": "ok (8 listings extracted with real post IDs)",
-    "bostonpads_cambridge": "ok (12 studio/1BR candidates in spec, 4 genuinely new after dedup)",
-    "bostonpads_somerville": "ok (3 studio/1BR in spec, 0 genuinely new — all Sept 1 or already seen)",
+    "craigslist_downtown": "ok (partial — 5 listings with URLs from JSON-LD)",
+    "craigslist_postedtoday": "ok (28 listings extracted — highest volume yet)",
+    "bostonpads_cambridge": "ok (30 results shown, 9 new studio/1BR candidates after dedup)",
+    "bostonpads_somerville": "ok (1 new studio in spec — 8070495 Spring Hill June 1)",
     "gmail_facebook": "ok (0 results)",
     "gmail_google_groups": "ok (0 results)",
-    "websearch": "ok (3 queries, no new specific listings — aggregator links only)",
+    "websearch": "ok (2 queries, no new specific listings)",
     "to_check": "ok (no URLs queued)"
   },
-  "notes": "Strong run: 5 URGENT + 8 GOOD + 2 scam-flagged + 3 MEH + 2 rejected. HIGHLIGHT: $2,845 1BR 888 Mass Ave June 1 scored 9.6 — same building as the $2,925 Aug 1 unit from yesterday, but CHEAPER and JUNE 1. Also $2,300 1BR Beacon Hill all-inclusive at 8.9, and $2,780 1BR+ Highland Ave newly renovated at 8.3. Sent outreach to Boardwalk for 2 studios (Mt Auburn $2,300 + Davis Sq $2,400, both June 2). CL relay issue persists — 3 top URGENT listings need manual CL reply. Total seen registry now 131 listings; 50 alerted; 22 outreach sent cumulative."
+  "notes": "Big day: 39 new listings (5 URGENT, 22 GOOD, 3 scam, 4 MEH, 2 rejected, 3 overlap). Highlights: $2,250 1BR Harvard Sq all-inclusive 9.4 (one-person caveat), $2,495 Studio Beacon Hill June 1 9.4 (outreach sent), $3,150 1BR Duplex Trowbridge/Central 8.9 (CL reply needed), $2,950 1BR Harvard St/Dana 8.9 (Christina Crawley again). Porter Sq flooded with 10+ new 1BRs at $3,100-$3,450 — market signal. Outreach sent to Benjamin Apts + Douglas Paul. Total seen 170; 55 alerted; 26 outreach cumulative."
 }
