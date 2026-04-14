@@ -1946,5 +1946,137 @@
     "alerted": true,
     "outreach_sent": true,
     "still_active": true
+  },
+  "bostonpads-cambridge-4454312": {
+    "title": "$2,800 1BR 1210 Mass Ave Harvard/Central (Douglas Paul, no fee + parking)",
+    "url": "https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/",
+    "price": 2800,
+    "source": "bostonpads",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 8.5,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "cl-7927463575": {
+    "title": "$2,600 Studio Back Bay (no fee, all utils inc, June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-no-fee-back-bay-studio-large-all/7927463575.html",
+    "price": 2600,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 7.3,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "cl-7927596253": {
+    "title": "$2,200 Studio Brighton (June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brighton-studio-for-lease-in-brighton/7927596253.html",
+    "price": 2200,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 6.7,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "cl-7927587663": {
+    "title": "$2,000 Studio Allston/Brookline (Matrix Bldg, Aug 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brookline-gorgeous-studio-in-the-matrix/7927587663.html",
+    "price": 2000,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 6.2,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "cl-7927586936": {
+    "title": "$2,450 1BR Allston/Brookline top floor (Aug 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brookline-top-floor-remodeled-spacious/7927586936.html",
+    "price": 2450,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 6.0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "cl-7927496587": {
+    "title": "$2,650 1BR Beacon Hill (Cambridge St, June 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-bed-bath-perfect-for-suffolk-mgh/7927496587.html",
+    "price": 2650,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 5.6,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "cl-7927609013": {
+    "title": "$2,945 1BR Brookline (private balcony, garage, July 1)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/brookline-large-modern-one-bed-private/7927609013.html",
+    "price": 2945,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 4.4,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": true
+  },
+  "cl-7927585102": {
+    "title": "$1,995 1BR Quincy (rejected — too far)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/quincy-quincy-1br-apartment-for-rent/7927585102.html",
+    "price": 1995,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 0,
+    "alerted": false,
+    "outreach_sent": false,
+    "still_active": false
+  },
+  "cl-7927499399": {
+    "title": "$2,495 Studio Beacon Hill (CL repost — Christopher Puzacke, already in active outreach)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-very-large-room-studio/7927499399.html",
+    "price": 2495,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 9.4,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "cl-7927412995-repost": {
+    "title": "$2,600 1BR Otis St East Cambridge (CL repost — Olympus Realty, application sent)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7927412995.html",
+    "price": 2600,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 8.9,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "cl-7927462930-repost": {
+    "title": "$2,850 1BR Newbury St Back Bay (CL repost — Cabot)",
+    "url": "https://boston.craigslist.org/gbs/apa/d/boston-no-broker-fee-back-bay-bed-top/7927462930.html",
+    "price": 2850,
+    "source": "craigslist",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 7.5,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
+  },
+  "bostonpads-somerville-8046614": {
+    "title": "$2,100 Studio Spring Hill Somerville (BostonPads repost of 8070495 — Douglas Paul outreach sent)",
+    "url": "https://bostonpads.com/somerville-ma-apartments/somerville-8046614/",
+    "price": 2100,
+    "source": "bostonpads",
+    "first_seen": "2026-04-14T06:30:00",
+    "score": 8.7,
+    "alerted": true,
+    "outreach_sent": true,
+    "still_active": true
   }
 }

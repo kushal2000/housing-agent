@@ -2,6 +2,66 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 14th April, 2026
+
+### [$2,800 — 1BR 1210 Mass Ave Harvard/Central (Douglas Paul, no fee + parking)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/)
+1210 Massachusetts Ave, Cambridge 02138 (between Harvard & Central) | 1BR/1ba | Available now (flexible)  
+Hardwood, high ceilings, abundant light, big closets, on-site laundry, driveway parking incl. No broker fee. Heat/HW/water/sewer/trash incl. Bus 1 to MIT door-to-door; 8-min walk to Central Red Line. Total at signing $8,500. Josue Vargas, Douglas Paul (617) 595-1019.  
+Score 8.5/10 | MIT 4/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com  
+
+### [$2,600 — Studio Back Bay (no fee, all utils inc)](https://boston.craigslist.org/gbs/apa/d/boston-no-fee-back-bay-studio-large-all/7927463575.html)
+Back Bay, Boston | Studio/1ba | June 1, 2026  
+Large studio, all utilities included, laundry in building. No fee.  
+Score 7.3/10 | MIT 2/5 | Downtown 3/5 | Price 4/5 | Quality 4/5 | Date 5/5  
+Digest: sent 2026-04-14 AM  
+Outreach: not sent — GOOD tier (please_check.md)  
+
+### [$2,200 — Studio Brighton (June 1)](https://boston.craigslist.org/gbs/apa/d/brighton-studio-for-lease-in-brighton/7927596253.html)
+Brighton, Boston | Studio/1ba | June 1, 2026  
+Studio for lease, June 1. Brighton — ~30 min to MIT via bus/Green Line transfer.  
+Score 6.7/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 5/5  
+Digest: sent 2026-04-14 AM  
+Outreach: not sent — GOOD tier (please_check.md)  
+
+### [$2,000 — Studio Allston/Brookline (Matrix Bldg, Aug 1)](https://boston.craigslist.org/gbs/apa/d/brookline-gorgeous-studio-in-the-matrix/7927587663.html)
+Allston/Brookline border (Green District) | Studio/1ba | August 1, 2026  
+Gorgeous studio in the Matrix Building. Aug 1 = fallback timeline.  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+Digest: sent 2026-04-14 AM  
+Outreach: not sent — GOOD tier (please_check.md)  
+
+### [$2,450 — 1BR Allston/Brookline (top floor remodeled, Aug 1)](https://boston.craigslist.org/gbs/apa/d/brookline-top-floor-remodeled-spacious/7927586936.html)
+Allston/Brookline border (Green District) | 1BR/1ba | August 1, 2026  
+Top floor remodeled spacious 1BR. Aug 1 fallback timeline.  
+Score 6.0/10 | MIT 2/5 | Downtown 3/5 | Price 4/5 | Quality 4/5 | Date 3/5  
+Digest: sent 2026-04-14 AM  
+Outreach: not sent — GOOD tier (please_check.md)  
+
+### [$2,650 — 1BR Beacon Hill (Cambridge St)](https://boston.craigslist.org/gbs/apa/d/boston-bed-bath-perfect-for-suffolk-mgh/7927496587.html)
+Beacon Hill, Boston | 1BR/1ba | June 1, 2026  
+Heat & hot water inc. Beacon Hill — far from MIT, OK for Downtown.  
+Score 5.6/10 | MIT 2/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 5/5  
+Logged only (MEH)  
+
+### [$2,945 — 1BR Brookline (private balcony, garage, 7/1)](https://boston.craigslist.org/gbs/apa/d/brookline-large-modern-one-bed-private/7927609013.html)
+Brookline | 1BR/1ba | July 1, 2026  
+Large modern 1BR with private balcony and garage parking. Brookline = farther + transfer required.  
+Score 4.4/10 | MIT 2/5 | Downtown 2/5 | Price 3/5 | Quality 5/5 | Date 3/5  
+Logged only (MEH)  
+
+### [$1,995 — 1BR Quincy](https://boston.craigslist.org/gbs/apa/d/quincy-quincy-1br-apartment-for-rent/7927585102.html)
+Quincy Center | 1BR/1ba | TBD  
+Quincy — too far from MIT. Rejected.  
+Rejected (out of geographic range)  
+
+### Skipped — already in active outreach (reposts):
+- $2,495 Beacon Hill studio (CL 7927499399 — repost of Christopher Puzacke listing, tour confirmed Tuesday)
+- $2,600 Otis St 1BR East Cambridge (CL 7927412995 — repost of Olympus Realty, application sent)
+- $2,850 Newbury St 1BR Back Bay (CL 7927462930 — repost of Cabot listing)
+- $2,100 Spring Hill studio (BostonPads 8046614 — repost of Douglas Paul listing, outreach sent)
+
 ## 13th April, 2026
 
 ### $2,750 — 1BR 5 Linnaean St Apt 37 Harvard/Porter (June 1)

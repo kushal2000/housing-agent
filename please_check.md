@@ -3,6 +3,32 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-14
+
+### [$2,600 — Studio Back Bay (no fee, all utils inc, June 1)](https://boston.craigslist.org/gbs/apa/d/boston-no-fee-back-bay-studio-large-all/7927463575.html)
+Score 7.3/10 | Back Bay, Boston | June 1, 2026  
+Large studio, all utilities included, laundry in building. Back Bay Station nearby (Orange Line + Amtrak).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,200 — Studio Brighton (June 1)](https://boston.craigslist.org/gbs/apa/d/brighton-studio-for-lease-in-brighton/7927596253.html)
+Score 6.7/10 | Brighton, Boston | June 1, 2026  
+Cheap studio, June 1. Brighton — ~30 min to MIT.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,000 — Studio Allston/Brookline (Matrix Bldg, Aug 1)](https://boston.craigslist.org/gbs/apa/d/brookline-gorgeous-studio-in-the-matrix/7927587663.html)
+Score 6.2/10 | Allston/Brookline border (Green District) | August 1, 2026  
+Aug 1 = Kushal's actual MIT start (fallback timeline).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,450 — 1BR Allston/Brookline (top floor remodeled, Aug 1)](https://boston.craigslist.org/gbs/apa/d/brookline-top-floor-remodeled-spacious/7927586936.html)
+Score 6.0/10 | Allston/Brookline border (Green District) | August 1, 2026  
+Top floor remodeled spacious 1BR. Aug 1 fallback timeline.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-13
 
 ### [$2,900 — 1BR Porter/Davis Somerville (June 1, no fee)](https://boston.craigslist.org/gbs/apa/d/somerville-no-fee-garden-prkng-laundry/7927363859.html)

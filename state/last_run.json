@@ -1,19 +1,19 @@
 {
-  "last_run": "2026-04-13T06:30:00",
-  "listings_fetched": 95,
-  "new_listings": 39,
-  "alerts_sent": 6,
-  "outreach_sent": 2,
+  "last_run": "2026-04-14T06:30:00",
+  "listings_fetched": 25,
+  "new_listings": 13,
+  "alerts_sent": 1,
+  "outreach_sent": 1,
   "sources_status": {
     "craigslist_mit": "degraded (JSON schema markup only — persistent issue)",
-    "craigslist_downtown": "ok (partial — 5 listings with URLs from JSON-LD)",
-    "craigslist_postedtoday": "ok (28 listings extracted — highest volume yet)",
-    "bostonpads_cambridge": "ok (30 results shown, 9 new studio/1BR candidates after dedup)",
-    "bostonpads_somerville": "ok (1 new studio in spec — 8070495 Spring Hill June 1)",
-    "gmail_facebook": "ok (0 results)",
-    "gmail_google_groups": "ok (0 results)",
-    "websearch": "ok (2 queries, no new specific listings)",
+    "craigslist_downtown": "ok (5 listings)",
+    "craigslist_postedtoday": "ok (5 listings)",
+    "bostonpads_cambridge": "ok (3 listings, 1 new $2,800 1BR Harvard/Central URGENT)",
+    "bostonpads_somerville": "ok (2 listings, both Spring Hill reposts)",
+    "gmail_facebook": "ok (0 new since 2026/4/13)",
+    "gmail_google_groups": "ok (0 new since 2026/4/13)",
+    "websearch": "ok (1 query, no new specific listings)",
     "to_check": "ok (no URLs queued)"
   },
-  "notes": "Big day: 39 new listings (5 URGENT, 22 GOOD, 3 scam, 4 MEH, 2 rejected, 3 overlap). Highlights: $2,250 1BR Harvard Sq all-inclusive 9.4 (one-person caveat), $2,495 Studio Beacon Hill June 1 9.4 (outreach sent), $3,150 1BR Duplex Trowbridge/Central 8.9 (CL reply needed), $2,950 1BR Harvard St/Dana 8.9 (Christina Crawley again). Porter Sq flooded with 10+ new 1BRs at $3,100-$3,450 — market signal. Outreach sent to Benjamin Apts + Douglas Paul. Total seen 170; 55 alerted; 26 outreach cumulative."
+  "notes": "Quieter day: 13 new listings, 1 URGENT, 4 GOOD, 2 MEH, 1 reject, 5 reposts of active outreach. Standout: $2,800 1BR 1210 Mass Ave (Harvard/Central) via Douglas Paul — no fee, all utils inc, driveway parking, bus 1 to MIT door-to-door. Outreach sent to info@douglaspaulre.com. Beacon Hill, Otis St, Newbury St, and Spring Hill all reposted by same brokers — no duplicate outreach. Total seen ~183, 56+ alerted, 27+ outreach cumulative."
 }

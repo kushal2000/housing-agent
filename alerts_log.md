@@ -2,6 +2,23 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-14 06:30 — DIGEST (4 GOOD-tier listings + 1 URGENT separately)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING DIGEST: 4 new listings — 2026-04-14
+- Includes: $2,600 Back Bay studio (7.3), $2,200 Brighton studio (6.7), $2,000 Allston studio (6.2), $2,450 Allston 1BR (6.0)
+
+### 2026-04-14 06:30 — ALERT (URGENT)
+- Listing: [$2,800 1BR 1210 Mass Ave Harvard/Central](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/)
+- Score: 8.5/10
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Notes: No fee, all utils incl, driveway parking, bus 1 to MIT door-to-door. Available now — flexible.
+
+### 2026-04-14 06:30 — OUTREACH
+- Listing: [$2,800 1BR 1210 Mass Ave Harvard/Central](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/)
+- Score: 8.5/10
+- Recipient: info@douglaspaulre.com (Josue Vargas, Douglas Paul, 617-595-1019)
+- Contact email: info@douglaspaulre.com
+
 ### 2026-04-13 — OUTREACH (user-initiated, Facebook listing)
 - Listing: $2,750 1BR 5 Linnaean St Apt 37, Cambridge (Harvard/Porter)
 - Score: 8.7/10

@@ -4,6 +4,25 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,800 — 1BR 1210 Mass Ave Harvard/Central (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/)
+**Score:** 8.5/10 | **Sent:** 2026-04-14 06:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,800/mo |
+| Type | 1BR / 1ba |
+| Location | 1210 Massachusetts Ave, Cambridge 02138 (between Harvard & Central Sq) |
+| Available | Now (flexible — can hold for June 1-15) |
+| Features | Hardwood floors, high ceilings, abundant natural light, big closets, on-site laundry, DRIVEWAY PARKING incl, no broker fee |
+| Utilities | Heat, hot water, water/sewer, trash all included; tenant pays electric only |
+| Contact | Josue Vargas (supporting agent: Douglas Paul) |
+| Phone | (617) 595-1019 |
+| Email | info@douglaspaulre.com (verified company contact — agent email not published) |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/ |
+| Scores | MIT 4/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct |
+| Move-in costs | $8,500 at signing (1st + last + sec dep + $100 key fee) |
+| Notes | Bus 1 runs door-to-door from Mass Ave to MIT (no transfer). 8-min walk to Central Sq Red Line for Kanika's downtown commute. Photos show 7 interior images. Same Douglas Paul company as Kaylee Klenk Spring Hill outreach. |
+
 ### $2,750 — 1BR 5 Linnaean St Apt 37 Harvard/Porter (June 1)
 **Score:** 8.7/10 | **Sent:** 2026-04-13 (user-initiated) | **Status:** Awaiting reply
 
