@@ -3,6 +3,74 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-18
+
+### [$2,600 — 1BR Spring Hill, Somerville (5/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8074335/)
+Score 7.2/10 | Spring Hill, Somerville | May 1, 2026  
+Walk to Porter/Davis for Red Line. 5/1 creates a small gap before Kanika's June start; might work with a 1-month sublet or early move-in.  
+Contact: BostonPads form (no broker email extracted)  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$2,195 — Studio Back Bay, heat+HW incl, cat ok, no fee (June)](https://boston.craigslist.org/gbs/apa/d/boston-june-2026-awesome-back-bay/7928206214.html)
+Score 6.9/10 | Back Bay, Boston | June 2026  
+H/HW included, cat OK, no fee. Back Bay = Orange Line direct to downtown; transfer for MIT (~35 min).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,175 — Studio Packards Corner, Allston (no fee)](https://boston.craigslist.org/gbs/apa/d/brookline-allston-packards-corner/7928306226.html)
+Score 6.4/10 | Allston | Date TBD  
+No broker fee. ~35 min to MIT via Green Line+transfer.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,265 — Brand New Studio Packards Corner Allston (no fee)](https://boston.craigslist.org/gbs/apa/d/allston-brand-new-studio-in-packards/7928291892.html)
+Score 6.4/10 | Allston | Date TBD  
+Brand new studio, no broker fee.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$1,775 — Studio Allston, new bathroom, no fee](https://boston.craigslist.org/gbs/apa/d/allston-new-bathroom-freshly-painted/7928289969.html)
+Score 6.4/10 | Allston | Date TBD  
+Very cheap Allston studio, freshly painted, new bathroom. ~40 min to MIT.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,145 — 1BR Packards Corner Allston (renovated, garden level)](https://boston.craigslist.org/gbs/apa/d/allston-renovated-garden-level-bed-for/7928289989.html)
+Score 6.2/10 | Allston | Date TBD  
+Renovated 1BR, no fee. Garden level = lower light.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,050 — Studio Comm Ave Brighton (renovated)](https://boston.craigslist.org/gbs/apa/d/brighton-renovated-comm-ave-studio-with/7928266000.html)
+Score 6.2/10 | Brighton | Date TBD  
+Renovated with alcove + separate kitchen.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$3,200 — 1BR Winter Hill Somerville (6/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8070524/)
+Score 6.1/10 | Winter Hill, Somerville | June 1, 2026  
+6/1 ideal date. Winter Hill = walk to Ball/Magoun for Red Line. Price is top end.  
+Contact: BostonPads form (no broker email extracted)  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$2,695 — Studio Back Bay top floor (no fee)](https://boston.craigslist.org/gbs/apa/d/boston-super-sunny-top-floor-studio-no/7928140476.html)
+Score 6.0/10 | Back Bay | Date TBD  
+Super sunny top-floor studio, no fee.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,895 — 1BR North End in-unit laundry, pet ok (6/1)](https://boston.craigslist.org/gbs/apa/d/boston-in-unit-laundry-pet-friendly-bed/7927989666.html)
+Score 6.0/10 | North End | June 1, 2026  
+In-unit laundry, pet-friendly, June 1. North End = walk to downtown; transfer for MIT.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,900 — 1BR Anderson St Beacon Hill (no fee, 6/1)](https://boston.craigslist.org/gbs/apa/d/boston-one-bedroom-on-anderson-st/7927707291.html)
+Score 6.0/10 | Beacon Hill | June 1, 2026  
+Anderson St, no fee. Walk to Charles/MGH Red Line for downtown.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-14
 
 ### [$2,600 — Studio Back Bay (no fee, all utils inc, June 1)](https://boston.craigslist.org/gbs/apa/d/boston-no-fee-back-bay-studio-large-all/7927463575.html)

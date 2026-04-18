@@ -4,6 +4,25 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,800 — 1BR Harvard Square (NextGen, parking incl, 8/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078743/)
+**Score:** 8.9/10 | **Sent:** 2026-04-18 06:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,800/mo |
+| Type | 1BR / 1ba |
+| Location | Harvard Square, Cambridge |
+| Available | August 1, 2026 (fallback plan) |
+| Features | Hardwood, in-building laundry, driveway parking included, no broker fee |
+| Utilities | Heat, hot water, water/sewer, garbage, parking — ALL included. Tenant pays electric. |
+| Contact | Jacob Konrad, NextGen Realty |
+| Phone | 781-690-0343 |
+| Email | info@nextgenrealty.com (verified company contact) |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8078743/ |
+| Scores | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct |
+| Move-in costs | $8,500 at signing (1st + last + sec + $100 key) |
+| Notes | "$183 below market" tag. Recommended income $101,818-$134,400. No pets. Same NextGen office as 1243 Comm Ave (previous outreach). August 1 = Kushal's arrival date; Kanika would need June/July sublet. |
+
 ### [$2,800 — 1BR 1210 Mass Ave Harvard/Central (Douglas Paul)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454312/)
 **Score:** 8.5/10 | **Sent:** 2026-04-14 06:30 | **Status:** Awaiting reply
 

@@ -1,19 +1,18 @@
 {
-  "last_run": "2026-04-14T06:30:00",
-  "listings_fetched": 25,
-  "new_listings": 13,
+  "last_run": "2026-04-18T06:38:23",
+  "listings_fetched": 62,
+  "new_listings": 53,
   "alerts_sent": 1,
   "outreach_sent": 1,
   "sources_status": {
-    "craigslist_mit": "degraded (JSON schema markup only — persistent issue)",
-    "craigslist_downtown": "ok (5 listings)",
-    "craigslist_postedtoday": "ok (5 listings)",
-    "bostonpads_cambridge": "ok (3 listings, 1 new $2,800 1BR Harvard/Central URGENT)",
-    "bostonpads_somerville": "ok (2 listings, both Spring Hill reposts)",
-    "gmail_facebook": "ok (0 new since 2026/4/13)",
-    "gmail_google_groups": "ok (0 new since 2026/4/13)",
-    "websearch": "ok (1 query, no new specific listings)",
+    "craigslist_mit": "ok (20 listings, 20 parsed, scam-pattern flagged for southcoast posts)",
+    "craigslist_downtown": "ok (20 listings, overlaps with MIT search due to same region)",
+    "bostonpads_cambridge": "ok (18 listings, 15 new, NextGen + Towne Realty agents identified)",
+    "bostonpads_somerville": "ok (9 listings, 6 new, includes $1,695 furnished scam flag)",
+    "gmail_facebook": "ok (0 new since 2026/04/14)",
+    "gmail_google_groups": "ok (0 new since 2026/04/14)",
+    "websearch": "ok (no new specific listings beyond BostonPads dups)",
     "to_check": "ok (no URLs queued)"
   },
-  "notes": "Quieter day: 13 new listings, 1 URGENT, 4 GOOD, 2 MEH, 1 reject, 5 reposts of active outreach. Standout: $2,800 1BR 1210 Mass Ave (Harvard/Central) via Douglas Paul — no fee, all utils inc, driveway parking, bus 1 to MIT door-to-door. Outreach sent to info@douglaspaulre.com. Beacon Hill, Otis St, Newbury St, and Spring Hill all reposted by same brokers — no duplicate outreach. Total seen ~183, 56+ alerted, 27+ outreach cumulative."
+  "notes": "Strong batch: 12 URGENT (6 elevated in consolidated alert), 11 GOOD (added to please_check.md), 9 MEH, 2 SCAM (southcoast-region CL posts: $1,800 Riverside, $2,000 118 Pearl St; plus 1 too-cheap furnished Somerville $1,695). Top finds: $2,450 Central Sq/Cambridgeport 1BR 6/1 9.6/10 Towne Realty (phone only), $2,600 Kendall/MIT 1BR 6/1 9.6/10 (CL relay), $2,200 East Cambridge Sciarappa St studio 6/1 8.7/10 (John Natale 781-686-5373), $2,100 Foster St Brattle studio 6/1 9.6/10 (CL relay). Auto-outreach sent to info@nextgenrealty.com for $2,800 Harvard Sq 1BR (8/1, Jacob Konrad)."
 }

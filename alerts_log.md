@@ -2,6 +2,25 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-18 06:35 — ALERT (URGENT, consolidated — 12 listings scored 8.0+)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 6 new 8.0+ Cambridge listings — 2026-04-18 (3 need manual CL relay/phone contact)
+- Top listings flagged:
+  - [$2,450 1BR Central Sq/Cambridgeport (Towne Realty, 6/1, 9.6/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8085536/) — call 617-304-4825
+  - [$2,600 1BR Kendall/MIT/Lechmere (6/1, 9.6/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-ava-1-gorgeous-spacious-br-ba/7927965779.html) — CL relay grab
+  - [$2,200 Studio Sciarappa St East Cambridge (owner-direct, 6/1, 8.7/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-apt-kendall-sq-mit/7928421726.html) — call John Natale 781-686-5373
+  - [$2,800 1BR Harvard Sq (NextGen, 8/1, 8.9/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078743/) — outreach sent
+  - [$2,100 Studio Foster St Brattle/Harvard (6/1, 9.6/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-on-foster-street-close/7928405998.html) — CL relay grab
+  - [$2,000 1BR Irving St Harvard Sq basement (6/15-7/1, 8.9/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-super-nice-br-apartment-on/7928406188.html) — CL relay grab
+- Also scored URGENT (logged, not in consolidated alert): $2,100 Kendall (likely Sciarappa dup), $2,000 Porter (southcoast scam risk), $2,400 & $2,200 Davis Sq studios (BostonPads contact form)
+- 2 southcoast-region Cambridge posts flagged as SCAM-risk ($1,800 Riverside, $2,000 118 Pearl St)
+
+### 2026-04-18 06:35 — OUTREACH
+- Listing: [$2,800 1BR Harvard Sq (NextGen, 8/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078743/)
+- Score: 8.9/10
+- Recipient: info@nextgenrealty.com (Jacob Konrad, NextGen Realty, 781-690-0343)
+- Contact email: info@nextgenrealty.com
+
 ### 2026-04-14 06:30 — DIGEST (4 GOOD-tier listings + 1 URGENT separately)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING DIGEST: 4 new listings — 2026-04-14
