@@ -2,6 +2,19 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-19 06:40 — ALERT (URGENT, 2 listings scored 8.0+)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 2 new 8.0+ listings — 2026-04-19 (1 outreach sent, 1 needs CL relay grab)
+- Top listings flagged:
+  - [$2,600 1BR Hancock St Central Sq (6/1, 9.6/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-central-air/7928639214.html) — CL relay grab needed (Red Tree Real Estate / Brandon Keane)
+  - [$2,250 1BR Davis Sq (Douglas Paul, 5/15, 8.7/10)](https://bostonpads.com/somerville-ma-apartments/somerville-8086384/) — outreach sent
+
+### 2026-04-19 06:40 — OUTREACH
+- Listing: [$2,250 1BR Davis Sq (Douglas Paul, 5/15)](https://bostonpads.com/somerville-ma-apartments/somerville-8086384/)
+- Score: 8.7/10
+- Recipient: info@douglaspaulre.com (Melissa Jin, Douglas Paul Real Estate, 617-233-3909)
+- Contact email: info@douglaspaulre.com
+
 ### 2026-04-18 06:35 — ALERT (URGENT, consolidated — 12 listings scored 8.0+)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 6 new 8.0+ Cambridge listings — 2026-04-18 (3 need manual CL relay/phone contact)

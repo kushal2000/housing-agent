@@ -3,6 +3,32 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-19
+
+### [$2,950 — 1BR Harvard Square (5/6, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-5865986/)
+Score 7.8/10 | Harvard Square, Cambridge | May 6, 2026  
+No broker fee. Red Line direct. 5/6 is pre-May 15 — tight fit for Kanika's timing.  
+Contact: BostonPads form (no broker email extracted)  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8075664/)
+Score 7.6/10 | Harvard Square, Cambridge | June 1, 2026  
+No broker fee. Top of budget but June 1 ideal and Harvard location.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086303/)
+Score 7.6/10 | Harvard Square, Cambridge | June 1, 2026  
+No broker fee. Likely same building/agent as 8075664.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$3,200 — 1BR Winter Hill Somerville (6/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8070373/)
+Score 6.1/10 | Winter Hill, Somerville | June 1, 2026  
+No broker fee. Adjacent to seen 8070524 listing — same building cluster.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" to route via the form, or skip.
+
 ## Added 2026-04-18
 
 ### [$2,600 — 1BR Spring Hill, Somerville (5/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8074335/)

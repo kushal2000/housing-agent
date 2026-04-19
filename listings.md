@@ -2,6 +2,67 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 19th April, 2026
+
+### [$2,600 — 1BR Hancock St Central Sq (renovated condo, 6/1, central AC)](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-central-air/7928639214.html)
+Hancock St near Mass Ave, Cambridge 02139 | 1BR/1ba | June 1, 2026  
+680 sq ft renovated 1st-floor condo, central AC, dishwasher, high ceilings, in-building coin-op laundry, cats OK, street parking. Water/sewer incl; tenant pays heat/electric. 10 photos + virtual tour. Broker fee $1,300 (half month). Brandon Keane, Red Tree Real Estate (193 Harvard St Brookline).  
+Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 4/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — flagged for Kushal to manually grab  
+
+### [$2,250 — 1BR Davis Square (Douglas Paul, 5/15, no fee, no security deposit)](https://bostonpads.com/somerville-ma-apartments/somerville-8086384/)
+Davis Square, Somerville | 1BR/1ba | May 15, 2026  
+"$325 below market" tag, 12.62% cheaper than avg Somerville 1BR. No broker fee, no security deposit. Water/sewer/garbage/parking (street) incl, tenant pays heat/HW/electric. Multi-bus access, Davis Red Line nearby, walk to Tufts. Melissa Jin, Douglas Paul Real Estate, 617-233-3909 (1210 Mass Ave Cambridge — same office as Josue Vargas 1210 Mass Ave listing).  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com  
+
+### [$2,950 — 1BR Harvard Square (5/6, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-5865986/)
+Harvard Square, Cambridge | 1BR/1ba | May 6, 2026  
+No broker fee. Harvard Red Line direct.  
+Score 7.8/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 4/5 | Date 2/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8075664/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee. Top of budget but June 1 timing and Harvard location.  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086303/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee. Duplicate-priced with 8075664 — likely same building or same broker.  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,200 — 1BR Winter Hill Somerville (6/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8070373/)
+Winter Hill, Somerville | 1BR/1ba | June 1, 2026  
+No broker fee. Same building cluster as 8070524 (seen prior).  
+Score 6.1/10 | MIT 3/5 | Downtown 2/5 | Price 2/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### Flagged as region-mismatch (likely scam or aggressive cross-post)
+- $1,800 1BR "Classic Harlow Penthouse near Harvard Sq" on worcester.craigslist.org — wrong region for Cambridge listing at below-market price. SCAM pattern. https://worcester.craigslist.org/apa/d/cambridge-classic-harlow-penthouse/7928656663.html
+- $2,800 1BR "Charming Top-Floor near Porter Sq" on southcoast.craigslist.org — region mismatch. https://southcoast.craigslist.org/apa/d/cambridge-charming-top-floor-unit-near/7924419810.html
+- 12 Allston/Brighton studios $1,995-$2,025 posted to southcoast — likely Boardwalk Properties cross-posts; legit broker but region mismatch noted. Logged only, no outreach auto-initiated.
+
+### Logged only (MEH tier)
+- $2,800 Brookline Village 1BR+office utilities incl (5.8/10 — MIT Tier 5)
+- $3,150 East Cambridge 1BR 8/1 × 2 listings (5.8/10 — East Cambridge has no direct Red Line)
+- $2,780 Brookline studio (5.1/10)
+- $2,350 Jamaica Plain 1BR 7/1 (4.9/10)
+- $1,700 South Boston two-room studio (4.7/10)
+
+### Rejected (date filter — Sept 1 availability or "Now")
+- 10 BP Somerville Spring Hill / Magoun/Ball 1BRs at 9/1
+- 1 BP East Cambridge 1BR 9/1
+- 1 BP Davis Sq studio 9/1
+- 1 BP Central Sq/Cambridgeport studio/1BR 9/1
+- 1 BP Harvard Sq 1BR $3,550 (6/1 but price > $3,500 hard filter)
+- 1 BP Central Sq/Cambridgeport 1BR "Now"
+
+
 ## 18th April, 2026
 
 ### [$2,450 — 1BR Central Sq/Cambridgeport (Towne Realty, no fee, 3D tour)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8085536/)

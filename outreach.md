@@ -4,6 +4,25 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,250 — 1BR Davis Square (Douglas Paul, 5/15, no fee + no security dep)](https://bostonpads.com/somerville-ma-apartments/somerville-8086384/)
+**Score:** 8.7/10 | **Sent:** 2026-04-19 06:30 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,250/mo |
+| Type | 1BR / 1ba |
+| Location | Davis Square, Somerville |
+| Available | May 15, 2026 |
+| Features | "$325 below market", no broker fee, no security deposit, street parking incl |
+| Utilities | Water/sewer/garbage/parking incl; tenant pays heat/HW/electric |
+| Contact | Melissa Jin, Douglas Paul Real Estate |
+| Phone | 617-233-3909 |
+| Email | info@douglaspaulre.com (verified company contact — same office as Josue Vargas 1210 Mass Ave) |
+| Listing | https://bostonpads.com/somerville-ma-apartments/somerville-8086384/ |
+| Scores | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 4/5 | Date 4/5 | +0.5 dual direct |
+| Move-in costs | $3,456 at signing (1st + last, no deposit) |
+| Notes | May 15 start covers Kanika's gap before June Cannon Design start. Davis Sq = Red Line direct + multiple bus. 12.62% below average Somerville 1BR. No pets. |
+
 ### [$2,800 — 1BR Harvard Square (NextGen, parking incl, 8/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8078743/)
 **Score:** 8.9/10 | **Sent:** 2026-04-18 06:30 | **Status:** Awaiting reply
 
