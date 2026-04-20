@@ -2,6 +2,81 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 20th April, 2026
+
+### [$2,785 — Studio Harvard Square (Douglas Paul/Josue Vargas, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/)
+Harvard Square, Cambridge | Studio/1ba | June 1, 2026  
+Hardwood, high ceilings, large living room, on-site laundry, heat/HW/water/sewer incl, tenant pays electric. 23 photos + 3D tour. No broker fee. No pets, no parking. Total at signing $8,405 (1st+last+sec+$50 key). Josue Vargas, Douglas Paul Real Estate, 617-595-1019.  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com (3rd Douglas Paul touch this week — Josue is the same agent as 1210 Mass Ave prior outreach)  
+
+### [$2,500 — 1BR Mass Ave/Rindge Ave Cambridge (no fee, free W/D, 6/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-1br-min-to-davis-porter-free/7928880350.html)
+Mass Ave near Rindge Ave, Cambridge 02140 | 1BR/1ba | June 1, 2026  
+Remodeled 1BR: hardwood floors, updated bath + kitchen w/ dishwasher. Free washer/dryer in basement. 5 min to Davis, 8 min to Porter (Red Line via bus 77 or 83). Street parking. Utilities excl. No broker fee. 7 photos.  
+Score 8.7/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — flagged for Kushal to manually grab  
+
+### [$3,170 — 1BR Harvard Square (NextGen/Marta Moraru, 6/1, no deposit)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086090/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee, NO security deposit, heat/HW/water/sewer/garbage incl, tenant pays electric only. 15 photos. Marta Moraru, NextGen Realty, 617-955-6993 (1243 Comm Ave Allston). Move-in $6,340 (1st+last only, $50 key).  
+Score 8.1/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@nextgenrealty.com (mentioned Jacob Konrad 8078743 thread in note)  
+
+### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086679/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee. Top of budget; likely premium finish given price.  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,300 — 1BR Renovated walk to Harvard (CL, 6/1?)](https://boston.craigslist.org/gbs/apa/d/cambridge-great-location-renovated-1br/7928822436.html)
+Near Harvard Square, Cambridge | 1BR/1ba | Date TBD  
+Renovated 1BR, short walk to Harvard.  
+Score 7.2/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 3/5 | Date 3/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,300 — 1BR Back Bay/South End line (CL, dishwasher+laundry)](https://boston.craigslist.org/gbs/apa/d/boston-back-bay-south-end-line-sunny/7928761993.html)
+Back Bay / South End, Boston | 1BR/1ba | Date TBD  
+Sunny 2nd-floor front unit, dishwasher, laundry. Orange Line direct to downtown; transfer for MIT.  
+Score 6.4/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,200 — Studio Beacon Hill (CL)](https://boston.craigslist.org/gbs/apa/d/boston-beacon-hill-studio/7928807842.html)
+Beacon Hill, Boston | Studio/1ba | Date TBD  
+Beacon Hill studio. Walk to Charles/MGH Red Line for downtown; transfer for MIT.  
+Score 6.2/10 | MIT 2/5 | Downtown 4/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,200 — 1BR Winter Hill Somerville (6/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8070513/)
+Winter Hill, Somerville | 1BR/1ba | June 1, 2026  
+No broker fee. Same cluster as 8070524/8070373 (prior). Walk to Ball/Magoun for Red Line.  
+Score 6.1/10 | MIT 3/5 | Downtown 2/5 | Price 2/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$1,550 — Efficiency Studio South End/Back Bay line (no kitchen, private bath)](https://boston.craigslist.org/gbs/apa/d/boston-south-end-back-bay-line/7928760951.html)
+Back Bay / South End, Boston | Studio/1ba | Date TBD  
+Efficiency studio, private bath but NO KITCHEN. Cheap but a no-kitchen unit is a dealbreaker for long-term living.  
+Score 6.0/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 2/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval (likely skip — no kitchen)  
+
+### Flagged as SCAM / region-mismatch
+- BP $1,675 1BR 11-13 Plymouth St Cambridge 02141 6/1 (5698606) — below-market 1BR Cambridge, flagged as potential scam. https://bostonpads.com/cambridge-ma-apartments/cambridge-5698606/
+- BP $4,150 2BR/2BA Central Sq (8085104) — feed-labeled "1BR $3,375" but actual listing is 2BR out of budget; rejected.
+- CL "Welcome to 118 Pearl St Cambridge" $2,300 on southcoast region — repeat of earlier 2026-04-18 scam flag (same Pearl St address, different Craigslist ID). Scam pattern confirmed.
+- 13 Allston/Brighton $1,925-$2,015 studios on southcoast.craigslist.org — likely Boardwalk cross-posts; region-mismatch flag retained.
+
+### Logged only (MEH tier)
+- $3,150 East Cambridge 1BR 8/1 (5.8/10): https://bostonpads.com/cambridge-ma-apartments/cambridge-8087912/
+- $2,950 Somerville 1BR top-floor vaulted ceilings (CL, 4.9/10)
+- $3,400 Cambridge 1BR+office (CL, 4.0/10 — out of our preferred range)
+
+### Rejected (date/price hard filter)
+- BP $3,550 Harvard Sq 1BR 6/1 (price exceeds $3,500 cap): https://bostonpads.com/cambridge-ma-apartments/cambridge-8086689/
+- BP Central Sq $3,250 "Now" (pre-May 15); BP Harvard Sq $3,125 9/1; BP Porter $3,100 "Now"; BP Porter $3,300 "Now"; BP Spring Hill 9/1 x2; CL Jamaica Plain 1BR 9/1 ($2,295).
+
+
 ## 19th April, 2026
 
 ### [$2,600 — 1BR Hancock St Central Sq (renovated condo, 6/1, central AC)](https://boston.craigslist.org/gbs/apa/d/cambridge-renovated-condo-central-air/7928639214.html)

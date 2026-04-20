@@ -4,6 +4,44 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,785 — Studio Harvard Sq (Douglas Paul/Josue Vargas, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/)
+**Score:** 8.9/10 | **Sent:** 2026-04-20 06:40 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $2,785/mo |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge |
+| Available | June 1, 2026 |
+| Features | Hardwood, high ceilings, large living room, on-site laundry, 23 photos + 3D tour, no broker fee |
+| Utilities | Heat, HW, water/sewer incl; tenant pays electric |
+| Contact | Josue Vargas, Douglas Paul Real Estate (3rd Douglas Paul inquiry — agent same as 1210 Mass Ave) |
+| Phone | 617-595-1019 |
+| Email | info@douglaspaulre.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/ |
+| Scores | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Move-in costs | $8,405 at signing (1st + last + sec + $50 key) |
+| Notes | No pets/parking. Mentioned prior threads in the outreach note. |
+
+### [$3,170 — 1BR Harvard Sq (NextGen/Marta Moraru, 6/1, no deposit)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086090/)
+**Score:** 8.1/10 | **Sent:** 2026-04-20 06:40 | **Status:** Awaiting reply
+
+| Field | Details |
+|-------|---------|
+| Price | $3,170/mo |
+| Type | 1BR / 1ba |
+| Location | Harvard Square, Cambridge |
+| Available | June 1, 2026 |
+| Features | 15 photos, no broker fee, no security deposit, premium Harvard location |
+| Utilities | Heat, HW, water/sewer, garbage incl; tenant pays electric |
+| Contact | Marta Moraru, NextGen Realty (2nd NextGen touch — also inquired about Jacob Konrad 8078743) |
+| Phone | 617-955-6993 |
+| Email | info@nextgenrealty.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8086090/ |
+| Scores | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct |
+| Move-in costs | $6,340 at signing (1st + last only, no deposit) |
+| Notes | Price is "above average" but all utilities incl softens effective cost. |
+
 ### [$2,250 — 1BR Davis Square (Douglas Paul, 5/15, no fee + no security dep)](https://bostonpads.com/somerville-ma-apartments/somerville-8086384/)
 **Score:** 8.7/10 | **Sent:** 2026-04-19 06:30 | **Status:** Awaiting reply
 

@@ -2,6 +2,24 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-20 06:40 — ALERT (URGENT, 3 listings scored 8.0+)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 3 new 8.0+ listings — 2026-04-20 (2 outreach sent, 1 needs CL relay grab)
+- Listings:
+  - [$2,785 Harvard Sq Studio (Douglas Paul/Josue Vargas, 6/1, 8.9/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/) — outreach sent
+  - [$2,500 1BR Mass Ave near Rindge (6/1, 8.7/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-1br-min-to-davis-porter-free/7928880350.html) — CL relay grab needed
+  - [$3,170 Harvard Sq 1BR (NextGen/Marta Moraru, 6/1, 8.1/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086090/) — outreach sent
+
+### 2026-04-20 06:40 — OUTREACH (Douglas Paul)
+- Listing: [$2,785 Harvard Sq Studio (6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/)
+- Score: 8.9/10
+- Recipient: info@douglaspaulre.com (Josue Vargas, 617-595-1019)
+
+### 2026-04-20 06:40 — OUTREACH (NextGen)
+- Listing: [$3,170 Harvard Sq 1BR (6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086090/)
+- Score: 8.1/10
+- Recipient: info@nextgenrealty.com (Marta Moraru, 617-955-6993)
+
 ### 2026-04-19 06:40 — ALERT (URGENT, 2 listings scored 8.0+)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 2 new 8.0+ listings — 2026-04-19 (1 outreach sent, 1 needs CL relay grab)

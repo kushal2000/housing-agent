@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-19T06:32:19",
-  "listings_fetched": 61,
-  "new_listings": 40,
+  "last_run": "2026-04-20T06:31:58",
+  "listings_fetched": 60,
+  "new_listings": 35,
   "alerts_sent": 1,
-  "outreach_sent": 1,
+  "outreach_sent": 2,
   "sources_status": {
-    "craigslist_mit": "ok (20 listings, most from worcester/southcoast cross-posts \u2014 region-mismatch flagged)",
-    "craigslist_downtown": "ok (20 listings, heavy overlap with yesterday's scan)",
-    "bostonpads_cambridge": "ok (12 listings, 10 new \u2014 Douglas Paul + multiple Harvard Sq 1BRs $2,950-$3,550)",
-    "bostonpads_somerville": "ok (17 listings, 11 new \u2014 $2,250 Davis Sq 5/15 Douglas Paul is URGENT; most others 9/1 start reject)",
-    "gmail_facebook": "ok (0 new since 2026/04/18)",
-    "gmail_google_groups": "ok (0 new since 2026/04/18)",
-    "websearch": "ok (MIT postdoc housing query, no specific new listings)",
+    "craigslist_mit": "ok (20 listings, 14 from southcoast region \u2014 flagged)",
+    "craigslist_downtown": "ok (20 listings, heavy overlap with yesterday)",
+    "bostonpads_cambridge": "ok (17 listings, 12 new \u2014 2 URGENT went to outreach via Douglas Paul and NextGen)",
+    "bostonpads_somerville": "ok (16 listings, 3 new \u2014 all 9/1 reject or repeats)",
+    "gmail_facebook": "ok (0 new since 2026/04/19)",
+    "gmail_google_groups": "ok (0 new since 2026/04/19)",
+    "websearch": "ok (not queried \u2014 sources saturated)",
     "to_check": "ok (no URLs queued)"
   },
-  "notes": "Smaller quality batch than yesterday: 2 URGENT, 4 GOOD, 6 MEH, 14 region-mismatch flagged, 14 date-filter rejects. Top find: $2,600 Hancock St Central Sq 1BR 6/1 9.6/10 (Red Tree Real Estate \u2014 CL relay grab needed). Auto-outreach sent to info@douglaspaulre.com for $2,250 Davis Sq 1BR 5/15 (Melissa Jin, Douglas Paul \u2014 same office as Josue Vargas/1210 Mass Ave prior outreach). Worcester.craigslist.org $1,800 'Harlow Penthouse near Harvard' is almost certainly a scam; 12 Allston/Brighton $2,025 studios on southcoast region are likely Boardwalk cross-posts."
+  "notes": "4 URGENT scored, 1 rejected post-score (8085104 feed mismatch \u2014 actual 2BR $4,150). Auto-outreach sent to Josue Vargas (Douglas Paul) for $2,785 Harvard studio 6/1 (3rd Douglas Paul touch this week) and Marta Moraru (NextGen) for $3,170 Harvard 1BR 6/1. CL $2,500 Mass Ave/Rindge 1BR 6/1 8.7/10 flagged for manual relay grab \u2014 remodeled with free W/D, strong Davis/Porter access. $1,675 Plymouth St BP Cambridge 1BR flagged as below-market scam."
 }

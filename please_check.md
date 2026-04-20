@@ -3,6 +3,44 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-20
+
+### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086679/)
+Score 7.6/10 | Harvard Square, Cambridge | June 1, 2026  
+No broker fee. Top-of-budget Harvard 1BR.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$3,300 — 1BR Renovated walk to Harvard (CL)](https://boston.craigslist.org/gbs/apa/d/cambridge-great-location-renovated-1br/7928822436.html)
+Score 7.2/10 | near Harvard, Cambridge | Date TBD  
+Renovated 1BR, short walk to Harvard. Need to confirm date.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,300 — 1BR Back Bay/South End line (CL)](https://boston.craigslist.org/gbs/apa/d/boston-back-bay-south-end-line-sunny/7928761993.html)
+Score 6.4/10 | Back Bay/South End, Boston | Date TBD  
+Sunny 2nd-floor front, dishwasher, laundry. Orange Line direct downtown; transfer for MIT.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,200 — Studio Beacon Hill (CL)](https://boston.craigslist.org/gbs/apa/d/boston-beacon-hill-studio/7928807842.html)
+Score 6.2/10 | Beacon Hill, Boston | Date TBD  
+Beacon Hill studio. Walk to Charles/MGH Red Line for downtown.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$3,200 — 1BR Winter Hill Somerville (6/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8070513/)
+Score 6.1/10 | Winter Hill, Somerville | June 1, 2026  
+No broker fee. Same cluster as 8070524/8070373.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" to route via the form, or skip.
+
+### [$1,550 — Efficiency Studio Back Bay/South End line (NO KITCHEN)](https://boston.craigslist.org/gbs/apa/d/boston-south-end-back-bay-line/7928760951.html)
+Score 6.0/10 | Back Bay/South End | Date TBD  
+Cheap but NO KITCHEN (private bath only). Likely a hard pass for long-term living.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email (or skip — likely no-go).
+
 ## Added 2026-04-19
 
 ### [$2,950 — 1BR Harvard Square (5/6, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-5865986/)
