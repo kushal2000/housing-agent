@@ -2,6 +2,50 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 21st April, 2026
+
+### [$2,600 — 1BR Broadway East Somerville (renovated, 6/1, pet-friendly)](https://boston.craigslist.org/gbs/apa/d/somerville-1-june-renovated-1br-east/7929036060.html)
+Broadway, Somerville 02145 | 1BR/1ba | June 1, 2026 | 12-month lease  
+Beautifully renovated 1BR, hardwood, updated kitchen, efficient layout, on-site laundry, pet-friendly. 6 photos. Near Sullivan Sq (Orange Line) and Assembly Row. Street parking only.  
+Score 8.5/10 | MIT 4/5 | Downtown 4/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — flagged for Kushal to manually grab  
+
+### [$3,450 — 1BR Harvard Square (BP 8086687, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086687/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee. Top-of-budget Harvard 1BR.  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,400 — 1BR Harvard Square (BP 8086853, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086853/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee.  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,150 — Studio Fenway/Longwood w/ alcove (5/1, no fee)](https://southcoast.craigslist.org/apa/d/brookline-village-no-fee-large-stu-with/7929046032.html)
+Longwood Med/Fenway, Boston | Studio/1ba | May 1, 2026  
+Large studio with alcove, no broker fee. Note: southcoast-region Craigslist post (legit Boardwalk cross-post pattern).  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 2/5  
+please_check.md — GOOD tier awaiting approval  
+
+### Feed mismatch / SCAM / REJECT
+- BP 8059700 feed said "$2,400 Davis Sq studio 6/2" — actual page shows 3BR $3,200 East Cambridge 9/1. REJECT.
+- BP 5343060: $1,700 1BR Cambridge — below-market, flagged as potential scam.
+- BP 8086290: $3,550 Harvard Sq 1BR 6/1 — over $3,500 hard filter cap.
+- 13 Allston/Brighton $2,025-$2,150 studios on southcoast.craigslist.org — likely Boardwalk cross-posts, logged only.
+- worcester.craigslist.org Back Bay 1BR $2,300 and $3,369 Boston penthouse — region-mismatch/logged only.
+- westernmass.craigslist.org Somerville 2BR $1,585 — wrong region + 2BR.
+
+### Logged only (MEH tier)
+- $3,429 Fort Point studio (CL, 4.4/10): https://boston.craigslist.org/gbs/apa/d/boston-unique-lofts-available-now/7929054306.html
+- $3,369 Boston penthouse 1BR (CL, 4.0/10)
+- $2,799 Brookline 1BR with April rent free (5.1/10) — MIT Tier 5
+- $2,450 Brookline studio Green Line (5.1/10)
+- $2,300 Mt Auburn studio 8/2 BP (5.6/10)
+- $2,300 Boston Harbor Views 1BR 40th floor on worcester region (5.8/10, scam-region)
+
+
 ## 20th April, 2026
 
 ### [$2,785 — Studio Harvard Square (Douglas Paul/Josue Vargas, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/)

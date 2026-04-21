@@ -3,6 +3,26 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-21
+
+### [$3,450 — 1BR Harvard Square (BP 8086687, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086687/)
+Score 7.6/10 | Harvard Square, Cambridge | June 1, 2026  
+No broker fee. Top of budget but June 1 ideal.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" or skip.
+
+### [$3,400 — 1BR Harvard Square (BP 8086853, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086853/)
+Score 7.6/10 | Harvard Square, Cambridge | June 1, 2026  
+No broker fee.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" or skip.
+
+### [$2,150 — Studio Fenway/Longwood w/ alcove (5/1, no fee)](https://southcoast.craigslist.org/apa/d/brookline-village-no-fee-large-stu-with/7929046032.html)
+Score 6.2/10 | Longwood Med/Fenway, Boston | May 1, 2026  
+Studio with alcove, no fee. Southcoast-region cross-post (likely Boardwalk).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-20
 
 ### [$3,450 — 1BR Harvard Square (6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086679/)

@@ -2,6 +2,12 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-21 06:40 — ALERT (URGENT, 1 listing scored 8.0+)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 1 new 8.0+ listing — 2026-04-21 (CL relay grab needed)
+- Listing: [$2,600 1BR Broadway East Somerville (6/1, 8.5/10)](https://boston.craigslist.org/gbs/apa/d/somerville-1-june-renovated-1br-east/7929036060.html) — CL relay grab needed
+- No auto-outreach today (sole URGENT is CL-relay-only).
+
 ### 2026-04-20 06:40 — ALERT (URGENT, 3 listings scored 8.0+)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 3 new 8.0+ listings — 2026-04-20 (2 outreach sent, 1 needs CL relay grab)

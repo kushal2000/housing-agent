@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-20T06:31:58",
-  "listings_fetched": 60,
-  "new_listings": 35,
+  "last_run": "2026-04-21T06:30:48",
+  "listings_fetched": 53,
+  "new_listings": 25,
   "alerts_sent": 1,
-  "outreach_sent": 2,
+  "outreach_sent": 0,
   "sources_status": {
-    "craigslist_mit": "ok (20 listings, 14 from southcoast region \u2014 flagged)",
+    "craigslist_mit": "ok (20 listings, 12 from southcoast Allston reposts flagged)",
     "craigslist_downtown": "ok (20 listings, heavy overlap with yesterday)",
-    "bostonpads_cambridge": "ok (17 listings, 12 new \u2014 2 URGENT went to outreach via Douglas Paul and NextGen)",
-    "bostonpads_somerville": "ok (16 listings, 3 new \u2014 all 9/1 reject or repeats)",
-    "gmail_facebook": "ok (0 new since 2026/04/19)",
-    "gmail_google_groups": "ok (0 new since 2026/04/19)",
-    "websearch": "ok (not queried \u2014 sources saturated)",
+    "bostonpads_cambridge": "ok (20 listings, BP feed mostly 2BR units plus 5 new 1BR/studio \u2014 2 URGENT-scored + 1 feed mismatch detected)",
+    "bostonpads_somerville": "ok (13 listings, all seen before \u2014 mostly 9/1 rejects)",
+    "gmail_facebook": "ok (0 new since 2026/04/20)",
+    "gmail_google_groups": "ok (0 new since 2026/04/20)",
+    "websearch": "skipped (sources saturated)",
     "to_check": "ok (no URLs queued)"
   },
-  "notes": "4 URGENT scored, 1 rejected post-score (8085104 feed mismatch \u2014 actual 2BR $4,150). Auto-outreach sent to Josue Vargas (Douglas Paul) for $2,785 Harvard studio 6/1 (3rd Douglas Paul touch this week) and Marta Moraru (NextGen) for $3,170 Harvard 1BR 6/1. CL $2,500 Mass Ave/Rindge 1BR 6/1 8.7/10 flagged for manual relay grab \u2014 remodeled with free W/D, strong Davis/Porter access. $1,675 Plymouth St BP Cambridge 1BR flagged as below-market scam."
+  "notes": "Quiet day: 2 URGENT (1 rejected post-fetch as BP feed mismatch; actual listing 8059700 is 3BR not studio). Sole action: $2,600 East Somerville Broadway 1BR 6/1 8.5/10 \u2014 needs Kushal to grab CL relay email. 13 Allston/Brighton southcoast reposts; 2 worcester-region posts; 1 westernmass 2BR. BP feed quality degrading \u2014 seeing more label/URL mismatches. Still waiting on replies from Douglas Paul (3 threads) and NextGen (2 threads) from prior days."
 }
