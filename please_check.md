@@ -3,6 +3,38 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-22
+
+### [$3,400 — 1BR Porter Sq (BP 8086854, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086854/)
+Score 6.9/10 | Porter Square, Cambridge | June 1, 2026  
+No broker fee. Red Line direct. Top of budget.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" or skip.
+
+### [$2,150 — Studio North End (utilities incl, laundry)](https://boston.craigslist.org/gbs/apa/d/boston-north-end-studio-utilities/7929194950.html)
+Score 6.7/10 | North End, Boston | Date TBD  
+Utilities incl, in-building laundry. Walk to Downtown; transfer for MIT.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,050 — 1BR Allston NO FEE JULY full kitchen](https://boston.craigslist.org/gbs/apa/d/allston-no-fee-july-full-kitchen/7929272841.html)
+Score 6.4/10 | Allston | July 2026  
+No fee, full kitchen. Green Line B; transfer for MIT (~35-40 min).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,275 — Studio Fenway H/HW incl](https://boston.craigslist.org/gbs/apa/d/boston-fantastic-fenway-studio-heat-hot/7929207593.html)
+Score 6.4/10 | Fenway, Boston | Date TBD  
+Heat + hot water included, students OK.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,600 — 1BR Fenway LOFT high ceilings + central A/C](https://boston.craigslist.org/gbs/apa/d/boston-unique-loft-high-ceilings/7929277904.html)
+Score 6.0/10 | Fenway, Boston | Date TBD  
+Loft style, high ceilings, central A/C, laundry.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-21
 
 ### [$3,450 — 1BR Harvard Square (BP 8086687, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086687/)

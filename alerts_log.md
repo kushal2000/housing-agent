@@ -2,6 +2,17 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-22 06:40 — ALERT (URGENT, 4 actionable listings scored 8.0+, 1 feed-mismatch rejected)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 4 actionable 8.0+ listings — 2026-04-22 (all phone/CL — no auto-outreach today)
+- Listings:
+  - [$2,450 1BR Central Sq/Cambridgeport (Towne Realty/Patrick Davoodi, 6/1, 9.6/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8049313/) — phone 774-279-5543
+  - [$2,650 1BR Brookline St Cambridgeport top floor (Peyton, 7/1, 9.2/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-central-sq/7929341967.html) — phone 617-939-4835
+  - [$2,850 Studio Cambridge St reno w/ W/D (Peyton same landlord, 6/1, 8.7/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-renovated-studio-1/7929345540.html) — phone 617-939-4835
+  - [$2,200 Studio Kendall/MIT (DUPLICATE of Sciarappa Natale, 9.6/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-apt-kendall-sq-mit/7929338429.html) — John Natale 781-686-5373
+- BP 4045931 rejected as feed mismatch (actual 3BR $4,900 5/1 not studio $2,785 6/1).
+- No auto-outreach today — all URGENT listings are phone-only.
+
 ### 2026-04-21 06:40 — ALERT (URGENT, 1 listing scored 8.0+)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 1 new 8.0+ listing — 2026-04-21 (CL relay grab needed)

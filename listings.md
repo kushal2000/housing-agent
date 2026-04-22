@@ -2,6 +2,81 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 22nd April, 2026
+
+### [$2,450 — 1BR Central Sq/Cambridgeport (Towne Realty/Patrick Davoodi, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8049313/)
+Central Square/Cambridgeport, Cambridge | 1BR/1ba | June 1, 2026  
+"17.84% below market" per BostonPads. No broker fee. Water/sewer/trash weekly incl, tenant pays heat/HW/electric. No pets, no parking. Total at signing $3,456 (1st+last+sec+$50 key). Patrick Davoodi-Masihe, Towne Realty Group, 774-279-5543 (1243 Comm Ave — shared office with NextGen).  
+Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 4/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: phone-only — flagged for Kushal. 2nd Towne Realty Central Sq $2,450 listing this week (first was Anthony Campbell 8085536 on 4/18) — likely same building/same unit relisted, Kushal can ask when calling.  
+
+### [$2,650 — 1BR Brookline St Cambridgeport top floor (Peyton, 7/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-central-sq/7929341967.html)
+Brookline St, Cambridge 02139 | 1BR/1ba | July 1, 2026  
+Sunny top-floor 1BR in multi-unit house, minutes to Red Line, MIT, Harvard Business School, Charles River. Hardwood floors, good-size kitchen, cats allowed, no on-site laundry (laundromat across street). 6 photos. Owner-direct: Peyton, 617-939-4835 (no email).  
+Score 9.2/10 | MIT 5/5 | Downtown 5/5 | Price 4/5 | Quality 3/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: phone-only — flagged for Kushal to call  
+
+### [$2,850 — Studio Cambridge St 02138 brand-new reno, W/D in unit (Peyton, 6/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-renovated-studio-1/7929345540.html)
+Cambridge St, Cambridge 02138 | Studio/1ba | June 1, 2026  
+Brand-new renovation: W/D IN UNIT, high ceilings, wood floors, large windows, stainless steel appliances, granite counters. Cats ok, no parking. 6 photos. Same landlord as Brookline St 1BR above — Peyton 617-939-4835. Ask about both when calling.  
+Score 8.7/10 | MIT 4/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: phone-only — flagged for Kushal to call (combine with Brookline St call)  
+
+### [$2,200 — Studio Kendall Sq/MIT (LIKELY DUPLICATE of Sciarappa Natale listing)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-apt-kendall-sq-mit/7929338429.html)
+Kendall Sq area, Cambridge | Studio/1ba | Assumed June 1  
+Same "Studio Apt Kendall Sq/MIT" title as John Natale's Sciarappa St 02141 listing from 4/18 (7928421726 + 7928416904). Almost certainly the same owner re-posting — contact 781-686-5373 (per 4/18 detail fetch).  
+Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 5/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+ALERTED (duplicate flag)  
+Outreach: phone-only (John Natale 781-686-5373) — same as prior. Skip if already contacted.  
+
+### [$3,400 — 1BR Porter Sq (BP 8086854, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086854/)
+Porter Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee, Red Line direct.  
+Score 6.9/10 | MIT 3/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,150 — Studio North End (utilities incl, in-building laundry)](https://boston.craigslist.org/gbs/apa/d/boston-north-end-studio-utilities/7929194950.html)
+North End, Boston | Studio/1ba | Date TBD  
+Utilities incl, laundry in building. North End = walk to Downtown; transfer for MIT.  
+Score 6.7/10 | MIT 2/5 | Downtown 5/5 | Price 5/5 | Quality 5/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,050 — 1BR Allston NO FEE JULY full kitchen](https://boston.craigslist.org/gbs/apa/d/allston-no-fee-july-full-kitchen/7929272841.html)
+Allston | 1BR/1ba | July 2026  
+No fee, full kitchen. Green Line B to downtown; transfer for MIT.  
+Score 6.4/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,275 — Studio Fenway H/HW incl, students OK](https://boston.craigslist.org/gbs/apa/d/boston-fantastic-fenway-studio-heat-hot/7929207593.html)
+Fenway, Boston | Studio/1ba | Date TBD  
+Heat and hot water included. Green Line D to downtown; transfer for MIT.  
+Score 6.4/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,600 — 1BR Fenway LOFT high ceilings + laundry + central A/C](https://boston.craigslist.org/gbs/apa/d/boston-unique-loft-high-ceilings/7929277904.html)
+Fenway, Boston | 1BR/1ba | Date TBD  
+Loft style, high ceilings, central A/C, laundry.  
+Score 6.0/10 | MIT 2/5 | Downtown 3/5 | Price 4/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### Feed mismatch / SCAM / REJECT
+- BP 4045931 feed said "$2,785 Harvard Sq studio 6/1" — actual is $4,900 3BR 5/1 (Sarah McMahon, Douglas Paul). REJECT (feed mismatch #3 this week).
+- BP $4,050 Harvard 1BR (8060732), $3,650 Union Sq 1BR (8087736), $3,700 Davis Sq 1BR (8070529) — over $3,500 cap.
+- BP $1,695 32 Munroe Somerville furnished 1BR re-listed as 6126153 — scam flag retained.
+- BP $1,700 Cambridge 1BR re-listed (5343060) — below-market scam flag.
+- 11 Allston/Brighton southcoast cross-posts at $1,925-$2,015 — logged only.
+
+### Logged only (MEH tier)
+- $2,800 Beacon Hill 1BR 6/1 (CL, 5.6/10): https://boston.craigslist.org/gbs/apa/d/boston-beacon-hill-bed-perfect-for/7929210873.html
+- $2,675 Brookline 1BR 5/1 private deck H/HW incl (5.3/10)
+- $2,799 Brookline 1BR (5.1/10) — April rent free incentive
+- $3,429 Fort Point loft 1BR (4.4/10)
+- $3,300 South End furnished 1BR (4.4/10)
+
+
 ## 21st April, 2026
 
 ### [$2,600 — 1BR Broadway East Somerville (renovated, 6/1, pet-friendly)](https://boston.craigslist.org/gbs/apa/d/somerville-1-june-renovated-1br-east/7929036060.html)
