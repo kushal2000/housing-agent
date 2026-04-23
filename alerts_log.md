@@ -2,6 +2,21 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-23 06:40 — ALERT (URGENT, 4 listings scored 8.0+ + 1 feed-mismatch rejected)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 5 new 8.0+ listings — 2026-04-23 (1 outreach sent, 1 CL relay, 1 feed mismatch reject)
+- Listings:
+  - [$2,875 1BR Lopez St Central Sq Cambridge 02139 (6/1, 8.7/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-great-apartment-near-central/7929588406.html) — CL relay grab needed (owner-direct, W/D in unit)
+  - [$2,400 Studio Davis Sq (6/2, 8.3/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090046/) — outreach sent (Melissa Jin follow-up)
+  - [$2,400 Studio Davis Sq sibling listing (6/2, 8.3/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8058942/) — covered by 8090046 inquiry
+  - [$2,300 Studio Davis Sq (8/2, 8.1/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090783/)
+  - BP 4069895 rejected as feed mismatch (actually 4BR $4,250 9/1)
+
+### 2026-04-23 06:40 — OUTREACH (Douglas Paul — Davis Studio follow-up)
+- Listing: [$2,400 Studio Davis Sq 6/2](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090046/)
+- Score: 8.3/10
+- Recipient: info@douglaspaulre.com (Melissa Jin, 617-233-3909) — 4th Douglas Paul thread
+
 ### 2026-04-22 06:40 — ALERT (URGENT, 4 actionable listings scored 8.0+, 1 feed-mismatch rejected)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 4 actionable 8.0+ listings — 2026-04-22 (all phone/CL — no auto-outreach today)

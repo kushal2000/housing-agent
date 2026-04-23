@@ -2,6 +2,84 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 23rd April, 2026
+
+### [$2,875 — 1BR Lopez St Central Sq Cambridge (garden-level, renovated, W/D in unit, 6/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-great-apartment-near-central/7929588406.html)
+Lopez St near Brookline Ave, Cambridge 02139 | 1BR/1ba | June 1, 2026  
+Garden-level 1BR in owner-occupied 2-family. Recently renovated: new appliances, kitchen, bath, windows, HVAC, water heater. W/D in unit, dishwasher, food disposal, ample closets, backyard access. 4 blocks to Red Line. Walk Score 95, Bike Score 99. 15 photos + landlord references. On-street parking with resident permit, no pets.  
+Score 8.7/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — flagged for Kushal to grab via reply button (owner-direct)  
+
+### [$2,400 — Studio Davis Square (Douglas Paul/Melissa Jin, 6/2, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090046/)
+Davis Square, Somerville (BP labels Cambridge) | Studio/1ba | June 2, 2026  
+No broker fee. Melissa Jin, Douglas Paul Real Estate, 617-233-3909 — same agent as our 8086384 Davis 1BR thread. BP labels neighborhood as Cambridge but Davis Sq is in Somerville.  
+Score 8.3/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com (follow-up thread, references prior inquiries)  
+
+### [$2,400 — Studio Davis Square (BP 8058942, 6/2, likely same unit as 8090046)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8058942/)
+Davis Square | Studio/1ba | June 2, 2026  
+Same price, location, date as 8090046 — likely same unit or sibling in same building. Outreach via 8090046 should cover this.  
+Score 8.3/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: covered by 8090046 inquiry  
+
+### [$2,300 — Studio Davis Square (BP 8090783, 8/2, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090783/)
+Davis Square | Studio/1ba | August 2, 2026  
+No broker fee. Aug 2 = Kushal's arrival timing (fallback plan). Likely same agent cluster as 8090046.  
+Score 8.1/10 | MIT 3/5 | Downtown 5/5 | Price 5/5 | Quality 4/5 | Date 2/5 | +0.5 dual direct  
+ALERTED  
+Outreach: covered under broader Douglas Paul Davis Sq thread if same agent  
+
+### [FEED MISMATCH — BP 4069895 rejected](https://bostonpads.com/somerville-ma-apartments/somerville-4069895/)
+BP feed labeled "$2,250 Davis Sq Somerville 1BR 5/15" but actual listing is $4,250 4BR Spring Hill 9/1 (Josue Vargas). Rejected — 5th feed mismatch this week.  
+
+### [$3,400 — 1BR Harvard Square (BP 5607576, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-5607576/)
+Harvard Square, Cambridge | 1BR/1ba | June 1, 2026  
+No broker fee.  
+Score 7.6/10 | MIT 4/5 | Downtown 5/5 | Price 1/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,300 — 1BR Beacon Hill Sunny (CL)](https://boston.craigslist.org/gbs/apa/d/boston-sunny-one-bedroom/7929435708.html)
+Beacon Hill, Boston | 1BR/1ba | Date TBD  
+Sunny 1BR. Walk to Charles/MGH Red Line for downtown; transfer for MIT.  
+Score 6.2/10 | MIT 2/5 | Downtown 4/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,300 — 1BR Brighton Affordable Housing (The Overlook, CL)](https://boston.craigslist.org/sob/apa/d/charlestown-affordable-housing-rent/7929248316.html)
+Brighton, Boston | 1BR/1ba | Date TBD  
+"Rent Reduce" affordable housing listing. MAY be income-restricted — check eligibility before applying.  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$1,800 — Studio South End (CL)](https://boston.craigslist.org/gbs/apa/d/boston-studio-apartment-for-rent/7929391244.html)
+South End, Boston | Studio/1ba | Date TBD  
+Generic studio listing. Orange Line direct downtown; transfer for MIT.  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,025 — Studio St Stephen St Symphony (CL)](https://boston.craigslist.org/gbs/apa/d/boston-lovely-studio-on-st-stephen-st/7929459255.html)
+St Stephen St, Symphony area, Boston | Studio/1ba | Date TBD  
+Near Symphony/Fenway. Green Line E; transfer for MIT (~35 min).  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### Flagged as SCAM / REJECT
+- CL $1,795 studio "Granite Reno Walk Harvard" (7929521048) — below-market Harvard studio, scam flag.
+- BP $3,795 Harvard 1BR 5/1 (8086852) — over $3,500 cap.
+- BP $3,125 Harvard 1BR 9/1 (8090447) and $1,745 32 Munroe 9/1 (6094845) — date reject / below-market scam.
+- 17 Allston/Brighton southcoast.craigslist.org cross-posts ($1,925-$2,025) — region mismatch, logged only.
+- worcester.craigslist.org "Amazing Live/Work Loft" $2,000 Boston — region mismatch.
+
+### Logged only (MEH tier)
+- $2,500 Southie studio "live alone" (CL, 4.2/10)
+- $2,495 South End lofted studio near BUMC (5.8/10)
+- $2,895 South End 1BR near BUMC (5.3/10)
+- $1,625 private room shared bath Symphony (5.8/10 pre-quality-penalty; shared bath kills this)
+- $2,300 Mt Auburn studio 8/2 BP (5.6/10)
+
+
 ## 22nd April, 2026
 
 ### [$2,450 — 1BR Central Sq/Cambridgeport (Towne Realty/Patrick Davoodi, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8049313/)

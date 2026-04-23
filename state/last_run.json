@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-22T06:31:30",
-  "listings_fetched": 55,
-  "new_listings": 23,
+  "last_run": "2026-04-23T06:31:35",
+  "listings_fetched": 58,
+  "new_listings": 20,
   "alerts_sent": 1,
-  "outreach_sent": 0,
+  "outreach_sent": 1,
   "sources_status": {
-    "craigslist_mit": "ok (20 listings, 10 southcoast reposts)",
+    "craigslist_mit": "ok (20 listings, 17 southcoast cross-posts)",
     "craigslist_downtown": "ok (20 listings, heavy overlap)",
-    "bostonpads_cambridge": "ok (15 listings, 7 new \u2014 2 URGENT-scored, 1 feed mismatch 4045931)",
-    "bostonpads_somerville": "ok (15 listings, 4 new \u2014 mostly $3,500+ rejects)",
-    "gmail_facebook": "ok (0 new since 2026/04/21)",
-    "gmail_google_groups": "ok (0 new since 2026/04/21)",
+    "bostonpads_cambridge": "ok (12 listings, 7 new \u2014 4 URGENT-scored)",
+    "bostonpads_somerville": "ok (16 listings, 2 new \u2014 1 feed mismatch reject)",
+    "gmail_facebook": "ok (0 new since 2026/04/22)",
+    "gmail_google_groups": "ok (0 new since 2026/04/22)",
     "websearch": "skipped",
-    "to_check": "ok (no URLs queued)"
+    "to_check": "ok"
   },
-  "notes": "Strong morning batch: 5 URGENT (1 feed-mismatch rejected), 5 GOOD, 5 MEH. All 4 actionable URGENT listings are phone-only or CL-relay \u2014 no auto-outreach possible today. Standout: Peyton (617-939-4835) owns TWO units - $2,650 Brookline St 1BR 7/1 and $2,850 Cambridge St studio 6/1 (with W/D in unit) \u2014 single phone call covers both. Plus $2,450 Central Sq 1BR 6/1 from Towne Realty (Patrick Davoodi, 2nd Towne $2,450 Central Sq this week). BP feed continues to degrade \u2014 4th feed-mismatch this week (4045931 actually 3BR $4,900). Still awaiting replies from Douglas Paul (3) and NextGen (2) threads."
+  "notes": "5 URGENT scored today. Top: $2,875 Lopez St Central Sq 1BR owner-direct garden-level with W/D in unit 6/1 (CL relay grab needed). Douglas Paul/Melissa Jin listed more Davis Sq studios \u2014 outreach sent to info@douglaspaulre.com as 4th Douglas Paul thread (follow-up referencing prior 3). 5th feed mismatch on BP this week (4069895). Still no replies from 4 Douglas Paul and 2 NextGen threads since Tuesday."
 }

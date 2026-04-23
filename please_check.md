@@ -3,6 +3,38 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-23
+
+### [$3,400 — 1BR Harvard Square (BP 5607576, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-5607576/)
+Score 7.6/10 | Harvard Square, Cambridge | June 1, 2026  
+No broker fee. Top-of-budget Harvard 1BR.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" or skip.
+
+### [$2,300 — 1BR Beacon Hill Sunny (CL)](https://boston.craigslist.org/gbs/apa/d/boston-sunny-one-bedroom/7929435708.html)
+Score 6.2/10 | Beacon Hill, Boston | Date TBD  
+Sunny 1BR. Walk to Charles/MGH Red Line for downtown.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,300 — 1BR Brighton "Affordable Housing Rent Reduce" (CL)](https://boston.craigslist.org/sob/apa/d/charlestown-affordable-housing-rent/7929248316.html)
+Score 6.2/10 | Brighton, Boston | Date TBD  
+Possibly INCOME-RESTRICTED — check eligibility before applying.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or skip.
+
+### [$1,800 — Studio South End (CL)](https://boston.craigslist.org/gbs/apa/d/boston-studio-apartment-for-rent/7929391244.html)
+Score 6.2/10 | South End, Boston | Date TBD  
+Cheap South End studio. Orange Line direct downtown.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,025 — Studio St Stephen St Symphony area](https://boston.craigslist.org/gbs/apa/d/boston-lovely-studio-on-st-stephen-st/7929459255.html)
+Score 6.2/10 | Symphony, Boston | Date TBD  
+Near Symphony/Fenway. Green Line E.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-22
 
 ### [$3,400 — 1BR Porter Sq (BP 8086854, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8086854/)

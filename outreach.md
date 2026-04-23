@@ -4,6 +4,23 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,400 — Studio Davis Sq (Douglas Paul/Melissa Jin, 6/2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090046/)
+**Score:** 8.3/10 | **Sent:** 2026-04-23 06:40 | **Status:** Awaiting reply (follow-up to prior Davis 1BR inquiry)
+
+| Field | Details |
+|-------|---------|
+| Price | $2,400/mo |
+| Type | Studio / 1ba |
+| Location | Davis Square (BP labels Cambridge but Davis is Somerville) |
+| Available | June 2, 2026 |
+| Features | No broker fee; 8058942 appears to be sibling listing at same price/date |
+| Contact | Melissa Jin, Douglas Paul Real Estate (same agent as 8086384 Davis 1BR 4/19 thread) |
+| Phone | 617-233-3909 |
+| Email | info@douglaspaulre.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-8090046/ |
+| Scores | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct |
+| Notes | 4th Douglas Paul touch this week. Follow-up references all prior threads (1210 Mass Ave, Davis 1BR 8086384, Harvard studio 4454328). |
+
 ### [$2,785 — Studio Harvard Sq (Douglas Paul/Josue Vargas, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-4454328/)
 **Score:** 8.9/10 | **Sent:** 2026-04-20 06:40 | **Status:** Awaiting reply
 
