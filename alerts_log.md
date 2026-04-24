@@ -2,6 +2,13 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-24 06:40 — ALERT (URGENT, 1 listing scored 8.0+ — same-building as 4/12 ARE thread)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 1 new 8.0+ listing — 2026-04-24 (888 Mass Ave top-floor unit, Aug 1)
+- Listing: [$2,885 1BR Top Floor 888 Mass Ave Central Sq (8/1, 8.9/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-august-1st-no/7929715001.html) — same building as Kanika's 4/12 ARE inquiry; route follow-up there
+- No auto-outreach today (handled via existing ARE thread).
+- Gmail MCP token expired — FB group and Google Groups sources not scanned today.
+
 ### 2026-04-23 06:40 — ALERT (URGENT, 4 listings scored 8.0+ + 1 feed-mismatch rejected)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 5 new 8.0+ listings — 2026-04-23 (1 outreach sent, 1 CL relay, 1 feed mismatch reject)

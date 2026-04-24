@@ -2,6 +2,72 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 24th April, 2026
+
+### [$2,885 — 1BR Top Floor 888 Mass Ave Central Sq (Apartment Rental Experts, 8/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-august-1st-no/7929715001.html)
+888 Massachusetts Ave, Cambridge 02139 (Central Sq) | 1BR/1ba | August 1, 2026  
+6th floor renovated 1BR: exposed red brick, 12-ft ceilings, hardwood, large windows. Heat and hot water included, on-site laundry + free Wi-Fi, on-site property manager, smoke-free, cable ready, no broker fee. 7 photos. Apartment Rental Experts, 617-684-8000, Ref #133684.  
+Score 8.9/10 | MIT 5/5 | Downtown 5/5 | Price 3/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+ALERTED — SAME BUILDING as Kanika's 4/12 ARE inquiry (different unit: top/6th floor vs prior 1BR, Aug 1 vs 6/1)  
+Outreach: none new — route via existing ARE thread from 4/12  
+
+### [$3,200 — 1BR Porter Cambridge May/June 1 NO FEE](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-mins-to-the-may/7929715408.html)
+Porter Sq/Forest St, Cambridge | 1BR/1ba | May or June 1, 2026  
+5 mins to T, no broker fee. Flexible May/June 1 start.  
+Score 7.6/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,300 — 1BR Porter/Avon Hill Charming Heat Incl NO FEE](https://boston.craigslist.org/gbs/apa/d/cambridge-charming-bed-mins-to-the-heat/7929722500.html)
+Porter/Avon Hill, Cambridge | 1+BR/1ba | Date TBD  
+2 mins to T, heat included, no fee. Avon Hill area near Porter Sq.  
+Score 6.9/10 | MIT 3/5 | Downtown 5/5 | Price 2/5 | Quality 5/5 | Date 3/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,500 — 1+BR Winter Hill Somerville Laundry+Dishwasher](https://boston.craigslist.org/gbs/apa/d/somerville-winter-hill-bedroom-laundry/7929705204.html)
+Winter Hill/Sullivan Sq, Somerville | 1+BR/1ba | Date TBD  
+Laundry + dishwasher.  
+Score 6.7/10 | MIT 3/5 | Downtown 2/5 | Price 4/5 | Quality 4/5 | Date 3/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$1,925 — Studio Allston/Comm Ave Newly Renovated NO FEE Avail NOW](https://boston.craigslist.org/gbs/apa/d/allston-avail-now-newly-renovated/7929617554.html)
+Allston/Brookline border | Studio/1ba | Now (flexible)  
+Newly renovated Comm Ave studio. No fee. "Now" = April — may hold for June.  
+Score 6.4/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,050 — Studio Brighton Comm Ave w/ Alcove+Kitchen 7/1 (repost)](https://boston.craigslist.org/gbs/apa/d/brighton-renovated-comm-ave-studio-with/7929767938.html)
+Comm Ave, Brighton/Cleveland Circle | Studio/1ba | July 1, 2026  
+Renovated with alcove + separate kitchen. Similar to previously seen 7928266000 repost.  
+Score 6.2/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,895 — 1BR North End In-Unit Laundry Pet-Friendly 6/1 (repost)](https://boston.craigslist.org/gbs/apa/d/boston-in-unit-laundry-pet-friendly-bed/7929739201.html)
+North End, Boston | 1BR/1ba | June 1, 2026  
+In-unit laundry, pet-friendly. Repost of earlier 7927989666 listing.  
+Score 6.0/10 | MIT 2/5 | Downtown 5/5 | Price 3/5 | Quality 4/5 | Date 5/5  
+please_check.md — GOOD tier awaiting approval  
+
+### [$2,000 — Studio Washington Sq/Beacon St Brookline 6/1](https://boston.craigslist.org/gbs/apa/d/brookline-village-washington-sq-beacon/7929660559.html)
+Washington Sq, Brookline | Studio/1ba | June 1, 2026  
+Washington Sq on Beacon St. Green Line C to downtown; transfer for MIT.  
+Score 6.0/10 | MIT 2/5 | Downtown 3/5 | Price 5/5 | Quality 3/5 | Date 5/5  
+please_check.md — GOOD tier awaiting approval  
+
+### Flagged as SCAM / REJECT
+- CL $1,600 furnished basement studio Huron Village (7929687127) — below-market + furnished + basement. Scam flag.
+- CL $2,011 Brookline 1BR condo on westernmass.craigslist.org — region mismatch (Brookline posted to Western MA region).
+- BP $3,795 Harvard 1BR 5/1 (8090450) — over $3,500 cap.
+- 8 listings date-rejected (9/1 or pre-May 15 availability).
+
+### Logged only (MEH tier)
+- 3 Coolidge Corner Brookline 1BRs $2,937-$3,400 (CL, 4.4-5.3/10)
+- $2,550 Brookline Luxury studio (5.8/10), $2,350 Brookline 1BR updated kitchen ASAP (5.8/10)
+- 2 Mt Auburn BP studios 7/2 + 8/2 (5.6-5.8/10)
+
+### Gmail source status
+Facebook-groups and Google-Groups Gmail queries failed with token-expired error. User needs to re-auth the Gmail MCP before next scan picks those up.  
+
+
 ## 23rd April, 2026
 
 ### [$2,875 — 1BR Lopez St Central Sq Cambridge (garden-level, renovated, W/D in unit, 6/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-great-apartment-near-central/7929588406.html)

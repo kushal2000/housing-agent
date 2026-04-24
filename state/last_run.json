@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-23T06:31:35",
-  "listings_fetched": 58,
-  "new_listings": 20,
+  "last_run": "2026-04-24T06:31:08",
+  "listings_fetched": 52,
+  "new_listings": 25,
   "alerts_sent": 1,
-  "outreach_sent": 1,
+  "outreach_sent": 0,
   "sources_status": {
-    "craigslist_mit": "ok (20 listings, 17 southcoast cross-posts)",
-    "craigslist_downtown": "ok (20 listings, heavy overlap)",
-    "bostonpads_cambridge": "ok (12 listings, 7 new \u2014 4 URGENT-scored)",
-    "bostonpads_somerville": "ok (16 listings, 2 new \u2014 1 feed mismatch reject)",
-    "gmail_facebook": "ok (0 new since 2026/04/22)",
-    "gmail_google_groups": "ok (0 new since 2026/04/22)",
+    "craigslist_mit": "ok (20 listings, 0 southcoast this round)",
+    "craigslist_downtown": "ok (20 listings)",
+    "bostonpads_cambridge": "ok (11 listings, 5 new)",
+    "bostonpads_somerville": "ok (17 listings, 4 new \u2014 all 9/1 or Sept rejects)",
+    "gmail_facebook": "ERROR token expired - needs re-auth",
+    "gmail_google_groups": "ERROR token expired - needs re-auth",
     "websearch": "skipped",
     "to_check": "ok"
   },
-  "notes": "5 URGENT scored today. Top: $2,875 Lopez St Central Sq 1BR owner-direct garden-level with W/D in unit 6/1 (CL relay grab needed). Douglas Paul/Melissa Jin listed more Davis Sq studios \u2014 outreach sent to info@douglaspaulre.com as 4th Douglas Paul thread (follow-up referencing prior 3). 5th feed mismatch on BP this week (4069895). Still no replies from 4 Douglas Paul and 2 NextGen threads since Tuesday."
+  "notes": "1 URGENT today: $2,885 888 Mass Ave top-floor 1BR 8/1 \u2014 SAME BUILDING as Kanika's 4/12 Apartment Rental Experts inquiry (different unit). Routed follow-up to existing thread; no new outreach. 7 GOOD added to please_check.md. Gmail MCP token expired this morning \u2014 FB groups + Google Groups sources failed. 6th feed-mismatch BP week (all 5 earlier ones resolved by manual WebFetch verification). Still awaiting replies from Douglas Paul (4), NextGen (2), Apartment Rental Experts (1 from 4/12)."
 }

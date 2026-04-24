@@ -3,6 +3,50 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-24
+
+### [$3,200 — 1BR Porter May/June 1 NO FEE](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-mins-to-the-may/7929715408.html)
+Score 7.6/10 | Porter Sq, Cambridge | May or June 1, 2026  
+5 mins to T, no broker fee, flexible start date.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$3,300 — 1+BR Porter/Avon Hill Heat Incl NO FEE](https://boston.craigslist.org/gbs/apa/d/cambridge-charming-bed-mins-to-the-heat/7929722500.html)
+Score 6.9/10 | Porter/Avon Hill, Cambridge | Date TBD  
+2 mins to T, heat incl.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,500 — 1+BR Winter Hill Somerville Laundry+DW](https://boston.craigslist.org/gbs/apa/d/somerville-winter-hill-bedroom-laundry/7929705204.html)
+Score 6.7/10 | Winter Hill, Somerville | Date TBD  
+Laundry + dishwasher.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$1,925 — Studio Allston Comm Ave newly renovated NOW (no fee)](https://boston.craigslist.org/gbs/apa/d/allston-avail-now-newly-renovated/7929617554.html)
+Score 6.4/10 | Allston/Brookline | Now (flexible)  
+No fee, newly renovated.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,050 — Studio Brighton Comm Ave alcove+kitchen 7/1](https://boston.craigslist.org/gbs/apa/d/brighton-renovated-comm-ave-studio-with/7929767938.html)
+Score 6.2/10 | Brighton/Cleveland Circle | July 1, 2026  
+Alcove + separate kitchen.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,895 — 1BR North End in-unit laundry pet-friendly 6/1 (repost)](https://boston.craigslist.org/gbs/apa/d/boston-in-unit-laundry-pet-friendly-bed/7929739201.html)
+Score 6.0/10 | North End, Boston | June 1, 2026  
+In-unit laundry, pet-friendly.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,000 — Studio Washington Sq Beacon St Brookline 6/1](https://boston.craigslist.org/gbs/apa/d/brookline-village-washington-sq-beacon/7929660559.html)
+Score 6.0/10 | Washington Sq, Brookline | June 1, 2026  
+Green Line C.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-23
 
 ### [$3,400 — 1BR Harvard Square (BP 5607576, 6/1, no fee)](https://bostonpads.com/cambridge-ma-apartments/cambridge-5607576/)
