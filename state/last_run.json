@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-04-24T06:31:08",
-  "listings_fetched": 52,
-  "new_listings": 25,
+  "last_run": "2026-04-25T06:32:37",
+  "listings_fetched": 56,
+  "new_listings": 28,
   "alerts_sent": 1,
-  "outreach_sent": 0,
+  "outreach_sent": 1,
   "sources_status": {
-    "craigslist_mit": "ok (20 listings, 0 southcoast this round)",
-    "craigslist_downtown": "ok (20 listings)",
-    "bostonpads_cambridge": "ok (11 listings, 5 new)",
-    "bostonpads_somerville": "ok (17 listings, 4 new \u2014 all 9/1 or Sept rejects)",
-    "gmail_facebook": "ERROR token expired - needs re-auth",
-    "gmail_google_groups": "ERROR token expired - needs re-auth",
+    "craigslist_mit": "ok (20 listings, mostly older 7927xxx IDs resurfaced today)",
+    "craigslist_downtown": "ok (20 listings, heavy overlap)",
+    "bostonpads_cambridge": "ok (13 listings, 5 new \u2014 2 feed mismatches detected)",
+    "bostonpads_somerville": "ok (17 listings, mostly 9/1 rejects)",
+    "gmail_facebook": "ok (re-auth fixed; 0 new since 4/24)",
+    "gmail_google_groups": "ok (re-auth fixed; 0 new since 4/24)",
     "websearch": "skipped",
     "to_check": "ok"
   },
-  "notes": "1 URGENT today: $2,885 888 Mass Ave top-floor 1BR 8/1 \u2014 SAME BUILDING as Kanika's 4/12 Apartment Rental Experts inquiry (different unit). Routed follow-up to existing thread; no new outreach. 7 GOOD added to please_check.md. Gmail MCP token expired this morning \u2014 FB groups + Google Groups sources failed. 6th feed-mismatch BP week (all 5 earlier ones resolved by manual WebFetch verification). Still awaiting replies from Douglas Paul (4), NextGen (2), Apartment Rental Experts (1 from 4/12)."
+  "notes": "6 URGENT scored, 2 BP feed mismatches detected post-fetch (8088651 actually 1BR Mt Auburn, 8091829 actually 2BR $4,800 rejected). Net 4 actionable URGENT. Auto-outreach sent to info@douglaspaulre.com for 5th time this week (Jehana Ray Harvard studio 6137828, $2,650 6/1). 8 GOOD added to please_check.md. Gmail MCP re-authorized \u2014 back online with 0 new posts in target FB groups / Google Groups. CL MIT search returning older 7927xxx IDs today which suggests re-listings or sort drift. Total cumulative: 9 active outreach threads (5 Douglas Paul, 2 NextGen, 1 ARE, 1 prior Cabot/Boardwalk). Still no replies from any since 4/14."
 }

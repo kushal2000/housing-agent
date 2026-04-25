@@ -2,6 +2,85 @@
 
 Scored apartment listings, newest first. Updated by the housing agent every 4 hours.
 
+## 25th April, 2026
+
+### [$2,200 — Studio Modern Condo Central Sq/MIT (CL repost)](https://boston.craigslist.org/gbs/apa/d/cambridge-modern-studio-condo-near-mit/7927490346.html)
+Central Square, Cambridge | Studio/1ba | Date TBD  
+"Modern Studio Condo near MIT and Central Square." Older CL listing (ID 7927) re-surfaced today; may be active, may be stale.  
+Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 5/5 | Quality 3/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — flagged for Kushal to verify date and grab via reply button  
+
+### [$2,600 — 1BR Kendall/MIT/Lechmere 6/1 (CL repost of Ava 4/18 listing)](https://boston.craigslist.org/gbs/apa/d/cambridge-1-june-spacious-br-ba-walking/7929825001.html)
+Kendall/MIT/Lechmere area, Cambridge | 1BR/1ba | June 1, 2026  
+Spacious 1BR walking to Kendall, MIT, Lechmere. Title and details closely mirror the 4/18 "Ava 6/1" listing 7927965779 — same landlord re-posting.  
+Score 9.6/10 | MIT 5/5 | Downtown 5/5 | Price 4/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — same landlord as 4/18 Ava listing if Kushal already replied there  
+
+### [$2,650 — Studio Harvard Sq (Douglas Paul/Jehana Ray, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-6137828/)
+Harvard Square, Cambridge | Studio/1ba | June 1, 2026  
+Water/sewer/garbage incl, tech fee incl, tenant pays heat/HW/electric. No pets, no parking. No broker fee. Jehana Ray, Douglas Paul Real Estate, 617-356-7740 (1210 Mass Ave). Note BP feed labeled price as $2,534 but actual page shows $2,650.  
+Score 8.9/10 | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct  
+ALERTED  
+Outreach: sent to info@douglaspaulre.com (5th Douglas Paul thread, referenced all prior 4 threads)  
+
+### [$2,475 — 1BR Davis Sq 7/1 (CL, 2 min to T, hardwood)](https://boston.craigslist.org/gbs/apa/d/somerville-1best-location-1bd2-min-to/7927424771.html)
+Davis Square, Somerville | 1BR/1ba | July 1, 2026  
+2 min to Davis T, in-building laundry, hardwood floors, pets negotiable.  
+Score 8.1/10 | MIT 3/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 3/5 | +0.5 dual direct  
+ALERTED  
+Outreach: CL relay email — flagged for Kushal to grab  
+
+### Feed mismatches today (2nd-day-in-a-row pattern)
+- BP 8088651 feed said "$2,400 Davis Sq studio 6/2" — actual is $2,600 Mt Auburn 1BR 6/2 (Patrick Davoodi-Masihe, Towne Realty Group, 774-279-5543). Corrected listing kept as GOOD-tier.  
+- BP 8091829 feed said "$2,695 Harvard Sq studio 7/1" — actual is $4,800 2BR/2.5BA East Cambridge 9/1 (Phu Mai, Boardwalk Properties). REJECT.  
+
+### [$2,100 — Studio with private bathroom near MIT (CL)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-with-private-bathroom/7929991108.html)
+Cambridge near MIT | Studio/1ba | Date TBD  
+"Studio with private bathroom, separated entrance, near MIT." Verify it's not just a "private room with private bath" sublet.  
+Score 7.8/10 | MIT 5/5 | Downtown 5/5 | Price 5/5 | Quality 3/5 | Date 3/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval (verify type)  
+
+### [$2,600 — 1BR Mt Auburn/Brattle/Fresh Pond (Towne Realty/Patrick Davoodi, 6/2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8088651/)
+Mt Auburn/Brattle/Fresh Pond, Cambridge | 1BR/1ba | June 2, 2026  
+No broker fee. Patrick Davoodi-Masihe, Towne Realty Group, 774-279-5543. (BP feed labeled this as Davis studio — corrected after WebFetch.)  
+Score 7.3/10 (corrected) | MIT 3/5 | Downtown 4/5 | Price 4/5 | Quality 3/5 | Date 5/5 | +0.5 dual direct  
+please_check.md — GOOD tier awaiting approval  
+
+### [$3,200 — 1BR East Somerville (BP 8089933, 7/1, no fee)](https://bostonpads.com/somerville-ma-apartments/somerville-8089933/)
+East Somerville | 1BR/1ba | July 1, 2026  
+No broker fee. East Somerville = Tier 2 MIT (Lechmere walk).  
+Score 7.2/10 | MIT 4/5 | Downtown 4/5 | Price 2/5 | Quality 4/5 | Date 3/5  
+please_check.md — GOOD tier awaiting approval  
+
+### Other GOOD-tier listings (please_check.md additions)
+- $2,050 Allston Greenline B htd studio 7/1 (CL, 6.7/10): https://boston.craigslist.org/gbs/apa/d/brighton-july-1st-htd-studio-on/7927477939.html
+- $2,150 Allston upper floor trolley heat+parking May/Jun (6.7/10): https://boston.craigslist.org/gbs/apa/d/allston-upper-floor-on-trolley-inc-heat/7927542790.html
+- $2,300 Allston 1BR no fee dishwasher (6.4/10)
+- $2,275 Allston 1BR split on T no fee (6.4/10)
+- $2,350 Cambridge studio .3mi to Red Line 6/1 central AC (6.4/10): https://boston.craigslist.org/gbs/apa/d/cambridge-studio-3mi-to-the-red-line/7927506287.html
+- $2,250 Cambridge studio 8/1 central AC (6.0/10): https://boston.craigslist.org/gbs/apa/d/cambridge-aug-1st-studio-with-central/7927513964.html
+
+### Flagged as SCAM / region-mismatch
+- CL $1,723 "Luxury 525 Linc Income-Restricted Allston" — income-restricted listing, flagged as SCAM-tier (Kushal's postdoc salary likely disqualifies).
+- worcester.craigslist.org $2,400 Echelon Seaport studio — region mismatch.
+
+### Logged only (MEH tier)
+- BP $2,600 Mt Auburn 1BR 6/2 (originally URGENT-scored, downgraded after fetch correction)
+- $2,400 Sullivan Sq 1BR (CL, 5.3/10)
+- $2,400 21 Franklin St Somerville 1BR (CL, 5.3/10)
+- $2,000 South Boston (CL, 4.7/10)
+
+### Rejected (date/price)
+- 5 BP Somerville 9/1 listings (Magoun/Ball, Dali/Inman ×2)
+- BP $3,600 Davis Sq 1BR 9/1 (over date + price)
+- CL Davis Sq $3,085 9/1 (date)
+- CL Brighton $2,450 9/1 (date)
+- CL Spring Hill $2,500 BP "Now" (date)
+- BP feed mismatch 8091829 (actual 2BR $4,800)
+
+
 ## 24th April, 2026
 
 ### [$2,885 — 1BR Top Floor 888 Mass Ave Central Sq (Apartment Rental Experts, 8/1)](https://boston.craigslist.org/gbs/apa/d/cambridge-top-floor-bed-august-1st-no/7929715001.html)

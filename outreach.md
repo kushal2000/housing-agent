@@ -4,6 +4,24 @@ Listings where inquiry emails have been sent. Includes full details for follow-u
 
 ## Active Outreach
 
+### [$2,650 — Studio Harvard Sq (Douglas Paul/Jehana Ray, 6/1)](https://bostonpads.com/cambridge-ma-apartments/cambridge-6137828/)
+**Score:** 8.9/10 | **Sent:** 2026-04-25 06:40 | **Status:** Awaiting reply (5th Douglas Paul thread, consolidated)
+
+| Field | Details |
+|-------|---------|
+| Price | $2,650/mo (BP feed listed $2,534 — actual page is $2,650) |
+| Type | Studio / 1ba |
+| Location | Harvard Square, Cambridge |
+| Available | June 1, 2026 |
+| Features | Water/sewer/garbage/tech fee incl, no broker fee, no pets, no parking |
+| Utilities | Water/sewer/garbage incl; tenant pays heat/HW/electric |
+| Contact | Jehana Ray, Douglas Paul Real Estate |
+| Phone | 617-356-7740 |
+| Email | info@douglaspaulre.com |
+| Listing | https://bostonpads.com/cambridge-ma-apartments/cambridge-6137828/ |
+| Scores | MIT 4/5 | Downtown 5/5 | Price 4/5 | Quality 4/5 | Date 5/5 | +0.5 dual direct |
+| Notes | 5th Douglas Paul touch this week. Email referenced all 4 prior threads (1210 Mass Ave Vargas, Davis 1BR Jin, Harvard studio Vargas, Davis studio Jin). |
+
 ### [$2,400 — Studio Davis Sq (Douglas Paul/Melissa Jin, 6/2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8090046/)
 **Score:** 8.3/10 | **Sent:** 2026-04-23 06:40 | **Status:** Awaiting reply (follow-up to prior Davis 1BR inquiry)
 

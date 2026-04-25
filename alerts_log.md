@@ -2,6 +2,21 @@
 
 Record of all email alerts and outreach messages sent by the agent.
 
+### 2026-04-25 06:40 — ALERT (URGENT, 4 actionable + 2 feed-mismatch corrections)
+- Recipients: kk837@cornell.edu, kb529@cornell.edu
+- Subject: HOUSING URGENT: 4 actionable 8.0+ listings — 2026-04-25 (1 outreach sent, 3 CL relay, 2 feed mismatch)
+- Listings:
+  - [$2,200 Studio Modern Condo Central Sq/MIT (9.6/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-modern-studio-condo-near-mit/7927490346.html) — CL relay grab
+  - [$2,600 1BR Kendall/MIT/Lechmere 6/1 (9.6/10)](https://boston.craigslist.org/gbs/apa/d/cambridge-1-june-spacious-br-ba-walking/7929825001.html) — likely Ava 4/18 repost; CL relay
+  - [$2,650 Studio Harvard Sq (Douglas Paul/Jehana Ray, 6/1, 8.9/10)](https://bostonpads.com/cambridge-ma-apartments/cambridge-6137828/) — outreach sent
+  - [$2,475 1BR Davis Sq 7/1 (8.1/10)](https://boston.craigslist.org/gbs/apa/d/somerville-1best-location-1bd2-min-to/7927424771.html) — CL relay grab
+- Feed mismatches: BP 8088651 (actual $2,600 1BR Mt Auburn), BP 8091829 (actual $4,800 2BR rejected).
+
+### 2026-04-25 06:40 — OUTREACH (Douglas Paul — Jehana Ray Harvard Studio, 5th DP thread)
+- Listing: [$2,650 Harvard Sq Studio 6/1](https://bostonpads.com/cambridge-ma-apartments/cambridge-6137828/)
+- Score: 8.9/10
+- Recipient: info@douglaspaulre.com (Jehana Ray, 617-356-7740) — referenced all 4 prior DP threads in note
+
 ### 2026-04-24 06:40 — ALERT (URGENT, 1 listing scored 8.0+ — same-building as 4/12 ARE thread)
 - Recipients: kk837@cornell.edu, kb529@cornell.edu
 - Subject: HOUSING URGENT: 1 new 8.0+ listing — 2026-04-24 (888 Mass Ave top-floor unit, Aug 1)

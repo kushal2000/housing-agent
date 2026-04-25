@@ -3,6 +3,62 @@
 Promising listings (score 6.0-7.9) awaiting your approval before outreach is sent.
 Reply "yes" next to a listing or drop a Craigslist relay email to approve outreach.
 
+## Added 2026-04-25
+
+### [$2,100 — Studio with private bathroom near MIT (CL)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-with-private-bathroom/7929991108.html)
+Score 7.8/10 | Cambridge near MIT | Date TBD  
+Verify it's a real studio (not a private room with private bath sublet).  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,600 — 1BR Mt Auburn (Towne Realty/Patrick Davoodi, 6/2)](https://bostonpads.com/cambridge-ma-apartments/cambridge-8088651/)
+Score 7.3/10 | Mt Auburn/Brattle/Fresh Pond, Cambridge | June 2, 2026  
+No broker fee. (BP feed mislabeled as Davis studio — corrected after fetch.)  
+Contact: Phone 774-279-5543 (Towne Realty) — no email  
+**Approve?** Reply "yes" if I should add to phone-call list, or skip.
+
+### [$3,200 — 1BR East Somerville (BP 8089933, 7/1)](https://bostonpads.com/somerville-ma-apartments/somerville-8089933/)
+Score 7.2/10 | East Somerville | July 1, 2026  
+No broker fee. East Somerville = walk to Lechmere/Red Line.  
+Contact: BostonPads form  
+**Approve?** Reply "yes" or skip.
+
+### [$2,050 — Studio Allston Greenline B htd 7/1 (CL)](https://boston.craigslist.org/gbs/apa/d/brighton-july-1st-htd-studio-on/7927477939.html)
+Score 6.7/10 | Allston | July 1, 2026  
+Heated, no fee, stainless steel kitchen.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,150 — 1BR Allston upper floor trolley heat+parking (CL)](https://boston.craigslist.org/gbs/apa/d/allston-upper-floor-on-trolley-inc-heat/7927542790.html)
+Score 6.7/10 | Allston | May/June 2026  
+Heat + parking included.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,300 — 1BR Allston no fee dishwasher (CL)](https://boston.craigslist.org/gbs/apa/d/brookline-no-fee-dishwasher-tons-of/7927471107.html)
+Score 6.4/10 | Allston | Date TBD  
+No fee, dishwasher.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,275 — 1BR Allston split on T (CL)](https://boston.craigslist.org/gbs/apa/d/brighton-great-deal-wont-last-long-at/7927478952.html)
+Score 6.4/10 | Allston | Date TBD  
+"Won't last long at this price" — no fee.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,350 — Studio Cambridge .3mi to Red Line 6/1 central AC (CL)](https://boston.craigslist.org/gbs/apa/d/cambridge-studio-3mi-to-the-red-line/7927506287.html)
+Score 6.4/10 | Cambridge | June 1, 2026  
+Laundry on site, central AC.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
+### [$2,250 — Studio Cambridge 8/1 central AC (CL)](https://boston.craigslist.org/gbs/apa/d/cambridge-aug-1st-studio-with-central/7927513964.html)
+Score 6.0/10 | Cambridge | August 1, 2026  
+Central AC, laundry in building.  
+Contact: Craigslist relay only  
+**Approve?** Reply "yes" or drop the CL relay email.
+
 ## Added 2026-04-24
 
 ### [$3,200 — 1BR Porter May/June 1 NO FEE](https://boston.craigslist.org/gbs/apa/d/cambridge-amazing-bed-mins-to-the-may/7929715408.html)
